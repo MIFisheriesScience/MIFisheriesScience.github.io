@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Marine Institute Graduate Program"
+title                    : "Marine Institute Fisheries Graduate Program"
 title_separator          : "-"
 name                     : "Dr. Brett Favaro"
 description              : "Course and program documents associated with the MI Graduate Program"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : @LetsFishSmarter
 facebook:
   username               :
   app_id                 :
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Dr. Brett Favaro"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "https://about.me/brettfavaro"
+  bio              : "Academic Director"
   location         : "St. John's, NL"
   email            :
   uri              :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "@LetsFishSmarter"
   vine             :
   weibo            :
   xing             :
