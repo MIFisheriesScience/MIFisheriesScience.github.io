@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "MI Fisheries Science"
+    url: https://MIFisheriesScience.github.io
+  - title: "6000: Science Communication"
+    url: /FISH6000/
+  - title: "6002: Data management and Display"
+    url: /FISH6002/
+  - title: "6003: Statistics and Study Design"
+    url: /FISH6003/
+  - title: "Program Documents"
+    url: /ProgramDocs/
