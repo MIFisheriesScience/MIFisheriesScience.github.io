@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Testing
+title: Welcome to the program website
 date:   2017-03-10 16:16:01 -0600
-categories: test 
+categories: introduction
 ---
 
-Trying out a post.
+We'll post updates ont his page as we go.

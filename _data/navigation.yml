@@ -1,10 +1,6 @@
 # main links
 main:
-  - title: "6000: Science Commuincation"
-    url: /courses/6000SciComm
-  - title: "6002: Data management and Display"
-    url: /courses/6002Data
-  - title: "6003: Statistics and Study Design"
-    url: /courses/6003Stats
+  - title: "Course materials"
+    url: /courses/
   - title: "Program Documents"
     url: /programdocs/
