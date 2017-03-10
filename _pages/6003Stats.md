@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fish 6003: Statistics and Study Design for Fisheries Science"
-permalink: /6003Stats/
+permalink: /courses/6003Stats/
 author_profile: false
 ---
 

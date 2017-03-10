@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fish 6000: Science Communication for Fisheries"
-permalink: /6000SciComm/
+permalink: /courses/6000SciComm/
 author_profile: false
 ---
 
