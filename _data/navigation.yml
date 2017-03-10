@@ -3,8 +3,8 @@ main:
   - title: "6000: Science Commuincation"
     url: /courses/6000SciComm
   - title: "6002: Data management and Display"
-    url: /FISH6002/6002Data
+    url: /courses/6002Data
   - title: "6003: Statistics and Study Design"
-    url: /FISH6003/6003Stats
+    url: /courses/6003Stats
   - title: "Program Documents"
     url: /programdocs/
