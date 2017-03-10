@@ -2,11 +2,11 @@
 main:
   - title: "MI Fisheries Science"
     url: https://MIFisheriesScience.github.io
-  - title: "6000: Science Communication"
-    url: /FISH6000/
+  - title: "6000: Sci Comm"
+    url: /courses/6000SciComm
   - title: "6002: Data management and Display"
-    url: /FISH6002/
+    url: /FISH6002/6002Data
   - title: "6003: Statistics and Study Design"
-    url: /FISH6003/
+    url: /FISH6003/6003Stats
   - title: "Program Documents"
-    url: /ProgramDocs/
+    url: /programdocs/
