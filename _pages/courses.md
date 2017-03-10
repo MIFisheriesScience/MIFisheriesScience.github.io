@@ -9,28 +9,32 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/SplashImage.png
-  cta_label: "Download"
-  cta_url: "https://mifisheriesscience.github.io/"
   caption: "Test"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Documents for MI Fisheries Science graduate program courses."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Navigate to the relevant course page below'
 feature_row:
-  - image_path: assets/images/FISH6000.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/FISH6001.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+  - image_path: /assets/images/FISH6000.png
+    alt: "FISH 6000: Science Communcation for Fisheries"
+    title: "FISH 6000: Science Communcation for Fisheries"
+    excerpt: "Course documents for **FISH 6000**."
+    url: /courses/6000SciComm/FISH6000.md
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/FISH6002.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
+    alt: "FISH 6002: Data Collection, Management, and Display"
+    title: "FISH 6002: Data Collection, Management, and Display"
+    excerpt: "Course documents for **FISH 6002**."
+    url: /courses/6002Data/FISH6002.md
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/FISH6003.png
+    alt: "FISH 6003: Statistics and Study Design for Fisheries Science"
+    title: "FISH 6003: Statistics and Study Design for Fisheries Science"
+    excerpt: "Course documents for **FISH 6003**"
+    url: /courses/6003Stats/FISH6003.md
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 
 ---
 
