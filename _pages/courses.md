@@ -2,7 +2,7 @@
 title: "Courses"
 layout: splash
 author_profile: true
-permalink: /courses/
+permalink: "/courses/"
 
 date: 2017-03-10T13:36:00-03:30
 header:
