@@ -18,7 +18,7 @@ feature_row:
     alt: "FISH 6000: Science Communcation for Fisheries"
     title: "FISH 6000: Science Communcation for Fisheries"
     excerpt: "Course documents for **FISH 6000**."
-    url: /courses/6000SciComm/
+    url: /FISH6000/
     btn_label: "Enter Course"
     btn_class: "btn--inverse"
   - image_path: /assets/images/FISH6002.png
