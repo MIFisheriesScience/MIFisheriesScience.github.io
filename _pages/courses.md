@@ -1,7 +1,7 @@
 ---
 title: "Courses"
 layout: splash
-author_profile: true
+author_profile: false
 permalink: /courses/
 
 date: 2017-03-10T13:36:00-03:30
@@ -18,22 +18,22 @@ feature_row:
     alt: "FISH 6000: Science Communcation for Fisheries"
     title: "FISH 6000: Science Communcation for Fisheries"
     excerpt: "Course documents for **FISH 6000**."
-    url: /courses/6000SciComm/FISH6000.md
-    btn_label: "Read More"
+    url: /courses/6000SciComm/
+    btn_label: "Enter Course"
     btn_class: "btn--inverse"
   - image_path: /assets/images/FISH6002.png
     alt: "FISH 6002: Data Collection, Management, and Display"
     title: "FISH 6002: Data Collection, Management, and Display"
     excerpt: "Course documents for **FISH 6002**."
     url: /courses/6002Data/FISH6002.md
-    btn_label: "Read More"
+    btn_label: "Enter Course"
     btn_class: "btn--inverse"
   - image_path: /assets/images/FISH6003.png
     alt: "FISH 6003: Statistics and Study Design for Fisheries Science"
     title: "FISH 6003: Statistics and Study Design for Fisheries Science"
     excerpt: "Course documents for **FISH 6003**"
     url: /courses/6003Stats/FISH6003.md
-    btn_label: "Read More"
+    btn_label: "Enter Course"
     btn_class: "btn--inverse"
 
 ---
