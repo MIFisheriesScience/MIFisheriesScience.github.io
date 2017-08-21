@@ -16,21 +16,21 @@ intro:
 feature_row:
   - image_path: /assets/images/FISH6000.png
     alt: "FISH 6000: Science Communcation for Fisheries"
-    title: "FISH 6000: Science Communcation for Fisheries"
+    title: "Science Communcation for Fisheries"
     excerpt: "Course documents for **FISH 6000**."
     url: /courses/6000SciComm/
     btn_label: "Enter Course"
     btn_class: "btn--inverse"
   - image_path: /assets/images/FISH6002.png
     alt: "FISH 6002: Data Collection, Management, and Display"
-    title: "FISH 6002: Data Collection, Management, and Display"
+    title: "Data Collection, Management, and Display"
     excerpt: "Course documents for **FISH 6002**."
     url: /courses/6002Data/
     btn_label: "Enter Course"
     btn_class: "btn--inverse"
   - image_path: /assets/images/FISH6003.png
     alt: "FISH 6003: Statistics and Study Design for Fisheries Science"
-    title: "FISH 6003: Statistics and Study Design for Fisheries Science"
+    title: "Statistics and Study Design for Fisheries Science"
     excerpt: "Course documents for **FISH 6003**"
     url: /courses/6003Stats/
     btn_label: "Enter Course"
