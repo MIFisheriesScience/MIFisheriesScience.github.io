@@ -1,20 +1,21 @@
 ---
 layout: single
 title: "Fish 6000: Science Communication for Fisheries"
-permalink: /courses/6000SciComm/
+permalink: /courses/6000SciComm
 author_profile: false
 ---
 
 Welcome to Science Communication
 
-[Course Syllabus]
+[Course Syllabus](/courses/6000SciComm/6000Syllabus/)
+
 
 ## Placeholder Table
 
 
 | **Week**  | **Theme**  | **Link**  | 
 |-----------|------------|-------------|
-| 1         | Test       | [Test](http://www.google.ca)|
+| 1         | Test       | [Test](/courses/6001SciComm/6000Week1/)|
 |2| Test2 | [Test2](http://www.cnn.com)|
 |3| Week 3| URL|
 |4| Week 4| URL|
