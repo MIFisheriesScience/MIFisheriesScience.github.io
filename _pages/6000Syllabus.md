@@ -9,11 +9,10 @@ author_profile: false
 
 This course will train students in the full spectrum of science communication. The fundamentals of scientific writing, academic publishing, and oral and poster presentations will comprise the first half of the course. The second half will focus on communicating outside the academic environment, and how to responsibly disseminate research across a range of media.
 
-**Classroom:** W3033/35
-**Times:** Mondays 0900-1200
-**Office Hours:** Thursday 0900-1200, W2009
-
-**Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
+- **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
+- **Classroom:** W3033/35
+- **Times:** Mondays 0900-1200
+- **Office Hours:** Thursday 0900-1200, W2009
 
 # Learning Outcomes
 On completion of this course, students will

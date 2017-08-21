@@ -1,14 +1,14 @@
 ---
 layout: single
 title: "Fish 6000: Science Communication for Fisheries"
-permalink: /courses/6000SciComm
+permalink: /6000SciComm
 author_profile: false
 ---
 
 Welcome to Science Communication
 
 [Course Syllabus](6000Syllabus)
-t
+
 
 ## Placeholder Table
 
