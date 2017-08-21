@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fish 6000 Syllabus"
-permalink: /Fish6000Syllabus
+permalink: /6000Syllabus
 author_profile: false
 ---
 
