@@ -1,21 +1,20 @@
 ---
 layout: single
-title: "Fish 6002: Data Management, Collection, and Display"
+title: "Fish 6000: Science Communication for Fisheries"
 permalink: /courses/6000SciComm/
 author_profile: false
 ---
-Temporary text: Data
+Welcome to Sci Comm
 
 Include a link to the syllabus
 
-TEST
 
 ## Placeholder Table
 
 
 | **Week**  | **Theme**  | **Link**  | 
 |-----------|------------|-------------|
-| 1         | Test       | [Test](/courses/6000SciComm/6000Week1/)|
+| 1         | The Production of Knowledge | [Test](/courses/6000SciComm/6000Week1/)|
 |2| Test2 | [Test2](http://www.cnn.com)|
 |3| Week 3| URL|
 |4| Week 4| URL|
