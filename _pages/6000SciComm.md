@@ -8,13 +8,11 @@ Welcome to Sci Comm
 
 Include a link to the syllabus
 
+## Weekly Schedule
 
-## Placeholder Table
-
-
-| **Week**  | **Theme**  | **Link**  | 
-|-----------|------------|-------------|
-| 1         | The Production of Knowledge | [Test](/courses/6000SciComm/6000Week1/)|
+| **Week** | Date | **Theme**  | **Link**  | 
+|----------|------|------------|------------|
+| 1         | September 11, 2017 | The Production of Knowledge | [Test](/courses/6000SciComm/6000Week1/)|
 |2| Test2 | [Test2](http://www.cnn.com)|
 |3| Week 3| URL|
 |4| Week 4| URL|
