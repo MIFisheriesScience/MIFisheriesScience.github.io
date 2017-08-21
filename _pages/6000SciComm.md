@@ -5,9 +5,9 @@ permalink: /courses/6000SciComm/
 author_profile: false
 ---
 
-Temporary text: Sci Comm
+Welcome to Science Communication
 
-Include a link to the syllabus
+[Course Syllabus]
 
 ## Placeholder Table
 
