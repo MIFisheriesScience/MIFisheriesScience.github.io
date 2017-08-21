@@ -7,7 +7,7 @@ author_profile: false
 
 Welcome to Science Communication
 
-[Course Syllabus](/courses/6000SciComm/6000Syllabus/)
+[Course Syllabus](6000Syllabus)
 t
 
 ## Placeholder Table
