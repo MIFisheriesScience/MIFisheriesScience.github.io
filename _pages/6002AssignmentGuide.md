@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Fish 6002 Assignment Guide"
-permalink: /courses/6002Data/6002AssignmentGuide
+title: "FISH 6002 Assignment Guide"
+permalink: /courses/6002Data/6002Assignmentguide
 author_profile: false
 ---
 

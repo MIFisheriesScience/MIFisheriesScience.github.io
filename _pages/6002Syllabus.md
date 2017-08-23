@@ -19,7 +19,7 @@ By the end of this course, students will develop a working competency of R Stati
 
 Students will also develop the following specific competencies:
 
-###Data collection
+### Data collection
 
 * Understand the wide diversity of data that one may collect within fisheries science
 * Understand "Tidy data"
@@ -29,7 +29,7 @@ Students will also develop the following specific competencies:
 * Familiarity with best practices in recording data in the field, and preventing loss between collection and analysis
 * Understand how to acquire and use data from databases
 
-###Data management
+### Data management
 
 * Understand metadata, archiving, and how to build an efficient project workflow
 * Able to create and implement a data management plan
@@ -39,7 +39,7 @@ Students will also develop the following specific competencies:
 * Able to produce reproducible, well-documented R code
 * Understand the concept of open data
 
-###Data display
+### Data display
 
 * Able to communicate data visually, selecting the appropriate figure to represent data
 * Familiarity with both R base plots and the ggplot2 ecosystem

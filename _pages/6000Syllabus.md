@@ -89,13 +89,13 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 ##  Week 3: Anatomy of a Science Paper (Part 1) - Sept 25
 ##  Week 4: Proposals - Oct 2
 ##  Week 5: Anatomy of a Science Paper (Part 2) - WED Oct 11
-##  Week 6: Oral Talks - Oct 16
+##  Week 6: Oral Presentations - Oct 16
 ##  Week 7: Posters - Oct 23
 ##  Week 8: Practicing Safe Science Communication - Oct 30
 ##  Week 9: Popular Writing - Nov 6 
-##  Week 10: Press Releases - FRI Nov 17
+##  Week 10: Radio, Podcasts, and Interviews - FRI Nov 17
 ##  Week 11: Policy Briefs - Nov 20
-##  Week 12: Using your Voice: Radio and Podcasts - Nov 27
+##  Week 12: Recap and Wrap-Up - Nov 27
 
 # Assignments and Grading
 
