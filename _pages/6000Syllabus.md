@@ -56,7 +56,7 @@ Olson, Randy (2015). *Houston, We Have a Narrative: Why Science Needs Story*. Ch
 Students are welcome to tweet about the course using the hashtag #MISciComm - but the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule%20) is in effect. That means you **may not reveal the identity of the person speaking** in your tweets without their express permission. We want to encourage people to actively participate and make mistakes without fear of their mishaps being broadcast acrosst he world. 
 
 ## Code of Conduct
-You have the right to expect a supportive, safe environment in this course. This course will be governed by our Fisheries Science Code of Conduct, which all participants are expected to respect.
+You have the right to expect a supportive, safe environment in this course. This course will be governed by my [Fisheries Science Code of Conduct](/courses/coursesCodeofConduct), which all participants are expected to respect.
 
 ## Digital Competency
 Students are expected to have basic computer competency. You should be able to operate Microsoft Word, Powerpoint, and Excel, or equivalent (e.g. [OpenOffice](https://www.openoffice.org/) or [Google Docs](https://docs.google.com/)). You should be able to download and install software onto your computer. If you lack these skills, please consult [training materials](https://www.microsoft.com/en-us/learning/training.aspx) prior to beginning the course. **Please bring a laptop to every class.**
@@ -82,8 +82,6 @@ So please, don't make it part of your plan to miss class!
 
 ## Academic Honesty
 This course is governed by MUN's [regulations on academic misconduct](http://www.mun.ca/regoff/calendar/sectionNo=REGS-0748).
-
-\newpage
 
 # Course Schedule
 ##  Week 1: The Production of Knowledge - Sept 11

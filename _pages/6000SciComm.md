@@ -10,9 +10,9 @@ Our class meets once per week (Mondays, 9 AM to 12 PM) in W3033/35.
 ## Course documents 
 
 - [Course syllabus - HTML](/courses/6000SciComm/6000Syllabus/) and [PDF](/assets/images/FISH_6000_Syllabus.pdf)
-- Assignment guide - HTML and PDF
-- Graphical assignment summary - PDF
-- Class code of conduct - HTML and PDF
+- [Assignment guide - HTML](/courses/6000SciComm/FISH6000Assignmentguide/) and [PDF](/assets/images/FISH_6000_Assignment_guide.pdf)
+- [Graphical assignment summary - PDF](/assets/images/GraphicalSummary.pdf)
+- [Class code of conduct - HTML](/courses/coursesCodeofConduct/) and [PDF](/assets/images/FISHCodeofConduct.pdf)
 
 ## Course Content
 
