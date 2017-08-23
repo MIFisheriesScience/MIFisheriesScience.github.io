@@ -4,15 +4,18 @@ title: "Fish 6000: Science Communication for Fisheries"
 permalink: /courses/6000SciComm/
 author_profile: false
 ---
+
 Welcome to Sci Comm
 
-Include a link to the syllabus
+[Course syllabus](/courses/6000SciComm/6000Syllabus/)
 
-## Weekly Schedule
 
-| **Week** | Date | **Theme**  | **Link**  | 
-|----------|------|------------|------------|
-| 1         | September 11, 2017 | The Production of Knowledge | [Test](/courses/6000SciComm/6000Week1/)|
+## Placeholder Table
+
+
+| **Week**  | **Date** | **Theme**  |
+|-----------|------------|-------------|
+| 1         | [The Production of Knowledge](/courses/6000SciComm/6000Week1/) |
 |2| Test2 | [Test2](http://www.cnn.com)|
 |3| Week 3| URL|
 |4| Week 4| URL|
