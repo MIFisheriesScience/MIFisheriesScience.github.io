@@ -16,7 +16,7 @@ Our class meets once per week (Mondays, 9 AM to 12 PM) in W3033/35.
 
 ## Course Content
 
-Slides will be published prior to each lecture. 
+Slides will be published prior to each lecture, and can be accessed from the links below.
 
 These slides are designed to be viewed on a computer - **not printed.** They contain hyperlinks to relevant content.
 
