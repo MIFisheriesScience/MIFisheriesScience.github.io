@@ -14,6 +14,8 @@ Our class meets once per week (Mondays, 9 AM to 12 PM) in W3033/35.
 - [Graphical assignment summary - PDF](/assets/images/GraphicalSummary.pdf)
 - [Class code of conduct - HTML](/courses/coursesCodeofConduct/) and [PDF](/assets/images/FISHCodeofConduct.pdf)
 
+TESTING AN ERROR
+
 ## Course Content
 
 Slides will be published prior to each lecture, and can be accessed from the links below.

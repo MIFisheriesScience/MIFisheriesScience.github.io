@@ -115,5 +115,5 @@ Poster     |  Week 7    | Week 8   | 5%
 Popular Article   |  Week 9    | Week 11   | 15%
 Podcast  |  Week 10    | Week 12   | 15%
 
-Please see the [Assignment Guide](http://mifisheriesscience.github.io/courses/6000SciComm/6000AssignmentGuide/) for more information           
+Please see the [Assignment Guide](http://mifisheriesscience.github.io/courses/6000SciComm/FISH6000Assignmentguide/) for more information           
           
