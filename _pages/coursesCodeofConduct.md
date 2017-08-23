@@ -10,7 +10,7 @@ author_profile: false
 
 Research is hard, and you will spend a lot of time outside your comfort zone during your time at the Marine Institute. In return, you have the right to expect a **safe and inclusive** space.
 
-To that end, all students, staff, and faculty associated with courses instructed by Dr. Brett Favaro are expected to comply with the following Code of Conduct, adapted from @Favaro. Note that this code is in addition to Memorial University's existing [Student Code of Conduct](http://www.mun.ca/student/sscm/conduct/).
+To that end, all students, staff, and faculty associated with courses instructed by Dr. Brett Favaro are expected to comply with the following Code of Conduct, adapted from [Favaro, Oester, et al (2016)](http://journal.frontiersin.org/article/10.3389/fmars.2016.00103/full). Note that this code is in addition to Memorial University's existing [Student Code of Conduct](http://www.mun.ca/student/sscm/conduct/).
 
 **Expected Behaviour**
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fish 6000 Assignment Guide"
-permalink: /Fish6000Assignmentguide
+permalink: /courses/6000SciComm/Fish6000Assignmentguide
 author_profile: false
 ---
 
