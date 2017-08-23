@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fish 6000 Assignment Guide"
-permalink: /courses/6000SciComm/Fish6000Assignmentguide
+permalink: /courses/6000SciComm/FISH6000Assignmentguide/
 author_profile: false
 ---
 
@@ -48,8 +48,6 @@ You will make your first entry in Week 3. You will have time in class each week 
 Fill out one entry per week, for a total of 10 entries (weeks 3-12 inclusive). 
 
 Each entry is worth 1/10. 
-
-\newpage
 
 # Proposal
 
@@ -144,8 +142,6 @@ A complete scientific poster, which will be displayed via projector in class. Yo
 
 Additional details on specific grading criteria TBA.
 
-\newpage
-
 # Popular Article
 Your research in fisheries likely affects a great many people, most of whom will never read a scientific article. In this assignment, we will practice writing for mainstream audiences - communicating science in a way that is digestible by a non-expert on the topic.
 
@@ -176,8 +172,6 @@ An article, written for a non-academic outlet, that explains your proposed resea
   * Effectively communicates the proposed research /5
 
 **NOTE:** If you can get your finished article accepted for publication (not counting Wikipedia), I will give you 100% on this assignment. 
-
-\newpage
 
 # Podcast
 In this assignment, you will produce a one-minute voice-only summary of your thesis research. Much like the popular writing assignment, you need to communicate what you're trying to do, what you think you may find, and why it matters. But this time, you have only your voice to do it.
