@@ -22,7 +22,7 @@ These slides are designed to be viewed on a computer - **not printed.** They con
 
 | **Week**  | **Date** | **Theme**  |
 |-----------|------------|-------------|
-| 1         | September 11, 2017 | [The Production of Knowledge](/courses/6000SciComm/6000Week1/) |
+| 1         | September 11, 2017 | [The Production of Knowledge](/courses/6000SciComm/FISH6000Week1/) |
 |2| September 18, 2017 | [The Science Publishing Ecosystem](/courses/6000SciComm/6000Week2/) |
 |3| September 25, 2017 | [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week3/) | 
 |4| October 2, 2017| Proposals |
