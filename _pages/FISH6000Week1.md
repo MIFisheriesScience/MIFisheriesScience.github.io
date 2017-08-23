@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Week 1: The Production of Knowledge"
-permalink: /courses/6000SciComm/6000Week1/
+permalink: /courses/6000SciComm/FISH6000Week1/
 author_profile: false
 
 ---
