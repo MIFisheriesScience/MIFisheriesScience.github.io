@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fish 6000 Syllabus"
-permalink: /6000Syllabus
+permalink: /courses/6000SciComm/6000Syllabus/
 author_profile: false
 ---
 
