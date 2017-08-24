@@ -18,7 +18,7 @@ W: 09:00-11:00 W2058
 
 # Course Schedule
 
-Note that while this course is *organized* by [Dr. Brett Favaro](http://about.me/brettfavaro) it is delivered in two-week modules, as outlined below.
+Note while this course is *organized* by [Dr. Brett Favaro](http://about.me/brettfavaro) it is delivered in two-week modules by other researchers, as outlined below.
 
 | Date | Instructor | Topic |
 |------------------------------|---------------------|----------------------------------|
