@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "FISH 6001: Ecology, Management, and Practice of North Atlantic Fisheries Syllabus
+title: "FISH 6001 Syllabus"
 permalink: /courses/6001Ecology/6001Syllabus/
 author_profile: false
 ---
+
+# Ecology, Management, and Practice of North Atlantic Fisheries
 
 - **Course Manager**: [Dr. Brett Favaro](http://about.me/brettfavaro)
 - **Classroom:** T:W3033/35, W:W2058

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Fish 6002 Syllabus"
+title: "FISH 6002 Syllabus"
 permalink: /courses/6002Data/6002Syllabus/
 author_profile: false
 ---

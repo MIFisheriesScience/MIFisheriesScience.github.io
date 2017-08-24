@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Fish 6000 Syllabus"
+title: "FISH 6000 Syllabus"
 permalink: /courses/6000SciComm/6000Syllabus/
 author_profile: false
 ---
