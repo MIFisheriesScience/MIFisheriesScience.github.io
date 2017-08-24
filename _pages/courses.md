@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/SplashImage.png
   caption: "FISH Course Documentation"
-excerpt: "Documents for Brett Favaro's graduate courses"
+excerpt: "Documents for MI Fisheries Science Graduate Courses"
 intro: 
   - excerpt: 'Navigate to the relevant course page below'
 feature_row:
@@ -19,6 +19,13 @@ feature_row:
     title: "Science Communcation for Fisheries"
     excerpt: "Course documents for **FISH 6000**."
     url: /courses/6000SciComm/
+    btn_label: "Enter Course"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/FISH6001.png
+    alt: "FISH 6001: Ecology, Management, and Practice of North Atlantic Fisheries"
+    title: "Ecology, Management, and Practice of North Atlantic Fisheries"
+    excerpt: "Course documents for **FISH 6001**."
+    url: /courses/6001Ecology/
     btn_label: "Enter Course"
     btn_class: "btn--inverse"
   - image_path: /assets/images/FISH6002.png
