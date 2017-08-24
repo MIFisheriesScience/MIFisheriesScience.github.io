@@ -14,11 +14,9 @@ Our class meets once per week (Mondays, 9 AM to 12 PM) in W3033/35.
 - [Graphical assignment summary - PDF](/assets/images/GraphicalSummary.pdf)
 - [Class code of conduct - HTML](/courses/coursesCodeofConduct/) and [PDF](/assets/images/FISHCodeofConduct.pdf)
 
-TESTING AN ERROR
-
 ## Course Content
 
-Slides will be published prior to each lecture, and can be accessed from the links below.
+My goal will be to publish slides by Friday prior to each lecture. Slides can be accessed from the links below.
 
 These slides are designed to be viewed on a computer - **not printed.** They contain hyperlinks to relevant content.
 
@@ -37,3 +35,4 @@ These slides are designed to be viewed on a computer - **not printed.** They con
 |11| November 20, 2017 | Policy Briefs |
 |12| November 27, 2017 | Recap and Wrap-Up |
 
+[iCalendar file for FISH 6000](/assets/images/FISH_6000_Calendar.ics)
