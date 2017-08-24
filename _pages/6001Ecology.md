@@ -13,7 +13,7 @@ W: 09:00-11:00 W2058
 
 ## Course documents 
 
-- Course syllabus - HTML and [PDF](/assets/images/FISH_6001_Syllabus.pdf)
+- [Course syllabus - HTML]((/courses/6001Ecology/6001Syllabus/) and [PDF](/assets/images/FISH_6001_Syllabus.pdf)
 - [Assignment guide - HTML](/courses/6001Ecology/6001AssignmentGuide/) and [PDF](/assets/images/FISH_6001_Assignment_guide.pdf)
 
 # Course Schedule
