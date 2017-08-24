@@ -35,7 +35,9 @@ Code that is shared for this assignment must be fully reproducible and extensive
 
 ## Timeline
 Week 1: Identify your partner
+
 By Week 3: Select topics. Review with instructor.
+
 Starting week 4: One group per week will present.
 
 ## Value: 20% of course grade

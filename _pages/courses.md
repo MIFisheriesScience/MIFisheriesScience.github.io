@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/SplashImage.png
   caption: "FISH Course Documentation"
-excerpt: "Documents for MI Fisheries Science graduate program courses."
+excerpt: "Documents for Brett Favaro's graduate courses"
 intro: 
   - excerpt: 'Navigate to the relevant course page below'
 feature_row:

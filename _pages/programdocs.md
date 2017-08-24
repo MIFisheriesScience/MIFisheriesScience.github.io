@@ -1,17 +1,16 @@
 ---
 layout: single
-title: "Graduate Program Documents"
+title: "Fisheries Science Graduate Program Documents"
 permalink: /programdocs/
 author_profile: true
 ---
 
-## Important Documents and Links
+## Important Links for students
 
-| **Document**  | **What it's for**| **Link**  | 
-|-----------|------------|-------------|
-| Graduate Handbook      |        | [PDF](http://www.google.ca)|
-|2| Test2 | [Test2](http://www.cnn.com)|
-|3| Week 3| URL|
-|4| Week 4| URL|
+- Graduate Handbook
+- [Marine Institute School of Fisheries graduate programs](https://www.mi.mun.ca/programsandcourses/programs-graduatelevel/)
+- [List of prospective supervisors at the Marine Institute](https://www.mi.mun.ca/researchsupervisors/)
+- [Memorial University School of Graduate Studies](https://www.mun.ca/sgs/)
+- [SGS Forms for students and faculty](http://www.mun.ca/sgs/go/Forms_GOS/)
 
-
+Cod clipart is from [Clipartsfree.net](http://www.clipartsfree.net/svg/23277-cod-fish-vector.html)
