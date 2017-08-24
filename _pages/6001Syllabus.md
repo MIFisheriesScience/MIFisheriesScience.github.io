@@ -12,7 +12,7 @@ author_profile: false
 
 # Course Description
 
-In this overview course on fisheries science, several researchers from the School of Fisheries will deliver two week modules on their areas of expertise. Students will be exposed to the diversity of research conducted at MI - including fisheries ecology, conservation and sustainability, harvesting technology, post-capture processing, and fisheries policy.
+In this overview course on fisheries science, researchers from the School of Fisheries will deliver two week modules on their areas of expertise. Students will be exposed to the diversity of research conducted at MI - including fisheries ecology, conservation and sustainability, harvesting technology, post-capture processing, and fisheries policy.
 
 # Course Instructors
 
