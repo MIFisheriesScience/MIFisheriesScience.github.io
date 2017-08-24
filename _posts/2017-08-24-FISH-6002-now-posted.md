@@ -1,6 +1,6 @@
 ---
 layout: single
-title: FISH 6000 content now posted
+title: FISH 6002 content now posted
 date:   2017-08-24 08:32:01 -0600
 #categories: 
 ---
