@@ -24,7 +24,7 @@ Throughout the course you will learn about many aspects of fisheries science. Yo
 
 Select a fishery from the list of North Atlantic fisheries below. This is the fishery that you will conduct your project on. 
 
-Inform Dr. Favaro which fishery you will study by the end of Week 2. We ask that there be no duplicates, and fisheries are first-come-first-serve. So if you really want to look at one particular fishery you had better pick fast!
+**Inform Dr. Favaro which fishery you will study by the end of Week 2**. We ask that there be no duplicates, and fisheries are first-come-first-serve. So if you really want to look at one particular fishery you had better pick fast!
 
 You may propose another fishery in the North Atlantic region if it is not included in this list. Be prepared to give a brief overview of the fishery and demonstrate that there is sufficient information available about the fishery on which to base a full assignment. 
 

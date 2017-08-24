@@ -8,13 +8,13 @@ author_profile: false
 This course meets twice per week:
 
 T: 11:00-13:00 W3033/35
+
 W: 09:00-11:00 W2058
 
 ## Course documents 
 
 - [Course syllabus - HTML](/courses/6001Ecology/6001Syllabus/) and [PDF](/assets/images/FISH_6001_Syllabus.pdf)
-- [Assignment guide - HTML](/courses/6001Ecology/FISH6001AssignmentGuide/) and [PDF](/assets/images/FISH_6001_Assignment_guide.pdf)
-- [Graphical assignment summary - PDF](/assets/images/GraphicalSummary.pdf)
+- [Assignment guide - HTML](/courses/6001Ecology/6001AssignmentGuide/) and [PDF](/assets/images/FISH_6001_Assignment_guide.pdf)
 
 # Course Schedule
 
