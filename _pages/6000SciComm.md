@@ -34,5 +34,3 @@ These slides are designed to be viewed on a computer - **not printed.** They con
 |10| **Fri** November 17, 2017 | Radio, Podcasts, and Interviews |
 |11| November 20, 2017 | Policy Briefs |
 |12| November 27, 2017 | Recap and Wrap-Up |
-
-[iCalendar file for FISH 6000](/assets/images/FISH_6000_Calendar.ics)
