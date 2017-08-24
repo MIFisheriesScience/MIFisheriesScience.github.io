@@ -53,15 +53,13 @@ Students will also develop the following specific competencies:
 
 Look, I get it - very few people go into fisheries or biological sciences because they want to program all day long. But the reality is that computer competency is a core skill - just like reading and writing - for the modern scientist, and you are no different. But if you build these skills early on, then you will actually spend less time overall struggling to make your way throught the digital landscape of science.
 
-My goals for you is to emerge with two skillsets. First: the ability to **efficiently collect, store, and prepare data for analysis and display**  Second: To be able to **create beautiful and effective visual depictions of data** using R and the ggplot2 package.
+My goal for you is to emerge with two skillsets. First: the ability to **efficiently collect, store, and prepare data for analysis and display**  Second: To be able to **create beautiful and effective visual depictions of data** using R and the ggplot2 package.
 
 My expectation is that if this is all new to you, that you keep up with the course and seek help proactively when needed. If you're more advanced, my hope is that you share your knowledge with the rest of the class, so that we can all become more effective at these critical skills needed to succeed in science.
 
 # Course Structure
 
-The course will meet twice weekly - one 1-hr block and one 2-hr block. Speaking generally, the 1-hr block will primarily consist of a lecture that introduces you to the concepts on which we will focus during that week. The 2-hr block will consist of a short introductory talk focused on how to operationalize this knowledge. 
-
-\newpage
+The course will meet twice weekly - one 2-hr block and one 1-hr block. Speaking generally, we will spend about 1 hour of lecture introducing the theory behind the week's activities. The remaining two hours will be spent on how to actually use this knowledge in the conduct of research. 
 
 # Reference Books
 
@@ -119,8 +117,6 @@ So please, don't make it part of your plan to miss class!
 
 ## Academic Honesty
 This course is governed by MUN's [regulations on academic misconduct](http://www.mun.ca/regoff/calendar/sectionNo=REGS-0748).
-
-\newpage
 
 # Course Schedule
 ##  Week 1: Data and Software in Fisheries - Sept 11/12
