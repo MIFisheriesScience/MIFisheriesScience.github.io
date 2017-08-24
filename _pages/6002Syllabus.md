@@ -123,7 +123,7 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 ##  Week 2: Introduction to R - Sept 18/19
 ##  Week 3: Intro to Tidy Data - Sept 25/26
 ##  Week 4: Visual Display of Data 1 - Oct 2/3
-##  Week 5: Working with Messy Data - Oct 12/13
+##  Week 5: Working with Messy Data - Oct 11/12
 ##  Week 6: Collecting and Managing Tidy Data - Oct 16/17
 ##  Week 7: Visual Display of Data 2 - Oct 23/24
 ##  Week 8: Visual Display of Data 3 - Oct 30/31
