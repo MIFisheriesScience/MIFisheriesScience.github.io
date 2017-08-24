@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "FISH 6001: Ecology, Management, and Practice of North Atlantic Fisheries Syllabus
-permalink: /courses/6001Ecology/6001Syllabus/
+permalink: /courses/6001Ecology/6001syllabus/
 author_profile: false
 ---
 
