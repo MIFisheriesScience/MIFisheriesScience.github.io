@@ -22,7 +22,9 @@ Throughout the course you will learn about many aspects of fisheries science. Yo
 
 ## Select a Fishery
 
-Select a fishery from the list of North Atlantic fisheries below. This is the fishery that you will conduct your project on. 
+Select a fishery that primarily takes place in the North Atlantic. If you need inspiration, [consult this list](http://www.oceana.ca/en/publications/reports/heres-catch-how-restore-abundance-canadas-oceans) of Canadian fisheries. [Its appendix](http://www.oceana.ca/sites/default/files/canadas_marine_fisheries_individual_stocks_appendix_c.pdf) includes basic information about each stock, as well as the location at which it takes place.
+
+Choose wisely: this is the fishery that you will conduct your project on. 
 
 **Inform Dr. Favaro which fishery you will study by the end of Week 2**. We ask that there be no duplicates, and fisheries are first-come-first-serve. So if you really want to look at one particular fishery you had better pick fast!
 
