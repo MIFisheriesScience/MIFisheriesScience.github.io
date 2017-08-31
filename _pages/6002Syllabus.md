@@ -5,7 +5,7 @@ permalink: /courses/6002Data/6002Syllabus/
 author_profile: false
 ---
 
-# Data Collection, Manipulation, and Display
+# Data Collection, Management, and Display
 
 - **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
 - **Classroom:** W3029/31
