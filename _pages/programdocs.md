@@ -7,7 +7,7 @@ author_profile: true
 
 ## Important Links for students
 
-- Graduate Handbook
+- [SOF Graduate Handbook](/assets/images/SOF_handbook.pdf)
 - [Marine Institute School of Fisheries graduate programs](https://www.mi.mun.ca/programsandcourses/programs-graduatelevel/)
 - [List of prospective supervisors at the Marine Institute](https://www.mi.mun.ca/researchsupervisors/)
 - [Memorial University School of Graduate Studies](https://www.mun.ca/sgs/)
