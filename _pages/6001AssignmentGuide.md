@@ -70,21 +70,21 @@ Your talk should be no more than 20 minutes in length, with 10 minutes allocated
 
 ## Grading
 
-Grading for this assignment will be based on the Canadian Conference for Fisheries Research rubric for judging student talks:
+Grading for this assignment will be based on a modified version of the Canadian Conference for Fisheries Research rubric for judging student talks:
 
-### Delivery: 20
+### Delivery: 15
 
 - Speak clearly, make eye contact with audience. Speak with intention 
 - Face the audience, be engaging
 - Aim for smooth and clear delivery
 - Notes are okay, particularly if English is not your first language, but do not read directly from them
 
-### Organization: 20
+### Organization: 15
 
 - Presentation should be logically organized
 - The seminar should emphasize flow and synthesis - not mere lists of information
 
-### Visual aids: 20
+### Visual aids: 15
 
 - Slides should be clear, with large font, and uncluttered
 - All sources should be cited appropriately
