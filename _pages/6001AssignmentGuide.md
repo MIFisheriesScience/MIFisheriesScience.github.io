@@ -70,6 +70,8 @@ Your talk should be no more than 20 minutes in length, with 10 minutes allocated
 
 ## Grading
 
+Grading for this assignment will be based on the Canadian Conference for Fisheries Research rubric for judging student talks:
+
 ### Delivery: 20
 
 - Speak clearly, make eye contact with audience. Speak with intention 
@@ -110,7 +112,7 @@ Your talk should be no more than 20 minutes in length, with 10 minutes allocated
 
 ### Assessors
 
-All six module instructors plus Dr. Favaro will grade your talk. The top and bottom marks will be eliminated, and the median grade of the remaining five assessments in each category will be used. The rubric will be as follows (and is adapted from the Canadian Conference For Fisheries Research judgment criteria for student talks):
+All six module instructors plus Dr. Favaro will grade your talk. The top and bottom marks will be eliminated, and the median grade of the remaining five assessments in each category will be used. 
 
 ### Audience
 
