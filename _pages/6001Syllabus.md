@@ -8,7 +8,7 @@ author_profile: false
 # Ecology, Management, and Practice of North Atlantic Fisheries
 
 - **Course Manager**: [Dr. Brett Favaro](http://about.me/brettfavaro)
-- **Classroom:** T:W3033/35, W:W2058
+- **Classroom:** T:W3033/35, W:W2058 (Unless otherwise specified by instructor)
 - **Times:** T: 11:00-13:00, W:09:00-11:00
 - **Office Hours:** Thursday 0900-1200, W2009
 
