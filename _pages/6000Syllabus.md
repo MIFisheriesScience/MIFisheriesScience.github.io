@@ -86,8 +86,8 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 # Course Schedule
 ##  Week 1: The Production of Knowledge - Sept 11
 ##  Week 2: The Science Publishing Ecosystem - Sept 18
-##  Week 3: Anatomy of a Science Paper (Part 1) - Sept 25
-##  Week 4: Proposals - Oct 2
+##  Week 3: Proposals - Sept 25
+##  Week 4: Anatomy of a Science Paper (Part 1) - Oct 2
 ##  Week 5: Anatomy of a Science Paper (Part 2) - WED Oct 11
 ##  Week 6: Oral Presentations - Oct 16
 ##  Week 7: Posters - Oct 23
@@ -109,7 +109,7 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 Assignment | Start in   | Due in   | Value
 ---------- | ---------- | -------- | --------
 Journal    |  Week 3    | Week 12  | 10%
-Proposal   |  Week 4    | Week 5   | 10%
+Proposal   |  Week 3    | Week 4   | 10%
 3 Minute Thesis       |  Week 6    | Week 8   | 15%
 Poster     |  Week 7    | Week 8   | 5%
 Popular Article   |  Week 9    | Week 11   | 15%

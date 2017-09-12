@@ -15,7 +15,7 @@ author_profile: false
 Assignment | Start in   | Due in   | Value
 ---------- | ---------- | -------- | --------
 Journal    |  Week 3    | Week 12  | 10%
-Proposal   |  Week 4    | Week 5   | 10%
+Proposal   |  Week 3    | Week 4   | 10%
 3 Minute Thesis  |  Week 6    | Week 8   | 15%
 Poster     |  Week 7    | Week 8   | 5%
 Popular Article   |  Week 9    | Week 11   | 15%
@@ -69,11 +69,11 @@ Page 2 and beyond: A fully formatted, complete proposal for the funding agency o
 
 ## Timeline
 
-1. Identify which fund you will apply for (**Week 3**).
-2. Begin proposal during class (**Week 4**).
-3. Submit draft proposal to a peer (**By Wednesday of Week 4**).
-4. Peer reviews your draft (**Meet with peer on Thursday or Friday of Week 4 to discuss**).
-5. Submit revised proposal to instructor (**Week 5**).
+1. Identify which fund you will apply for (**Week 2**).
+2. Begin proposal during class (**Week 3**).
+3. Submit draft proposal to a peer (**By Wednesday of Week 3**).
+4. Peer reviews your draft (**Meet with peer on Thursday or Friday of Week 3 to discuss**).
+5. Submit revised proposal to instructor (**Week 4**).
 
 Value: 10% of course grade
 
