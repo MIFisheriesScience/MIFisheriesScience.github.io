@@ -7,11 +7,11 @@ author_profile: false
 
 10% of your course grade is earned by participation. Just show up, be yourself, and participate!
 
-The other 90% will be earned by completing assignments. These fall into three categories:
+The remainder will be earned by completing assignments. These fall into three categories:
 
 - Explo**R**ation - Partner presentation (20%)
 - Major assignment (50%)
-- Minor assignments (30%)
+- Minor assignments (20%)
 
 This document outlines the details and grading criteria for each assignment.
 
@@ -143,4 +143,4 @@ Due: End of Week 11.
 
 # Minor Assignments
 
-I define a minor assignment as something that takes < 1 week to complete. You will be given directions on these in class. Expect there to be three minor assignments, each worth 10% of the course grade. I will do my best to spread them out. 
+I define a minor assignment as something that takes < 1 week to complete. You will be given directions on these in class. Expect there to be two or three minor assignments, which together will be worth 20% of the course grade.
