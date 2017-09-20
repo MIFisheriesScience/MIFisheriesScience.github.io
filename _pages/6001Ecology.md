@@ -24,7 +24,7 @@ Note while this course is *organized* by [Dr. Brett Favaro](http://about.me/bret
 | Date | Instructor | Topic |
 |------------------------------|---------------------|----------------------------------|
 | Sept 12,13,19,20  | Dr. Paul Winger | Fish harvesting technology |
-| Sept 26,27 Oct 2,3 | Dr. Arnault Le Bris | Population dynamics |
+| Sept 26,27 Oct 3,4 | Dr. Arnault Le Bris | Population dynamics |
 | Oct 12,17,18 | Dr. Jonathan Fisher | The Northwest Atlantic ecosystem |
 | Oct 24,25,31 Nov 1 | Dr. Scott Grant | Fisheries management |
 | Nov 7,8,14,15 | Dr. Sherrylynn Rowe | Fisheries assessment |
