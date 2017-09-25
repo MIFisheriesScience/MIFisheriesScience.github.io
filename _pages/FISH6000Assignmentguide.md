@@ -26,7 +26,7 @@ This document outlines the details and grading criteria for each assignment.
 # Writing Journal
 There are 104 weeks in an M.Sc program, and 208 weeks in a Ph.D. Time disappears quickly when you start doing research, and getting done on time means making progress each and every week. And staying motivated means rewarding yourself for the progress you make.
 
-In **Week 3** you will begin a *writing journal*, which you'll complete during meetings with your *writing team*. Every week, you will meet with your team (i.e. 2-3 fellow students) and discuss three things:
+In **Week 4** you will begin a *writing journal*, which you'll complete during meetings with your *writing team*. Every week, you will meet with your team (i.e. 2-3 fellow students) and discuss three things:
 
 1. What were your goals from last week?
 2. Did you achieve those goals? Why or why not?
@@ -38,7 +38,7 @@ This sounds scary, but is designed to help you establish good work habits early 
 Using whatever medium you want (Word doc, .txt file, notebook, napkins, stone tablet) write down your answers to the above questions each week. Make SMART goals (Specific, Measurable, Attainable, Realistic, Time-based). You will submit the full journal in week 12, and will be given grades for completing the exercise. 
 
 ## Timeline
-You will make your first entry in Week 3. You will have time in class each week to complete entries. Final entry in Week 12.
+You will make your first entry in Week 4. You will have time in class each week to complete entries. Final entry in Week 12.
 
 ## Value: 10% of course grade
 
@@ -56,6 +56,7 @@ By default, you will follow the format required by NSERC postgraduate scholarshi
 If you are not a Canadian citizen, or already received an NSERC scholarship, I encourage you to find a small project grant or alternative scholarship and write a proposal for that. Whichever fund you apply for, it should require a proposal of a minimum of one page - although if there is a relevant fund that requires a shorter proposal, it could be 
 
 ## Deliverable:
+
 On page 1, answer: 
 
 1. Am I personally eligible?
@@ -78,6 +79,7 @@ Page 2 and beyond: A fully formatted, complete proposal for the funding agency o
 Value: 10% of course grade
 
 ## Grading scheme:
+
 * Proposal follows instructions of funder /5
 * Appropriate language - good grammar, no typos, jargon minimized or explained /5
 * Narrative structure - does the proposal make the reserach goals clear? /5

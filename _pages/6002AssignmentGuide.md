@@ -70,7 +70,7 @@ This dataset should contain at least 500 unique values (i.e. be too big to easil
 - Summary /6
 - Raw data: /4
 
-Due: End of Week 4.
+Due: End of Week 5.
 
 ## Part 2: Manipulation
 
@@ -101,7 +101,7 @@ Part 2 has three deliverables:
   * comprehensiveness (i.e. operations conducted in R) /5
   * commenting (i.e. operations are explained) /5
 
-Due: End of Week 8.
+Due: End of Week 9.
 
 ## Part 3: Display
 
