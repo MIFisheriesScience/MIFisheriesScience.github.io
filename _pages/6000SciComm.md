@@ -5,7 +5,7 @@ permalink: /courses/6000SciComm/
 author_profile: false
 ---
 
-Our class meets once per week (Mondays, 9 AM to 12 PM) in W3029/31.
+Our class meets once per week (Mondays, 9 AM to 12 PM) in **The SOF Seminar Room**.
 
 ## Course documents 
 
@@ -25,8 +25,8 @@ These slides are designed to be viewed on a computer - **not printed.** They con
 | 1         | September 11, 2017 | [The Production of Knowledge](/courses/6000SciComm/FISH6000Week1/) |
 |2| September 18, 2017 | [The Science Publishing Ecosystem](/courses/6000SciComm/6000Week2/) |
 |3| September 25, 2017 | [Proposals](/courses/6000SciComm/6000Week3/) | 
-|4| October 2, 2017| [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week4/) |
-|5| **Wed** October 11, 2017| Anatomy of a Science Paper Part 2 |
+|4| October 2, 2017 | [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week4/) |
+|5| **Wed** October 11, 2017 | [Anatomy of a Science Paper Part 2](/courses/6000SciComm/6000Week5/) |
 |6| October 16, 2017 | Oral Presentations |
 |7| October 23, 2017 | Posters |
 |8| October 30, 2017 | Practicing Safe Science Communication |
