@@ -8,7 +8,7 @@ library(ggplot2)
 library(dplyr)
 library(reshape2)
 library(ggthemes)
-
+library(tidyr)
 
 #######################
 # Load some data      #
@@ -623,7 +623,8 @@ a <- ggplot(CarDataNoZeroes, aes(x = TripDistance_KM, y = MaxSpeed_kmh)) +
         axis.title = element_text(size=18),
         legend.text = element_text(size=12),
         legend.title = element_text(size=14)
-  ) 
+  ) +
+  stat_smooth()
 
 a + stat_smooth()
 
@@ -631,8 +632,14 @@ a + stat_smooth()
 # Saving plots  #
 #################
 
-ggsave("TestPlot.tiff", width=5, height = 5)
-?ggsave
+ggsave("TestPlot.tiff", 
+       width=12, 
+       height = 12,
+       units="cm",
+       dpi = 300,
+       compression = "lzw"
+       )
+
 getwd()
 
 ################## 
@@ -641,5 +648,141 @@ getwd()
 
 # How often do I run the battery down from start to finish?
 
-ggplot(CarData, aes(x=))
+SOCdata <- CarData %>%
+  mutate(PairNumber = row_number()) %>% #Add a counter for each row
+  gather(ChargeType, StateOfCharge, StartSOC:EndSOC) #
 
+SOCdata$ChargeType <- factor(SOCdata$ChargeType, levels=c("StartSOC", "EndSOC"),
+                                      labels=c("Start of trip", "End of trip"))
+
+a <- ggplot(SOCdata, aes(x = ChargeType, y = StateOfCharge)) +
+  geom_point() +
+  geom_line(aes(group = PairNumber)) +
+  xlab("") +
+  ylab("State of Charge (percent)") +
+  theme_tufte() +
+  theme(axis.text = element_text(size=18),
+        axis.title = element_text(size=24)
+  ) 
+
+a
+
+# Let's add some more information
+# Black = no change in charge
+# Red = maximum decreases in charge
+# Need a new variable
+
+SOCdata <- CarData %>%
+  mutate(PairNumber = row_number()) %>% 
+  mutate(ChargeChange = EndSOC-StartSOC) %>%
+  gather(ChargeType, StateOfCharge, StartSOC:EndSOC) 
+
+SOCdata$ChargeType <- factor(SOCdata$ChargeType, levels=c("StartSOC", "EndSOC"),
+                             labels=c("Start of trip", "End of trip"))
+
+
+a <- ggplot(SOCdata, aes(x = ChargeType, y = StateOfCharge)) +
+  geom_point(aes(colour = SOCdata$ChargeChange), shape=16, size=2) +
+  scale_colour_gradient(low="red", high="black", name = "Percent change \nin charge") +
+  geom_line(aes(group = PairNumber, colour=SOCdata$ChargeChange)) +
+  xlab("") +
+  ylab("State of Charge (percent)") +
+  theme_tufte() +
+  theme(axis.text = element_text(size=18),
+        axis.title = element_text(size=24)
+  ) 
+
+a
+
+#######################################
+# Proportions                         #
+#######################################
+
+# What proportion of each trip's energy usage is auxillary vs. driving power?
+# I am assuming auxillary load is SEPARATE (and not a subset of) 
+# energy consumed during driving - need to confirm
+
+# First, let's see how that proportion is different across cold and hot conditions
+
+Percentages <- CarData %>%
+  group_by(IsItCold) %>%
+  summarise(TotalAux = sum(AuxiliaryLoad_KW), DrivingE = sum(ElectricityConsumed_KWH),
+            AuxProp = TotalAux / (TotalAux + DrivingE),
+            EProp = 1-AuxProp) %>%
+  gather(EType, Proportion, AuxProp:EProp)
+
+Percentages
+
+
+a <- ggplot(Percentages, aes(x=IsItCold, y=Proportion, fill=EType)) +
+  geom_bar(stat="identity", aes(fill=EType)) +
+  xlab("Temperature") +
+  ylab("Proportion of total energy consumption") +
+  theme_tufte() +
+  theme(axis.text = element_text(size=18),
+        axis.title = element_text(size=24))
+
+a
+
+# Let's put Auxiliary on the bottom
+
+Percentages$EType <- as.factor(Percentages$EType)
+Percentages$EType <- relevel(Percentages$EType, "EProp")
+
+#and plot again
+
+a <- ggplot(Percentages, aes(x=IsItCold, y=Proportion, fill=EType)) +
+  geom_bar(stat="identity", aes(fill=EType)) +
+  xlab("Temperature") +
+  ylab("Proportion of total energy consumption") +
+  theme_tufte() +
+  theme(axis.text = element_text(size=18),
+        axis.title = element_text(size=24))
+
+a
+
+
+############################### 
+# Exploring aux drain by trip #
+###############################
+
+# Need to know: Auxillary drain
+
+CarData <- CarData %>%
+  filter(ElectricityConsumed_KWH > 0) %>%
+  mutate(rownum = row_number()) %>%
+  mutate(AuxProp = AuxiliaryLoad_KW / (AuxiliaryLoad_KW + ElectricityConsumed_KWH)) #really, it should be kWh
+
+# Order, low to high, by trip distance
+a <- ggplot(CarData, aes(x = reorder(rownum, TripDistance_KM), y = AuxProp)) +
+  geom_bar(stat="identity") +
+  xlab("Relative trip distance") +
+  ylab("Proportion of energy going to auxiliary systems") +
+  theme_tufte() +
+  theme(axis.text = element_text(size=18),
+        axis.title = element_text(size=24),
+        axis.text.x=element_blank(),
+        axis.ticks.x = element_blank()) +
+  annotate(geom="text", label="Low", 
+           x=10, y=-0.05, size=10, color="black") +
+  annotate(geom="text", label="High", 
+           x=310, y=-0.05, size=10, color="black") 
+a
+
+# Reorder, low to high, based on temperature
+a <- ggplot(CarData, aes(x = reorder(rownum, AmbientTemperature_C), y = AuxProp)) +
+  geom_bar(stat="identity") +
+  xlab("Ambient temperature") +
+  ylab("Proportion of energy going to auxiliary systems") +
+  theme_tufte() +
+  theme(axis.text = element_text(size=18),
+        axis.title = element_text(size=24),
+        axis.text.x=element_blank(),
+        axis.ticks.x = element_blank()) +
+  annotate(geom="text", label="Low", 
+           x=10, y=-0.05, size=10, color="black") +
+  annotate(geom="text", label="High", 
+           x=310, y=-0.05, size=10, color="black") 
+a
+
+reorder(CarData$rownum, CarData$AmbientTemperature_C)
