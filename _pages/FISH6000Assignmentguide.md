@@ -16,7 +16,7 @@ Assignment | Start in   | Due in   | Value
 ---------- | ---------- | -------- | --------
 Journal    |  Week 3    | Week 12  | 10%
 Proposal   |  Week 3    | Week 4   | 10%
-3 Minute Thesis  |  Week 6    | Week 8   | 15%
+3 Minute Thesis  |  Week 7    | Week 9   | 15%
 Poster     |  Week 7    | Week 8   | 5%
 Popular Article   |  Week 9    | Week 11   | 15%
 Podcast   |  Week 10    | Week 12   | 15%
@@ -89,33 +89,33 @@ Value: 10% of course grade
 
 Scientists talk - a lot. But it's important to be able to speak concisely, and in a way that communicates our work effectively in a short period of time. 
 
-In class, I will introduce you to the "3 Minute Thesis." Your assignment is to produce and deliver a three minute talk about the research you propose to do here at MUN. 
+You will prepare a three minute proposal talk (analogous to the [3MT competitions](http://www.cags.ca/3mt.php) held around the world). 
 
-You have a choice for this assignment:
-1. Produce and deliver a "3 Minute Thesis"-style talk, following the guidelines developed for international 3MT competitions held around the world: http://threeminutethesis.org/rules-judging-criteria (but adjusted because your talk will be about what you are GOING to do, rather than what you have already done)
-
-2. Produce and deliver a three-minute "speed talk." This differs from above in that you are permitted to use more than one slide as a visual aid.
+The rules are as follows:
+	- The talk can be no more than three minutes. At 3:01 you will be asked to stop
+	- It should clearly outline your proposed research program
+	- You should include at least one figure, expressing your expected results in graphical format. This is not expected to be real data 
 
 ## Deliverables:
 
-* Week 7: Present a draft talk to a small group. 
-* Week 8: Present the final talk to the entire class.
+* Week 8: Present a draft talk to a small group (or, if the class is small, to the entire class). 
+* Week 9: Present the final talk to the entire class.
 
 ## Timeline
 
-1. Assignment is introduced (**Week 6**)
-2. Rehearsal talk conducted in small groups (**Week 7**). 
-3. Submit completed proposal to instructor (**Week 8**).
+1. Assignment is introduced (**Week 7**)
+2. Rehearsal talk conducted in small groups (**Week 8**). 
+3. Submit completed proposal to instructor (**Week 9**).
 
 Value: 15% of course grade
 
 ## Grading scheme:
-Students will be judged using 3MT criteria, weighted as follows:
-  * Compliance with 3MT rules /5
+  * Compliance with rules, including length below 3 minutes /5
   * Comprehension and content /5
   * Engagement and communication /5
 
 # Poster
+
 In this assignment, you will build a 'proposal poster' - that is, a scientific poster explaining the research you plan to conduct within your graduate research program. In Week 7, we will discuss poster design theory, as well as the fundamentals of sound scientific poster design. Here, you will have the chance to develop a poster based on these principles.
 
 You may use a template provided as the basis for your poster, or you may design one from scratch. 
@@ -123,6 +123,10 @@ You may use a template provided as the basis for your poster, or you may design 
 ## Deliverables:
 
 A complete scientific poster, which will be displayed via projector in class. You will present the poster, outlining the design you chose and why.
+
+The presentation will occur in two steps. First, you will have up to three minutes to explain your proposed research. The audience will have the opportunity to ask 1-2 questions. 
+
+Second, you will have up to three minutes to discuss why you designed the poster the way you did. What were you hoping to achieve? What trade-offs did you 
 
 ## Timeline
 
@@ -135,8 +139,6 @@ Value: 5% of course grade
 * Aesthetics: Poster follows design principles outlined in class (large text, few words, etc.) /5
 * Scientific content: Poster clearly communicates the proposed research /5
 * Presentation of poster - design trade-offs explained, student self-assesses poster well /5
-
-Additional details on specific grading criteria TBA.
 
 # Popular Article
 Your research in fisheries likely affects a great many people, most of whom will never read a scientific article. In this assignment, we will practice writing for mainstream audiences - communicating science in a way that is digestible by a non-expert on the topic.

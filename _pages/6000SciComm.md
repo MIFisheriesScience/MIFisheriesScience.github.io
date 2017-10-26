@@ -29,8 +29,8 @@ These slides are designed to be viewed on a computer - **not printed.** They con
 |5| **Wed** October 11, 2017 | [Anatomy of a Science Paper Part 2](/courses/6000SciComm/6000Week5/) |
 |6| October 16, 2017 | [Oral Presentations](/courses/6000SciComm/6000Week6) |
 |7| October 23, 2017 | [Posters](/courses/6000SciComm/6000Week7) |
-|8| October 30, 2017 | Practicing Safe Science Communication |
-|9| November 6, 2017 | Popular Writing |
+|8| October 30, 2017 |  [Presentation Week](/courses/6000SciComm/6000Week8) |
+|9| November 6, 2017 | Practicing Safe Science Communication + Popular Writing |
 |10| **Fri** November 17, 2017 | Radio, Podcasts, and Interviews |
 |11| November 20, 2017 | Policy Briefs |
 |12| November 27, 2017 | Recap and Wrap-Up |
