@@ -17,6 +17,6 @@ author_profile: true
 - [SGS Forms for students and faculty](http://www.mun.ca/sgs/go/Forms_GOS/)
 - [SOF Grad Program Overview*](/assets/images/SOF_grad_program_overview_abridged.pdf)
 
-* This is an abridged version of the original document use to propose the graduate program. It is abdriged, and the present incarnation of the program has evolved slightly from the original proposal. We present this only to help understand the rationale and goals of this particular program. Up-to-date information is included in the [SOF Graduate Handbook](/assets/images/SOF_handbook.pdf)
+*This is an abridged version of the original document use to propose the graduate program. It is abdriged, and the present incarnation of the program has evolved slightly from the original proposal. We present this only to help understand the rationale and goals of this particular program. Up-to-date information is included in the [SOF Graduate Handbook](/assets/images/SOF_handbook.pdf)
 
 Cod clipart is from [Clipartsfree.net](http://www.clipartsfree.net/svg/23277-cod-fish-vector.html)
