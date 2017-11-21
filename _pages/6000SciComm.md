@@ -33,4 +33,4 @@ These slides are designed to be viewed on a computer - **not printed.** They con
 |9| November 6, 2017 | [Practicing Safe Science Communication + Popular Writing](/courses/6000SciComm/6000Week9) |
 |10| **Fri** November 17, 2017 | [Popular Communication](/courses/6000SciComm/6000Week10) |
 |11| November 20, 2017 | [Talking About Your Work](/courses/6000SciComm/6000Week11) |
-|12| November 27, 2017 | Recap and Wrap-Up |
+|12| November 27, 2017 | [Recap and Wrap-Up](/courses/6000SciComm/6000Week12) |
