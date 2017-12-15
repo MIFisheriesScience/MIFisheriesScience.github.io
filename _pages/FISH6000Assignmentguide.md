@@ -165,7 +165,7 @@ An article, written for a non-academic outlet, that explains your proposed resea
 Value: 15% of course grade
 
 ## Grading scheme:
-  * Article follows the style of the targetted outlet, and "sounds like" an article that you would read in that medium /5
+  * Article follows the style of the targeted outlet, and "sounds like" an article that you would read in that medium /5
   * Clear, well-written, engaging /5
   * Effectively communicates the proposed research /5
 

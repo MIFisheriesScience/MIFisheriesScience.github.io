@@ -1,8 +1,36 @@
 ---
 layout: single
-title: "Fish 6003: Statistics and Study Design for Fisheries Science"
+title: "FISH 6003: Statistics and Study Design for Fisheries Science"
 permalink: /courses/6003Stats/
 author_profile: false
 ---
 
-The first offering of FISH 6003 will occur in Winter 2018. Syllabus to be posted in December 2017.
+Our class meets twice per week:
+Mondays, 0900 to 0950, Room W2041
+Tuesdays, 0900 to 1050, Room W1003
+
+## Course documents 
+
+- [Course syllabus - HTML](/courses/6003Stats/6003Syllabus/) and [PDF]
+- [Assignment guide - HTML](/courses/6003Stats/6003Assignmentguide/) and [PDF]
+- [Class code of conduct - HTML](/courses/coursesCodeofConduct/) and [PDF](/assets/images/FISHCodeofConduct.pdf)
+
+## Course Content
+
+| **Week**  | **Dates**  | **Theme**  | 
+|-----------|------------|-------------|
+| 1*       |  *January  8 and 9*   | [Introduction, and the Philosophy of Statistics]|
+|2| January 15 and 16 | [Data Exploration] |
+|3| January 22 and 23  | [Simple Linear Regression]  |
+|4| January 29 and 30 | [Multiple Linear Regression] |
+|5| February 5 and 6 | [Model Selection] |
+|6| February 12 and 13 | [Generalized Linear Models]|
+|X| February 19-23 | [*Winter semester break*] |
+|7| February 26 and 27 | Mixed Models] |
+|8| March 5 and 6 | [Generalized Linear Mixed Models] |
+|9| March 12 and 13 | [Power Analysis] |
+|10| March 19 and 20 | [Meta-Analysis] |
+|11| March 26 and 27 | [TBD] |
+|12| April 3 | [TBD] |
+
+* I will be absent on the first week of courses. Over the first few weeks, we will schedule three hours that work for everyone to make up for the missing class time.

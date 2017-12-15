@@ -78,7 +78,7 @@ Your *second task* is to tidy the data you have collected. Organize the data int
 
 Note that this will require pulling data into R, manipulating it, and then outputting it as new CSV files - all things we will talk about in class.
 
-Part 2 has three deliverables:
+Part 2 has two deliverables:
 
 1. Two CSV files - one long-format and one wide-format, containing the data you collected from Part 1. These data should meet the criteria of being 'tidy data'
 
@@ -117,11 +117,6 @@ These plots should be formatted for publication - at least 300 DPI, in PNG or TI
 
 3. R code, fully commented, that shows how you produced your table and figures
 
-  - Error detection and cleanup
-  - At least three dplyr operations (e.g. mutate, join, count)
-  - Manipulation of data into long and wide formats
-  
-  Even if your data are very clean, you need to demonstrate to me how you checked for that and verified it to be the case.
 
 **Value: 25%**
 
