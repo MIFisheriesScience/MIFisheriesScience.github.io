@@ -6,8 +6,9 @@ author_profile: false
 ---
 
 Our class meets twice per week:
-Mondays, 0900 to 0950, Room W2041
-Tuesdays, 0900 to 1050, Room W1003
+
+* Mondays, 0900 to 0950, Room W2041
+* Tuesdays, 0900 to 1050, Room W1003
 
 ## Course documents 
 

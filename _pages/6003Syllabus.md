@@ -12,7 +12,9 @@ author_profile: false
 - **Office Hours:** Thursday 0900-1200, W2009
 
 # Official Course Description
-This course will provide an overview of modern statistical techniques used in fisheries research. A broad range of applications will be covered, and students will learn the advantanges and disadvantages of each, how they relate to one another, when they are applicable, and how to implement them in R. Special focus will be placed on designing powerful experiments.
+Deriving trends from data is a key aspect of fisheries science. In this course, students will gain expertise in some of the most powerful (and common) statistical techniques. Some concepts, such as generalized linear models, will be covered in extensive detail as they are relevant throughout the life sciences. Other topics will be more specific to fisheries. Equal emphasis will be placed on designing powerful studies and in using pre-existing data to answer scientific questions. 
+
+The course will be taught from a user perspective - while theory will be covered as needed, emphasis will be placed on when, where, and how to use these models.
 
 # Learning Outcomes
 By the end of this course, students will develop a working competency of R Statistical Software, and will be introduced to the software environment that fisheries scientists must master. Great importance will be placed on fostering the ability to self-teach and stay abreast of developments in data collection, management, display, and programming.
@@ -137,4 +139,10 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 
 # Assignments and Grading
 
-TBD
+10% of your course grade is earned by participation. Just show up, be yourself, and participate!
+
+The remainder will be earned by completing assignments. These fall into three categories:
+
+- Presentation on a special topic (20%)
+- Major assignment (50%)
+- Minor assignments (20%)

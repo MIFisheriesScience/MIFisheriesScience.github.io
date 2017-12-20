@@ -22,6 +22,7 @@ We will cover a lot of ground on this course, but it is only the tip of the prov
 Students will teach us about the technique - what it is used for, why it is useful, how to use it, and how to assess its validity. Students will produce a 10-15 minute presentation.
 
 ## Deliverable:
+
 Prepare a 10-15 minute presentation (plus 5-10 minutes for audience questions) that accomplishes these objectives:
 
 1. Describe the statistical technique. What does it do? What is it for?
@@ -46,34 +47,43 @@ Starting Week 7: Present. One presenter per week.
 The presentation is worth 30/40 marks of the assignment grade, and will be assessed as follows:
 
 #### Describe the statistical technique. What does it do? What is it for? 
+
 **Value: /10**
+
 - Statistical technique should be clearly and accurately described. Literature explaining the technique is cited.
 - Demonstrate deep understanding of the technique. Description is not superficial. Student constructively engages with questions on the topic.
 - Contrast this technique with other methods. What does it add that would be missed with something simpler? How is it better than something more complex?
 
 #### How do you assess the fit of this technique with your data? How can you tell if it worked or not?
+
 **Value: /10**
+
 - Any diagnostic plot techniques are explained
 - An example of the statistical technique not working, and the technique working properly, are demonstrated
 - This may be expressed as a checklist. What steps should be followed to ensure that the output of the technique is valid?
 
 #### Show an example of the technique used in a scientific paper
+
 **Value: /5**
+
 - Correctly identify this technique in a paper
 - Explain WHY the technique was used, and describe the data on which the technique was applied
 - The results and output are explained, along with any diagnostic figures
 - The results are interpreted. They found X - how did it allow them to conclude Y?
 
 #### Demonstrate how to use the technique and interpret its results, with real or simulated data
+
 **Value: /5**
 - Show how to implement this technique in R. Present R code that you have written for Part 2.
 
 ## Part 2: A reproducible example
+
 The remaining 10/40 marks will be based on assessment of R code that students write, which will demonstrate how to use the technique in R. This may be done with real data (i.e. taken from a paper) or simulated data. 
 
 Note that many techniques or packages come with worked examples. It is not sufficient to just copy the exact example included with the package. While you may be writing code that is pre-packaged, you should apply the technique to different data, even if you just make up imaginary data yourself.
 
 #### A worked example, with reproducible, fully commented R code that explains what is being done at each step
+
 **Value: /10**
 - Code is organized into an R project (see [https://mifisheriesscience.github.io/courses/6002Data/6002Week11/](https://mifisheriesscience.github.io/courses/6002Data/6002Week11/)) 
 - Code is fully reproducible (i.e. anyone can open the project and run it without changing any code).
@@ -87,32 +97,115 @@ The presentation will take place in-class, on a Tuesday. Students should create 
 
 # Major Assignment
  
-In the Major Assignment, you will conduct a statistical analysis based on data you obtain. These data may be something that you have collected yourself for your research, from a public database, or as attached by another publication.
+In the Major Assignment, you will conduct a statistical analysis based on data you obtain. Normally, this will be a regression-type analysis, which we will cover extensively within this course (i.e. what is the impact of X on Y?)
 
-Essentially, the major assignment is to write the 'statistical analysis' part of the methods and results section of a publication-quality paper.
+These data may be something that you have collected yourself for your research, from a public database, or as attached by another publication.
+
+Essentially, the major assignment is to do all the basic groundwork that would need to be done to prepare an analysis for publication.
  
 ## Part 1: Obtaining and Describing Data
 
 The goal of part 1 is to obtain and describe data. Key questions, which will be answered in two pages or less (single-spaced, 12-point Times New Roman):
+
 - Where are the data from?
 - What are the data? (i.e. how many points? What are they measuring? How are they measured?)
 - If you got the data from someone else, are there any constraints around using them?
-- What are **three key research questions** you will ask of these data?
+- What are **three key research questions** you will ask of these data? In other words: *What are your biological hypotheses* that you will be testing?
 
 The purpose of this section is to determine whether the data you obtained will be sufficient for the major project. 
 
+### Timeline and Submission
+
 **Part 1 is due by the end of week 5** and should be submitted by email to the instructor. 
 
-## Deliverables
+### Grading
 
-TBD
+* Accurately describes the data source: /1
+* Accurately describes the data itself (number of points, what they are measuring, etc.): /1
+* Three research questions, answerable by these data, are stated: /3
 
-## Timeline
+While these are essentially completion marks, the instructor may require at this state that more or different data be incorporated into your project. If the dataset is too limited it can be challenging to produce an interesting project. Further, if the data are too complex, it may represent a challenge that is beyond the scope of this course.
 
-TBD
+## Part 2: Data Exploration
 
-### Total Value: 50% of course grade
+In Part 2, you will conduct a data exploration, following a slightly modified version of the procedure explained in [Zuur et al. 2009](http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2009.00001.x/full). You should report the results of each step. These steps include:
+
+A. Re-stating the biological hypotheses (in case they changed from Part 1)
+B. Visualize the experimental design, with a diagram
+C. Conducting the data exploration:
+	1. Outliers Y and X
+	2. Homogeneity Y
+	3. Normality Y
+	4. Zeroes Y
+	5. Collinearity X
+	6. Relationships Y and X
+	7. Interactions
+	8. Independence of Y
+D. Specify the statistical model that you intend to use, and why.
+
+### Timeline and Submission
+
+**Part 2 is due by the end of week 9** and should be submitted by email to the instructor. We will review R projects in class.
+
+The deliverables for Part 2 should be organized as follows:
+
+	* A properly-organized R project should be created that contains all data and scripts
+	* A document that includes everything, including plots and relevant R output. You should both show the direct output from R, and interpret it in your own words
+	* A separate .R script that includes all necessary code to conduct the data exploration
+
+While it is not a requirement, I encourage you to use R Markdown for this assignment, so that diagnostic plots can be embedded directly with the text. See: [https://mifisheriesscience.github.io/courses/6002Data/6002Week11/](https://mifisheriesscience.github.io/courses/6002Data/6002Week11/)
+
+### Grading
+
+* Biological hypotheses are clearly stated and sensible, given data: /3
+* Experimental design is clearly visualized, including any nested structure: /3
+* Steps 1-8: /3 each. Note that many of these steps should include a plot. (1 mark for the plot, 2 for the explanation).
+
+Specifying your intended statistical model:
+
+* Model is identified and explained: /3
+* Your choice is defended using literature: /3
+
+Total: /36
+
+## Part 3: Conducting and Reporting the Analysis
+
+In Part 3, you will conduct a regression-type data anlaysis, following the reporting procedure explained in [Zuur and Ieno, 2016](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12577/full). The steps to this assignment include:
+
+1. Identify the dependency structure in the data
+2. Present the statistical model
+3. Fit the model
+4. Validate the model
+5. Interpret and present the numerical output of the model
+6. Create a visual representation of the model
+7. Simulate from the model 
+
+Note that Part 3 comes immediately after Part 2. There is no need to re-do your data exploration in part 3, as it will already be completed in part 3. 
+
+### Timeline and Submission
+
+**Part 3 is due by the end of week 12** and should be submitted by email to the instructor.
+
+The deliverables for Part 3 should be organized as follows:
+
+* A properly-organized R project should be created that contains all data and scripts
+* A document that includes everything, including plots and relevant R output. You should both show the direct output from R, and interpret it in your own words
+* A separate .R script that includes all necessary code to conduct the data exploration
+
+It is recommended that you simply add to the project folder that you created for Part 2. Place everything into a zip file and submit to the instructor.
+
+While it is not a requirement, I encourage you to use R Markdown for this assignment, so that diagnostic plots can be embedded directly with the text. See: [https://mifisheriesscience.github.io/courses/6002Data/6002Week11/](https://mifisheriesscience.github.io/courses/6002Data/6002Week11/)
+
+### Grading
+
+Steps 1-7: 
+
+* Each should include a chunk of R code, output, and intepretation. /5 for each step
+
+Total: /35
+
+**Between parts 1, 2, and 3, the Major Assignment is worth a total of 76 marks, which correspond to 50% of the course grade.**
 
 # Minor Assignments
 
-I define a minor assignment as something that takes < 1 week to complete. You will be given directions on these in class. Expect there to be two or three minor assignments, which together will be worth 20% of the course grade.
+I define a minor assignment as something that should take less than one day to complete. You will be given directions on these in class. Expect there to be two or three minor assignments, which together will be worth 20% of the course grade.
