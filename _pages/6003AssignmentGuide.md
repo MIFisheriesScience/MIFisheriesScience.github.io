@@ -46,7 +46,7 @@ Starting Week 7: Present. One presenter per week.
 
 The presentation is worth 30/40 marks of the assignment grade, and will be assessed as follows:
 
-#### Describe the statistical technique. What does it do? What is it for? 
+### Describe the statistical technique. What does it do? What is it for? 
 
 **Value: /10**
 
@@ -54,7 +54,7 @@ The presentation is worth 30/40 marks of the assignment grade, and will be asses
 - Demonstrate deep understanding of the technique. Description is not superficial. Student constructively engages with questions on the topic.
 - Contrast this technique with other methods. What does it add that would be missed with something simpler? How is it better than something more complex?
 
-#### How do you assess the fit of this technique with your data? How can you tell if it worked or not?
+### How do you assess the fit of this technique with your data? How can you tell if it worked or not?
 
 **Value: /10**
 
@@ -62,7 +62,7 @@ The presentation is worth 30/40 marks of the assignment grade, and will be asses
 - An example of the statistical technique not working, and the technique working properly, are demonstrated
 - This may be expressed as a checklist. What steps should be followed to ensure that the output of the technique is valid?
 
-#### Show an example of the technique used in a scientific paper
+### Show an example of the technique used in a scientific paper
 
 **Value: /5**
 
@@ -71,7 +71,7 @@ The presentation is worth 30/40 marks of the assignment grade, and will be asses
 - The results and output are explained, along with any diagnostic figures
 - The results are interpreted. They found X - how did it allow them to conclude Y?
 
-#### Demonstrate how to use the technique and interpret its results, with real or simulated data
+### Demonstrate how to use the technique and interpret its results, with real or simulated data
 
 **Value: /5**
 - Show how to implement this technique in R. Present R code that you have written for Part 2.
@@ -82,7 +82,7 @@ The remaining 10/40 marks will be based on assessment of R code that students wr
 
 Note that many techniques or packages come with worked examples. It is not sufficient to just copy the exact example included with the package. While you may be writing code that is pre-packaged, you should apply the technique to different data, even if you just make up imaginary data yourself.
 
-#### A worked example, with reproducible, fully commented R code that explains what is being done at each step
+### A worked example, with reproducible, fully commented R code that explains what is being done at each step
 
 **Value: /10**
 - Code is organized into an R project (see [https://mifisheriesscience.github.io/courses/6002Data/6002Week11/](https://mifisheriesscience.github.io/courses/6002Data/6002Week11/)) 
@@ -187,7 +187,6 @@ Note that Part 3 comes immediately after Part 2. There is no need to re-do your 
 **Part 3 is due by the end of week 12** and should be submitted by email to the instructor.
 
 The deliverables for Part 3 should be organized as follows:
-
 * A properly-organized R project should be created that contains all data and scripts
 * A document that includes everything, including plots and relevant R output. You should both show the direct output from R, and interpret it in your own words
 * A separate .R script that includes all necessary code to conduct the data exploration
