@@ -17,7 +17,6 @@ Deriving trends from data is a key aspect of fisheries science. In this course, 
 The course will be taught from a user perspective - while theory will be covered as needed, emphasis will be placed on when, where, and how to use these models.
 
 # Learning Outcomes
-By the end of this course, students will develop a working competency of R Statistical Software, and will be introduced to the software environment that fisheries scientists must master. Great importance will be placed on fostering the ability to self-teach and stay abreast of developments in data collection, management, display, and programming.
 
 The fundmental competencies that you will develop in this course are:
 * Able to design a statistically powerful study
