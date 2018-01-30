@@ -16,6 +16,9 @@ author_profile: true
 - [Memorial University School of Graduate Studies](https://www.mun.ca/sgs/)
 - [SGS Forms for students and faculty](http://www.mun.ca/sgs/go/Forms_GOS/)
 - [SOF Grad Program Overview*](/assets/images/SOF_grad_program_overview_abridged.pdf)
+- [SOF GRAD Fund Guidelines](/assets/images/MISOF-GRADFund.pdf)
+- [Ph.D Comprehensive Exam Guidelines](/assets/images/MISOF-CompExam.pdf)
+
 
 *This is an abridged version of the original document use to propose the graduate program. It is abdriged, and the present incarnation of the program has evolved slightly from the original proposal. We present this only to help understand the rationale and goals of this particular program. Up-to-date information is included in the [SOF Graduate Handbook](/assets/images/SOF_handbook.pdf)
 
