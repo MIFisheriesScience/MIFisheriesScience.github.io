@@ -230,10 +230,10 @@ Read the paper and do the following:
 	- Note the number of replicates within each treatment group. /2
 5. Brainstorm: What sources of uncertainty might there be in the measurements of each covariate, and Y? (At least one per variable) /5
 6. Define each of three parts of the GLM:
-	A. Write the equation for the predictor function. /10
-	B. What distribution defines Y? /4
-	C. What is the link function? /4
-7. Write the syntax to run this model in R	(e.g. mod <- lm(Y_var ~ Covariate1 + Covariate2)) /10
+	- Write the equation for the predictor function. /10
+	- What distribution defines Y? /4
+	- What is the link function? /4
+7. Write the syntax to run this model in R(e.g. mod <- lm(Y_var ~ Covariate1 + Covariate2)) /10
 8. Did the authors run the model you specified? If not, what did they do instead? Critique their approach versus yours. /10
 
 Total: / 60, scaled to 20% of course grade
