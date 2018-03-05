@@ -11,7 +11,7 @@ The remainder will be earned by completing assignments. These fall into three ca
 
 - Presentation on a special topic (20%)
 - Major assignment (50%)
-- Minor assignments (20%)
+- Minor assignment (20%)
 
 This document outlines the details and grading criteria for each assignment.
 
@@ -205,6 +205,49 @@ Total: /35
 
 **Between parts 1, 2, and 3, the Major Assignment is worth a total of 76 marks, which correspond to 50% of the course grade.**
 
-# Minor Assignments
+# Minor Assignment
 
-I define a minor assignment as something that should take less than one day to complete. You will be given directions on these in class. Expect there to be two or three minor assignments, which together will be worth 20% of the course grade.
+The minor assigment asks you to take a paper, determine its key hypothesis, and design a model to test that hypothesis.
+
+**In pairs** select one of the following papers:
+
+1. [Virgili, M., Vasapollo, C., & Lucchetti, A. (2018). Can ultraviolet illumination reduce sea turtle bycatch in Mediterranean set net fisheries?. Fisheries Research, 199, 1-7.](https://www.sciencedirect.com/science/article/pii/S016578361730320X)
+2. [Levesque, J. C., Hager, C., Diaddorio, E., & Dickey, R. J. (2016). Commercial fishing gear modifications to reduce interactions between Atlantic sturgeon (Acipenser oxyrinchus oxyrinchus) and the southern flounder (Paralichthys lethostigma) fishery in North Carolina (USA). PeerJ, 4, e2192.](https://peerj.com/articles/2192/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD)
+3. [Utne-Palm, A. C., Breen, M., Løkkeborg, S., & Humborstad, O. B. (2018). Behavioural responses of krill and cod to artificial light in laboratory experiments. PloS one, 13(1), e0190918.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190918)
+4. [Robbins, W. D., Peddemors, V. M., Kennelly, S. J., & Ives, M. C. (2014). Experimental evaluation of shark detection rates by aerial observers. PloS one, 9(2), e83456.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083456)
+
+If none of these papers appeal to you, you may also select a different paper that would be analyzable by a regression-type model. If you choose to do this please show the paper to Brett by March 9 for approval.
+
+It is okay for multiple pairs to do the same paper.
+
+Read the paper and do the following:
+
+1. Define the hypothesis in words.  /4
+2. Describe Y. Is it a count, proportion, etc? /2
+	- How was it measured? /1
+3. Identify all covariates. What types of data are they? /4
+4. Sketch the study design, indicating any dependency structure. /4
+	- Note the number of replicates within each treatment group. /2
+5. Brainstorm: What sources of uncertainty might there be in the measurements of each covariate, and Y? (At least one per variable) /5
+6. Define each of three parts of the GLM:
+	A. Write the equation for the predictor function. /10
+	B. What distribution defines Y? /4
+	C. What is the link function? /4
+7. Write the syntax to run this model in R	(e.g. mod <- lm(Y_var ~ Covariate1 + Covariate2)) /10
+8. Did the authors run the model you specified? If not, what did they do instead? Critique their approach versus yours. /10
+
+Total: / 60, scaled to 20% of course grade
+
+## Assessment Criteria
+
+All of the above papers are analyzable by a regression-type analysis that we will have covered by the end of Week 9 of the class. 
+ 
+Point-form is acceptable where it facilitates clarity. The study design may be hand-drawn and scanned, or done in Powerpoint. Regardless it must be legible. 
+
+For the critique (step 8) please focus on the fundamentals. Are assumptions likely to be violated by any of the models? How does YOUR model address that? 
+
+Note that I am not asking you to actually run the model or perform a validation (that will be done in the Major Assignment).
+
+## Due Date
+
+Please submit by email, by March 26. I recommend you try to complete it earlier so as to allow you to focus entirely on the major assignment by the end of the course.

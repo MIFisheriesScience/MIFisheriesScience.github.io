@@ -28,7 +28,7 @@ Our class meets twice per week:
 |6| February 12 and 13 | [Generalized Linear Models: Part 1](/courses/6003Stats/6003Week6/)|
 |X| February 19-23 | [*Winter semester break*] |
 |7| February 26 and 27 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) |
-|8| March 5 and 6 | [Mixed Models] |
+|8| March 5 and 6 | [Mixed Models](/courses/6003Stats/6003Week8/) |
 |9| March 12 and 13 | [Generalized Linear Mixed Models] |
 |10| March 19 and 20 | [Power Analysis] |
 |11| March 26 and 27 | [Intro to Bayesian Statistics] |
