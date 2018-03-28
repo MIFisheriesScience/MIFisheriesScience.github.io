@@ -31,7 +31,7 @@ Our class meets twice per week:
 |8| March 5 and 6 | [Mixed Models](/courses/6003Stats/6003Week8/) |
 |9| March 12 and 13 | [Generalized Linear Mixed Models](/courses/6003Stats/6003Week9/) |
 |10| March 20 | [Generalized Linear Mixed Models: Part 2](/courses/6003Stats/6003Week9/) |
-|11| March 26 and 27 | [Brief Intro to Power Analysis, Baysian Stats, and Meta-Analysis] |
+|11| March 26 and 27 | [Brief Intro to Power Analysis, Baysian Stats, and Meta-Analysis](/courses/6003Stats/6003Week11/) |
 |12| April 3 | [Meta-Analysis](/courses/6003Stats/6003Week12/) |
 
 * I will be absent on the first week of courses. Over the first few weeks, we will schedule three hours that work for everyone to make up for the missing class time. **Our first in-class lecture will be Jan 15**
