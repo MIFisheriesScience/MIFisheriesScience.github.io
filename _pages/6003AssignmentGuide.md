@@ -149,9 +149,9 @@ D. Specify the statistical model that you intend to use, and why.
 
 The deliverables for Part 2 should be organized as follows:
 
-	* A properly-organized R project should be created that contains all data and scripts
-	* A document that includes everything, including plots and relevant R output. You should both show the direct output from R, and interpret it in your own words
-	* A separate .R script that includes all necessary code to conduct the data exploration
+* A properly-organized R project should be created that contains all data and scripts
+* A document that includes everything, including plots and relevant R output. You should both show the direct output from R, and interpret it in your own words
+* A separate .R script that includes all necessary code to conduct the data exploration
 
 While it is not a requirement, I encourage you to use R Markdown for this assignment, so that diagnostic plots can be embedded directly with the text. See: [https://mifisheriesscience.github.io/courses/6002Data/6002Week11/](https://mifisheriesscience.github.io/courses/6002Data/6002Week11/)
 
