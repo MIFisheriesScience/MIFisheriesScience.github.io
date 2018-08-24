@@ -24,11 +24,11 @@ Throughout the course you will learn about many aspects of fisheries science. Yo
 
 Select a fishery that primarily takes place in the North Atlantic. If you need inspiration, [consult this list](http://www.oceana.ca/en/publications/reports/heres-catch-how-restore-abundance-canadas-oceans) of Canadian fisheries. [Its appendix](http://www.oceana.ca/sites/default/files/canadas_marine_fisheries_individual_stocks_appendix_c.pdf) includes basic information about each stock, as well as the location at which it takes place.
 
-Choose wisely: this is the fishery that you will conduct your project on. 
+**It is your responsibility to select a fishery that has sufficient information available to complete the assignment**
 
-**Inform Dr. Favaro which fishery you will study by the end of Week 2**. We ask that there be no duplicates, and fisheries are first-come-first-serve. So if you really want to look at one particular fishery you had better pick fast!
+*Inform Dr. Favaro which fishery you will study by the end of Week 3*. We ask that there be no duplicates, and fisheries are first-come-first-serve. So if you really want to look at one particular fishery you had better pick fast!
 
-You may propose another fishery in the North Atlantic region if it is not included in this list. Be prepared to give a brief overview of the fishery and demonstrate that there is sufficient information available about the fishery on which to base a full assignment. 
+You may propose another fishery in the North Atlantic region if it is not included in this list. Try to pick something with a reasonable geographic scale - not too big, not too small. Be prepared to give a brief overview of the fishery and demonstrate that there is sufficient information available about the fishery on which to base a full assignment. 
 
 ## Create your Seminar
 
@@ -42,27 +42,27 @@ In your seminar, you will describe this fishery to your instructors and classmat
 2. Fish harvesting technology
   * What are the primary gears used in the fishery?
   * What are the environmental impacts of the gear?
-  * Are there operational issues associated with the gear? (e.g. safety? Practicality?)
   * Are alternative gears being tested?
   
-3. Population dynamics & The Northwest Atlantic Ecosystem
-  * What is known about the fishery's stock? Is it abundant? Depleted? 
+3. The Northwest Atlantic Ecosystem
   * What is the target species' mean trophic level? What does it eat? What eats it?
   * What ecosystem processes drive abundance of this stock?
   * How might climate change effect this fishery? 
   
-4. Fisheries management
+ 4. Fisheries assessment
+  * What is known about the fishery's stock? Is it abundant? Depleted? 
+  * What index or indicies of biomass are used to assess the fishery, and what is the fisheries' assessment model?
+  * Does any eco-label regard this fishery as sustainable? Why or why not?
+  
+5. Fisheries management
   * Is this an established or emerging fishery?
   * Who manages this fishery? 
   * What is and is not working with management of this fishery?
-  
-5. Fisheries assessment
-  * Does any eco-label regard this fishery as sustainable? Why or why not?
-  
+    
 6. Post-harvest
   * How is the catch handled, processed, and to whom is it sold?
 
-All topic areas above should be covered in your seminar, although you may decide to explore parts of those topics in greater detail based on your own interest. For interest, while you have to describe each topic in brief, you may decide to do a deeper exploration of the fishing gear technology used in a given fishery. 
+All topic areas above should be covered in your seminar, and emphasis will be placed on assessing your ability to *synthesize* content.
 
 By the end of your talk, we should have a holistic understanding of the fishery you studied. Your audience should be able to broadly understand the fishery and major issues associated with it. 
 
@@ -72,37 +72,27 @@ Your talk should be no more than 20 minutes in length, with 10 minutes allocated
 
 Grading for this assignment will be based on a modified version of the Canadian Conference for Fisheries Research rubric for judging student talks:
 
-### Delivery: 15
+### Delivery, visual aids: 10
 
 - Speak clearly, make eye contact with audience. Speak with intention 
-- Face the audience, be engaging
-- Aim for smooth and clear delivery
-- Notes are okay, particularly if English is not your first language, but do not read directly from them
+- Face the audience, be engaging. Aim for smooth and clear delivery
+- Slides should be clear, with large font, and uncluttered
+- Sources should be cited appropriately
+- All figures should be clear and readable, with large fonts
+- Avoid purposeless animations, sound effects, etc. Everything on the slides should have a purpose
 
 ### Organization: 15
 
 - Presentation should be logically organized
 - The seminar should emphasize flow and synthesis - not mere lists of information
+- The seminar must include content on all six components outlined in the assignment description
 
-### Visual aids: 15
-
-- Slides should be clear, with large font, and uncluttered
-- All sources should be cited appropriately
-- All figures should be clear and readable, with large fonts
-- Basic design principles should be followed, including using high-contrast colours, and avoiding highly cluttered backgrounds
-- Avoid purposeless animations, sound effects, etc. Everything on the slides should have a purpose
-
-### Subject expertise: 30
+### Subject expertise: 60 (10 per subtopic)
 
 - Student should **synthesize** the fishery. Seminar is *not* a list, it is a synthesis
 - Student should demonstrate knowledge in all areas above for the fishery in question
 - Data gaps should be identified
 - A breadth of scientific literature (and grey literature, where appropriate) should inform the seminar
-
-### Timekeeping: 10
-
-- The talk should be 20 minutes maximum. You will be timed. Do not go overtime
-- The pace should be appropriate (i.e. no speed-talking to get under 20 minutes) and consistent across the lecture
 
 ### Question and Answer: 15
 - Presenter engages with audience. 
@@ -113,6 +103,10 @@ Grading for this assignment will be based on a modified version of the Canadian 
 ### Assessors
 
 All six module instructors plus Dr. Favaro will grade your talk. The top and bottom marks will be eliminated, and the median grade of the remaining five assessments in each category will be used. 
+
+Note that you have **20 minutes maximum** to speak. You will be cut off at 20 min - and anything not covered by that point will not be graded. **Timekeeping is part of the assignment**
+
+A 10 minute Q&A will follow the talk.
 
 ### Audience
 

@@ -8,8 +8,8 @@ author_profile: false
 # Ecology, Management, and Practice of North Atlantic Fisheries
 
 - **Course Manager**: [Dr. Brett Favaro](http://about.me/brettfavaro)
-- **Classroom:** T:W3033/35, W:W2058 (Unless otherwise specified by instructor)
-- **Times:** T: 11:00-13:00, W:09:00-11:00
+- **Classroom:** W3018A (Unless otherwise specified by instructor)
+- **Times:** T: 12:00-14:00, W:09:00-11:00
 - **Office Hours:** Thursday 0900-1200, W2009
 
 # Course Description
@@ -75,20 +75,19 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 
 | Date | Instructor | Topic |
 |------------------------------|---------------------|----------------------------------|
-| Sept 12,13,19,20  | Dr. Paul Winger | Fish harvesting technology |
-| Sept 26,27 Oct 3,4 | Dr. Arnault Le Bris | Population dynamics |
-| Oct 12,17,18 | Dr. Jonathan Fisher | The Northwest Atlantic ecosystem |
-| Oct 24,25,31 Nov 1 | Dr. Scott Grant | Fisheries management |
-| Nov 7,8,14,15 | Dr. Sherrylynn Rowe | Fisheries assessment |
-| Nov 21,22,28,29 | Dr. Deepika Dave | Post-harvest | 
-
-Final seminars will be delivered Dec 5 and 6.
+| Sept 11, 12, 18, 19  | Dr. Paul Winger | Fish harvesting technology |
+| Sept 25, 26 Oct 2,3 | Dr. Scott Grant | Fisheries management |
+| THURS Oct 11*, Oct 16, 17 | Dr. Arnault Le Bris | Population dynamics |
+| Oct 23, 24, 30, 31 | Dr. Jonathan Fisher | The Northwest Atlantic ecosystem |
+| Nov 6, 7, 13, 14 | Dr. Deepika Dave | Post-harvest | 
+| Nov 20, 21, 27, 28 | Dr. Sherrylynn Rowe | Fisheries assessment |
+| Dec 4, 5 | Final Presentations  |
 
 # Assignments and Grading
 
 * Module assignments - 60% (10% per unit)
 * Final seminar - 40% 
 
-Each module instructor will explain the module assignments in class, and will provide guidance at the start of their unit. All module assignments are due prior to the first class of the subsequent unit (e.g. Module 1 assignmetns are due before the first lecture of Module 2).
+Each module instructor will explain the module assignments in class, and will provide guidance at the start of their unit. All module assignments are due prior to the first class of the subsequent unit (e.g. Module 1 assignments are due before the first lecture of Module 2).
 
 Module instructors will give instructions on how to submit each assignment.
