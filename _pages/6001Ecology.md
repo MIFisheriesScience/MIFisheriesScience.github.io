@@ -7,8 +7,10 @@ author_profile: false
 
 This course meets twice per week:
 
-T: 12:00-14:00 W3018A
-W: 09:00-11:00 W3018A
+T: 12:00-14:00 
+W: 09:00-11:00 
+
+Classroom: W3018A
 
 (Unless otherwise specified by instructor)
 
