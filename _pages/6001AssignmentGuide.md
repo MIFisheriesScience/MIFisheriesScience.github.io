@@ -60,7 +60,10 @@ In your seminar, you will describe this fishery to your instructors and classmat
   * What is and is not working with management of this fishery?
     
 6. Post-harvest
-  * How is the catch handled, processed, and to whom is it sold?
+  * How is the catch handled, processed and stored? Which products forms?
+  * Describe types of processing and handling waste
+  * Illustrate biorefinery concept for processing discards
+
 
 All topic areas above should be covered in your seminar, and emphasis will be placed on assessing your ability to *synthesize* content.
 
@@ -110,4 +113,4 @@ A 10 minute Q&A will follow the talk.
 
 ### Audience
 
-All course instructors, including Dr. Favaro, and all the FISH 6001 students will be present for these seminars. Questions may be asked by instructors or students.
+All available course instructors, including Dr. Favaro, and all the FISH 6001 students will be present for these seminars. Questions may be asked by instructors or students.

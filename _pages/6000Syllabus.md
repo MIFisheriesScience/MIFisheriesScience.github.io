@@ -10,7 +10,7 @@ author_profile: false
 This course will train students in the full spectrum of science communication. The fundamentals of scientific writing, academic publishing, and oral and poster presentations will comprise the first half of the course. The second half will focus on communicating outside the academic environment, and how to responsibly disseminate research across a range of media.
 
 - **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
-- **Classroom:** W3029/31
+- **Classroom:** W3018A
 - **Times:** Mondays 0900-1200
 - **Office Hours:** Thursday 0900-1200, W2009
 
@@ -28,7 +28,6 @@ On completion of this course, students will
 * Understand that science can inform policy and public opinion
 * Learn to practice safe science communication
 * Develop competencies in communication to non-academic audiences, including:
-    + Briefing notes for decisionmakers
     + Writing for popular media
     + Radio broadcasts
 
@@ -53,7 +52,11 @@ Olson, Randy (2015). *Houston, We Have a Narrative: Why Science Needs Story*. Ch
 # Course Policies 
 
 ## Social Media
-Students are welcome to tweet about the course using the hashtag #MISciComm - but the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule%20) is in effect. That means you **may not reveal the identity of the person speaking** in your tweets without their express permission. We want to encourage people to actively participate and make mistakes without fear of their mishaps being broadcast acrosst he world. 
+I use the hashtag #MISciComm on Twitter to highlight content that may be of interest to this course. I encourage using Twitter and other social platforms to communicate your work.
+
+However, I want people in the class to feel comfortable pushing themselves in a supportive environment. To that end, I ask that students not tweet out content from our lectures - including things said by myself or classmates, or pictures or video of our class activities. My goal is for us to learn together, and having someone recording, tweeting, etc. the contents of discussions as they progress can be stifling.
+
+If you wish to tweet more generally (e.g. "learning to write emails today in #MISciComm" that is acceptable).
 
 ## Code of Conduct
 You have the right to expect a supportive, safe environment in this course. This course will be governed by my [Fisheries Science Code of Conduct](/courses/coursesCodeofConduct), which all participants are expected to respect.
@@ -84,27 +87,27 @@ So please, don't make it part of your plan to miss class!
 This course is governed by MUN's [regulations on academic misconduct](http://www.mun.ca/regoff/calendar/sectionNo=REGS-0748).
 
 # Course Schedule
-##  Week 1: The Production of Knowledge - Sept 11
-##  Week 2: The Science Publishing Ecosystem - Sept 18
-##  Week 3: Proposals - Sept 25
-##  Week 4: Anatomy of a Science Paper (Part 1) - Oct 2
-##  Week 5: Anatomy of a Science Paper (Part 2) - WED Oct 11
-##  Week 6: Oral Presentations - Oct 16
-##  Week 7: Posters - Oct 23
-##  Week 8: Practicing Safe Science Communication - Oct 30
-##  Week 9: Popular Writing - Nov 6 
-##  Week 10: Radio, Podcasts, and Interviews - FRI Nov 17
-##  Week 11: Policy Briefs - Nov 20
-##  Week 12: Recap and Wrap-Up - Nov 27
+##  Week 1: The Production of Knowledge
+##  Week 2: The Science Publishing Ecosystem
+##  Week 3: Proposals 
+##  Week 4: Anatomy of a Science Paper (Part 1) 
+##  Week 5: Anatomy of a Science Paper (Part 2)
+##  Week 6: Oral Presentations
+##  Week 7: Posters
+##  Week 8: Presentation Week
+##  Week 9: Practicing Safe Science Communication and Popular Writing
+##  Week 10: Popular Communication cont'd
+##  Week 11: Talking About Your Work
+##  Week 12: Recap and Wrap-Up
 
 # Assignments and Grading
 
-30% of your course grade is earned by participation: 
+20% of your course grade is earned by participation: 
 
   * 50% for general participation
   * 50% for engagement for in-class assignments 
 
-70% of your grade will be earned by completing the following submitted assignments:
+80% of your grade will be earned by completing the following submitted assignments:
 
 Assignment | Start in   | Due in   | Value
 ---------- | ---------- | -------- | --------

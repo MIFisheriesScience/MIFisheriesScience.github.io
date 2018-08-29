@@ -5,19 +5,19 @@ permalink: /courses/6000SciComm/FISH6000Assignmentguide/
 author_profile: false
 ---
 
-30% of your course grade is earned by participation:
+20% of your course grade is earned by participation:
 
-  * 15% for general participation
-  * 15% for engagement within in-class assignments 
+  * 10% for general participation
+  * 10% for engagement within in-class assignments 
 
-70% of your grade will be earned by completing the following submitted assignments:
+80% of your grade will be earned by completing the following submitted assignments:
 
 Assignment | Start in   | Due in   | Value
 ---------- | ---------- | -------- | --------
 Journal    |  Week 3    | Week 12  | 10%
-Proposal   |  Week 3    | Week 4   | 10%
+Proposal   |  Week 3    | Week 4   | 15%
 3 Minute Thesis  |  Week 7    | Week 9   | 15%
-Poster     |  Week 7    | Week 8   | 5%
+Poster     |  Week 7    | Week 8   | 10%
 Popular Article   |  Week 9    | Week 11   | 15%
 Podcast   |  Week 10    | Week 12   | 15%
 
@@ -76,7 +76,7 @@ Page 2 and beyond: A fully formatted, complete proposal for the funding agency o
 4. Peer reviews your draft (**Meet with peer on Thursday or Friday of Week 3 to discuss**).
 5. Submit revised proposal to instructor (**Week 4**).
 
-Value: 10% of course grade
+Value: 15% of course grade
 
 ## Grading scheme:
 
@@ -133,7 +133,7 @@ Second, you will have up to three minutes to discuss why you designed the poster
 1. Design a draft poster in class, collect peer feedback (**Week 7**)
 2. Present poster to class (**Week 8**). 
 
-Value: 5% of course grade
+Value: 10% of course grade
 
 ## Grading scheme:
 * Aesthetics: Poster follows design principles outlined in class (large text, few words, etc.) /5
