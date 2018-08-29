@@ -8,9 +8,9 @@ author_profile: false
 Our class meets once per week: Mondays, 9 AM to 12 PM in W3018A.
 
 ## Course documents 
-*not yet updated for Fall 2018*
+*Updated for Fall 2018*
 - [Course syllabus - HTML](/courses/6000SciComm/6000Syllabus/) and [PDF](/assets/images/FISH_6000_Syllabus.pdf)
-- [Assignment guide - HTML](/courses/6000SciComm/FISH6000Assignmentguide/) and [PDF](/assets/images/FISH_6000_Assignment_guide.pdf)
+- [Assignment guide - HTML](/courses/6000SciComm/FISH6000Assignmentguide/) 
 - [Graphical assignment summary - PDF](/assets/images/GraphicalSummary.pdf)
 - [Class code of conduct - HTML](/courses/coursesCodeofConduct/) and [PDF](/assets/images/FISHCodeofConduct.pdf)
 
@@ -19,6 +19,8 @@ Our class meets once per week: Mondays, 9 AM to 12 PM in W3018A.
 These slides are designed to be viewed on a computer - **not printed.** They contain hyperlinks to relevant content.
 
 Dates below are accurate, but I will be updating slides week to week.
+
+Note that all slideshows below represent Fall 2017 content. The rightmost column indicates if I have updated them for Fall 2018. I anticipate making small tweaks to each lecture as the semester goes on - please follow along with the most up to date version.
 
 | **Week**  | **Date** | **Theme**  | **Updated?** |
 |-----------|------------|-------------|---|
