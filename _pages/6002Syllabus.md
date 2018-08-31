@@ -86,7 +86,11 @@ Wickham, Hadley and Garrett Grolemund (2017). R for data science: visualize, mod
 # Course Policies 
 
 ## Social Media
-Students are welcome to tweet about the course using the hashtag #MIData - but the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule%20) is in effect. That means you **may not reveal the identity of the person speaking** in your tweets without their express permission. We want to encourage people to actively participate and make mistakes without fear of their mishaps being broadcast acrosst he world. 
+I use the hashtag #MIData on Twitter to highlight content that may be of interest to this course. I encourage using Twitter and other social platforms to communicate your work.
+
+However, I want people in the class to feel comfortable pushing themselves in a supportive environment. To that end, I ask that students not tweet out content from our lectures - including things said by myself or classmates, or pictures or video of our class activities. My goal is for us to learn together, and having someone recording, tweeting, etc. the contents of discussions as they progress can be stifling.
+
+If you wish to tweet more generally (e.g. "Learning about tidy data today in #MIData" that is acceptable).
 
 ## Code of Conduct
 You have the right to expect a supportive, safe environment in this course. This course will be governed by my [Fisheries Science Code of Conduct](/courses/coursesCodeofConduct), which all participants are expected to respect.
@@ -119,18 +123,18 @@ So please, don't make it part of your plan to miss class!
 This course is governed by MUN's [regulations on academic misconduct](http://www.mun.ca/regoff/calendar/sectionNo=REGS-0748).
 
 # Course Schedule
-##  Week 1: Data and Software in Fisheries - Sept 11/12
-##  Week 2: Introduction to R - Sept 18/19
-##  Week 3: Intro to Tidy Data - Sept 25/26
-##  Week 4: Visual Display of Data 1 - Oct 2/3
-##  Week 5: Visual Display of Data 2 - Oct 11/12
-##  Week 6: Working with Messy Data - Oct 16/17
-##  Week 7: Collecting and Managing Tidy Data - Oct 23/24
-##  Week 8: Visual Display of Data 3 - Oct 30/31
-##  Week 9: Figures for Science Communication - Nov 6/7
-##  Week 10: Maps - Nov 14/17
-##  Week 11: Markdown, Lab Notebooks, and Advanced RStudio Workflow - Nov 20/21
-##  Week 12: Interactive Plots - Nov 27/28
+##  Week 1: Data and Software in Fisheries
+##  Week 2: Introduction to R
+##  Week 3: Intro to Tidy Data
+##  Week 4: Visual Display of Data 1
+##  Week 5: Visual Display of Data 2
+##  Week 6: Working with Messy Data
+##  Week 7: Collecting and Managing Tidy Data
+##  Week 8: Visual Display of Data 3
+##  Week 9: Figures for Science Communication
+##  Week 10: Maps
+##  Week 11: Markdown, Lab Notebooks, and Advanced RStudio Workflow
+##  Week 12: Interactive Plots
 
 # Assignments and Grading
 

@@ -27,10 +27,10 @@ Note while this course is *organized* by [Dr. Brett Favaro](http://about.me/bret
 |------------------------------|---------------------|----------------------------------|
 | Sept 11, 12, 18, 19  | Dr. Paul Winger | Fish harvesting technology |
 | Sept 25, 26 Oct 2,3 | Dr. Scott Grant | Fisheries management |
-| THURS Oct 11*, Oct 16, 17 | Dr. Arnault Le Bris | Population dynamics |
+| Tues Oct 9*, Oct 16, 17 | Dr. Arnault Le Bris | Population dynamics |
 | Oct 23, 24, 30, 31 | Dr. Jonathan Fisher | The Northwest Atlantic ecosystem |
 | Nov 6, 7, 13, 14 | Dr. Deepika Dave | Post-harvest | 
 | Nov 20, 21, 27, 28 | Dr. Sherrylynn Rowe | Fisheries assessment |
 | Dec 4, 5 | Final Presentations  |
 
-*Oct 11 will overlap with the [Ocean Frontier Institute conference](http://oceanfrontierinstitute.com/oceanfrontier2018) and will need to be rescheduled. Date TBA
+* This class will take place as a single three-hour lecture, from 13:00 - 16:00, in a room TBA. This is due to the Ocean Frontier Conference and the holiday.
