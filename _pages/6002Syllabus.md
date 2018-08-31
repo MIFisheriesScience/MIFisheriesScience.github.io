@@ -27,7 +27,6 @@ Students will also develop the following specific competencies:
     + How keeping data tidy helps with analysis
     + How to clean up untidy data in a reproducible, transparent way (especially using dplyr)
 * Familiarity with best practices in recording data in the field, and preventing loss between collection and analysis
-* Understand how to acquire and use data from databases
 
 ### Data management
 
@@ -48,6 +47,11 @@ Students will also develop the following specific competencies:
     + Scientific publications
     + Powerpoint-based talks
 * Ability to produce figures that meet journal standards for publication
+
+### Workflow
+
+* Understand how to ask questions using minimal reproducible examples
+* Use R Studio's project management tools to follow an efficient workflow
 
 # Expectations and Aspirations
 
@@ -82,6 +86,8 @@ Wickham, Hadley (2014). “Tidy data”. In: Journal of Statistical Software 59.
 Wickham, Hadley (2016). ggplot2: elegant graphics for data analysis (use R!) 2nd ed. 2016 edition. Springer, p. 260. ISBN: 978-1491910399. http://ggplot2.org/book/.
 
 Wickham, Hadley and Garrett Grolemund (2017). R for data science: visualize, model, transform, tidy, and import data. O’Reilly Media, p. 518. ISBN: 978-1491910399. http://r4ds.had.co.nz/index.html.
+
+Xie, Yihui (2018). Bookdown: Authoring books and technical documents with R Markdown. https://bookdown.org/yihui/bookdown/ 
 
 # Course Policies 
 
