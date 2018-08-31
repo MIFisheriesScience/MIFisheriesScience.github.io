@@ -77,11 +77,13 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 |------------------------------|---------------------|----------------------------------|
 | Sept 11, 12, 18, 19  | Dr. Paul Winger | Fish harvesting technology |
 | Sept 25, 26 Oct 2,3 | Dr. Scott Grant | Fisheries management |
-| THURS Oct 11*, Oct 16, 17 | Dr. Arnault Le Bris | Population dynamics |
+| Tues Oct 9*, Oct 16, 17 | Dr. Arnault Le Bris | Population dynamics |
 | Oct 23, 24, 30, 31 | Dr. Jonathan Fisher | The Northwest Atlantic ecosystem |
 | Nov 6, 7, 13, 14 | Dr. Deepika Dave | Post-harvest | 
 | Nov 20, 21, 27, 28 | Dr. Sherrylynn Rowe | Fisheries assessment |
 | Dec 4, 5 | Final Presentations  |
+
+* For this week only, class will take place between 13:00 and 16:00 in a room TBA, due to schedule impacts from Thanksgiving and the OFI conference.
 
 # Assignments and Grading
 
