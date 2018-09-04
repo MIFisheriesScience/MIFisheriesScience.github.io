@@ -48,10 +48,11 @@ Students will also develop the following specific competencies:
     + Powerpoint-based talks
 * Ability to produce figures that meet journal standards for publication
 
-### Workflow
+### Workflow and security
 
 * Understand how to ask questions using minimal reproducible examples
 * Use R Studio's project management tools to follow an efficient workflow
+* Understand how to apply basic security steps to protect your data and identity
 
 # Expectations and Aspirations
 
@@ -131,26 +132,24 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 # Course Schedule
 ##  Week 1: Data and Software in Fisheries
 ##  Week 2: Introduction to R
-##  Week 3: Intro to Tidy Data
-##  Week 4: Visual Display of Data 1
-##  Week 5: Visual Display of Data 2
-##  Week 6: Working with Messy Data
-##  Week 7: Collecting and Managing Tidy Data
-##  Week 8: Visual Display of Data 3
-##  Week 9: Figures for Science Communication
-##  Week 10: Maps
-##  Week 11: Markdown, Lab Notebooks, and Advanced RStudio Workflow
+##  Week 3: Markdown and RStudio workflow
+##  Week 4: Intro to Tidy Data
+##  Week 5: Visual Display of Data 1
+##  Week 6: Visual Display of Data 2
+##  Week 7: Working with Messy Data
+##  Week 8: Collecting and Managing Tidy Data
+##  Week 9: Visual Display of Data 3
+##  Week 10: Figures for Science Communication
+##  Week 11: Maps
 ##  Week 12: Interactive Plots
 
 # Assignments and Grading
 
-See [assignment guide](/assets/images/FISH_6002_Assignment_guide.pdf) for details.
+See assignment guide for details.
 
 10% Participation
 
-20% Explo**R**ation - partner presentation 
+30% Minor Assignments  
 
-20% Minor Assignments  
-
-50% Major Assignment     
+60% Major Assignment     
           

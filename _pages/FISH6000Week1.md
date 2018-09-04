@@ -11,6 +11,7 @@ author_profile: false
 Welcome to graduate school! It has been said that grad school is where you transition from becoming a **knowledge-consumer** to a **knowledge-producer.** In Week 1 we will explore what this means, and discuss how to make the most out of your time as a graduate student at the Marine Institute.
 
 ### Lecture Topics
+* Overview of the MI Fisheries Science graduate program
 * Discuss knowledge production - what do scientists do all day?
 * Concept: The workflow of science. Explain how each MI fisheries course supports this workflow 
 * Why communicate? 
@@ -21,17 +22,16 @@ Welcome to graduate school! It has been said that grad school is where you trans
         - Managing fisheries is managing people - achieving this requires engagement
         - The public pays for our work and they should get to hear about it
         - Scientific literacy - if scientists don't speak, who will?
-* Graduate research can change the world - Examples from real life
 * Introduction to reference management (with emphasis on Mendeley)
 
 ### In-class Activities
 
-* Introduction to the [MI Fisheries Slack](https://mifish.slack.com/) (https://mifish.slack.com/)
 * Round-table introductions
+* Introduction to the [MI Fisheries Slack](https://mifish.slack.com/) (https://mifish.slack.com/)
 * Becoming Discoverable: Set up a [Google Scholar](https://scholar.google.ca/) profile and [ORCID](http://orcid.org/) (https://scholar.google.ca/ and http://orcid.org/)
-* Download and install [Mendeley](https://www.mendeley.com/) (https://www.mendeley.com/)
+* Download and install [Zotero](https://www.zotero.org/download/) 
 
-### Readings
+### Resources
 I strongly recommend (but stop short of requiring) that you purchase copies of the two course reference books:
 
 Heard, Stephen B (2016). *The Scientist’s Guide to Writing: How to Write More Easily and Effectively Throughout Your Scientific Career*. Princeton, New Jersey: Princeton University Press, p. 255. ISBN:
@@ -40,6 +40,12 @@ Heard, Stephen B (2016). *The Scientist’s Guide to Writing: How to Write More 
 Olson, Randy (2015). *Houston, We Have a Narrative: Why Science Needs Story*. Chicago: The University of Chicago Press, p. 256. ISBN: 9780226270845.
 
 I also recommend you visit http://collections.plos.org/ten-simple-rules - a series of papers that provide introductory advice to many topics relevant to reserachers.
+
+### Extra Readings
+
+Eisen, J (2014). Using Google scholar in scholarly workflows. (http://www.googblogs.com/using-google-scholar-in-scholarly-workflows/)
+
+Here are some excellent videos to get you started with Zotero: https://www.youtube.com/channel/UCYspUZGexLdDLjHRkuERQlg/videos
 
 ## Details
 
@@ -57,11 +63,8 @@ Students pair up with someone they don't know. In pairs:
 
 (5 min prep, 10 min per pair)
 
-### Activity 4: Google Scholar and ORCID
-Students will create a Google Scholar profile and ORCID. Lecture will explain WHY these are helpful assets. (15 min)
-
-### Activity 5: Reference management
-Lecture will explain the purpose of reference management. Students will be asked to download and install Mendeley, and add one or more papers to the reference library. (15 min)
+### Activity 3: Google Scholar, ORCID, and Zotero
+Students will be introduced to each of the above products and will be encouraged to register for them.
 
 # Lecture Slides
 
