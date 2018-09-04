@@ -24,7 +24,7 @@ Note that all slideshows below represent Fall 2017 content. The rightmost column
 
 | **Week**  | **Date** | **Theme**  | **Updated?** |
 |-----------|------------|-------------|---|
-| 1         | September 10, 2018 | [The Production of Knowledge](/courses/6000SciComm/FISH6000Week1/) | Y |
+|1| September 10, 2018 | [The Production of Knowledge](/courses/6000SciComm/FISH6000Week1/) | Y |
 |2| September 17, 2018 | [The Science Publishing Ecosystem](/courses/6000SciComm/6000Week2/) |
 |3| September 24, 2018 | [Proposals](/courses/6000SciComm/6000Week3/) | 
 |4| October 1, 2018 | [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week4/) |
