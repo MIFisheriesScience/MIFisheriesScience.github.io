@@ -6,8 +6,6 @@ author_profile: false
 
 ---
 
-**September 11, 2017**
-
 Welcome to graduate school! It has been said that grad school is where you transition from becoming a **knowledge-consumer** to a **knowledge-producer.** In Week 1 we will explore what this means, and discuss how to make the most out of your time as a graduate student at the Marine Institute.
 
 ### Lecture Topics
@@ -40,8 +38,6 @@ Heard, Stephen B (2016). *The Scientist’s Guide to Writing: How to Write More 
 Olson, Randy (2015). *Houston, We Have a Narrative: Why Science Needs Story*. Chicago: The University of Chicago Press, p. 256. ISBN: 9780226270845.
 
 I also recommend you visit http://collections.plos.org/ten-simple-rules - a series of papers that provide introductory advice to many topics relevant to reserachers.
-
-### Extra Readings
 
 Eisen, J (2014). Using Google scholar in scholarly workflows. (http://www.googblogs.com/using-google-scholar-in-scholarly-workflows/)
 
