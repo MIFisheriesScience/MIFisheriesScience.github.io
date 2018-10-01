@@ -28,7 +28,7 @@ Note that all slideshows below represent Fall 2017 content. The rightmost column
 |2| September 17, 2018 | [The Science Publishing Ecosystem](/courses/6000SciComm/6000Week2/) | Y |
 |3| September 24, 2018 | [Proposals](/courses/6000SciComm/6000Week3/) | Y |
 |4| October 1, 2018 | [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week4/) | Y | 
-|5| **Wed** October 10, 2018 | [Anatomy of a Science Paper Part 2](/courses/6000SciComm/6000Week5/) |
+|5| **Thurs** October 4, 2018 | [Anatomy of a Science Paper Part 2](/courses/6000SciComm/6000Week5/) |
 |6| October 17, 2018 | [Oral Presentations](/courses/6000SciComm/6000Week6) |
 |7| October 22, 2018 | [Posters](/courses/6000SciComm/6000Week7) |
 |8| October 29, 2018 |  [Presentation Week](/courses/6000SciComm/6000Week8) |
