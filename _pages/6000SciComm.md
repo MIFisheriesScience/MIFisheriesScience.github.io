@@ -5,7 +5,7 @@ permalink: /courses/6000SciComm/
 author_profile: false
 ---
 
-Our class meets once per week: Mondays, 9 AM to 12 PM in W3018A.
+Our class meets once per week: Mondays 9 AM to 12 PM in W3018A.
 
 ## Course documents 
 *Updated for Fall 2018*
