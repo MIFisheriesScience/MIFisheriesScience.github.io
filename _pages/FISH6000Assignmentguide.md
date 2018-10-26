@@ -82,7 +82,7 @@ Value: 15% of course grade
 
 * Proposal follows instructions of funder /5
 * Appropriate language - good grammar, no typos, jargon minimized or explained /5
-* Narrative structure - does the proposal make the reserach goals clear? /5
+* Narrative structure - does the proposal make the research goals clear? /5
 * Study is placed in context of literature on the topic /5
 
 # 3 Minute Thesis Proposal
