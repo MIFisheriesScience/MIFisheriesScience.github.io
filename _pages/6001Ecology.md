@@ -31,6 +31,6 @@ Note while this course is *organized* by [Dr. Brett Favaro](http://about.me/bret
 | Oct 23, 24, 30, 31 | Dr. Jonathan Fisher | The Northwest Atlantic ecosystem |
 | Nov 6, 7, 13, 14 | Dr. Deepika Dave | Post-harvest | 
 | Nov 20, 21, 27, 28 | Dr. Sherrylynn Rowe | Fisheries assessment |
-| Dec 4, 5 | Final Presentations  |
+| Thurs, Nov 29, in SOF Seminar Room | Final Presentations  |
 
 * This class will take place as a single three-hour lecture, from 13:00 - 16:00, in a room TBA. This is due to the Ocean Frontier Conference and the holiday.
