@@ -33,6 +33,6 @@ Note that all slideshows below represent Fall 2017 content. The rightmost column
 |7| October 22, 2018 | [Posters](/courses/6000SciComm/6000Week7) | Y |
 |8| October 29, 2018 |  [Presentation Week](/courses/6000SciComm/6000Week8) | Y |
 |9| November 5, 2017 | [Practicing Safe Science Communication + Popular Writing](/courses/6000SciComm/6000Week9) | Y |
-|10| **Fri** November 16, 2017 | [Popular Communication](/courses/6000SciComm/6000Week10) |
+|10| **Fri** November 16, 2017 | [Popular Communication](/courses/6000SciComm/6000Week10) | Y |
 |11| November 19, 2017 | [Talking About Your Work](/courses/6000SciComm/6000Week11) |
 |12| November 26, 2017 | [Recap and Wrap-Up](/courses/6000SciComm/6000Week12) |
