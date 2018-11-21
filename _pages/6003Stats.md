@@ -5,6 +5,8 @@ permalink: /courses/6003Stats/
 author_profile: false
 ---
 
+**Note: This course will be offered again in Winter 2019. Schedule TBD. All information below reflects the Winter 2018 offering**
+
 Our class meets twice per week:
 
 * Mondays, 0900 to 0950, Room W2041
