@@ -8,8 +8,8 @@ author_profile: false
 # Statistics and Study Design for Fisheries
 
 - **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
-- **Times:** Mondays 0900-0950, W2041, Tuesdays 0900-1050, W1003
-- **Office Hours:** Thursday 0900-1200, W2009
+- **Times:** Tuesdays, 0900 to 0950, Wednesdays, 0900 to 10:50, Room W3033/35
+- **Office Hours:** Thursday 0900-1200, W2009 (by appointment)
 
 # Official Course Description
 Deriving trends from data is a key aspect of fisheries science. In this course, students will gain expertise in some of the most powerful (and common) statistical techniques. Some concepts, such as generalized linear models, will be covered in extensive detail as they are relevant throughout the life sciences. Other topics will be more specific to fisheries. Equal emphasis will be placed on designing powerful studies and in using pre-existing data to answer scientific questions. 
@@ -120,28 +120,25 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 
 | **Week**  | **Dates**  | **Theme**  | 
 |-----------|------------|-------------|
-| 1*       |  *January  8 and 9*   | [Introduction, and the Philosophy of Statistics]|
-|2| January 15 and 16 | [Data Exploration] |
-|3| January 22 and 23  | [Simple Linear Regression]  |
-|4| January 29 and 30 | [Multiple Linear Regression] | 
-|5| February 5 and 6 | [Model Selection] |
-|6| February 12 and 13 | [Generalized Linear Models]|
-|X| February 19-23 | [*Winter semester break*] |
-|7| February 26 and 27 | [Mixed Models] |
-|8| March 5 and 6 | [Generalized Linear Mixed Models] |
-|9| March 12 and 13 | [Power Analysis] |
-|10| March 19 and 20 | [Intro to Bayesian Statistics 1] |
-|11| March 26 and 27 | [Intro to Bayesian Statistics 2] |
-|12| April 3 | [Meta-Analysis] |
-
-* I will be absent on the first week of courses. Over the first few weeks, we will schedule three hours that work for everyone to make up for the missing class time. **Our first in-class lecture will be Jan 15**
+|1| January 8 and 9  | Introduction, and the Philosophy of Statistics |
+|2| January 15 and 16 | Data Exploration |
+|3| January 22 and 23  | Simple Linear Regression  |
+|4| January 29 and 30 | Multiple Linear Regression | 
+|5| February 5 and 6 | Model Selection |
+|6| February 12 and 13 | Generalized Linear Models: Part 1|
+|X| February 18-22 | *Winter semester break* |
+|7| February 26 and 27 | Generalized Linear Models: Part 2 |
+|8| March 5 and 6 | Mixed Models |
+|9| March 12 and 13 | Generalized Linear Mixed Models |
+|10| March 20 and 21 | Generalized Linear Mixed Models: Part 2 |
+|11| March 26 and 27 | Brief Intro to Power Analysis, and Baysian Stats |
+|12| April 2 and 3 | Meta-Analysis |
 
 # Assignments and Grading
 
 10% of your course grade is earned by participation. Just show up, be yourself, and participate!
 
-The remainder will be earned by completing assignments. These fall into three categories:
+The remainder will be earned by completing assignments. These fall into two categories:
 
-- Presentation on a special topic (20%)
-- Major assignment (50%)
-- Minor assignments (20%)
+- Major assignment (60%)
+- Minor assignments (30%)

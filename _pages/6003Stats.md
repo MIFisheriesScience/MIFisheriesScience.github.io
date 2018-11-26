@@ -5,12 +5,10 @@ permalink: /courses/6003Stats/
 author_profile: false
 ---
 
-**Note: This course will be offered again in Winter 2019. Schedule TBD. All information below reflects the Winter 2018 offering**
-
 Our class meets twice per week:
 
-* Mondays, 0900 to 0950, Room W2041
-* Tuesdays, 0900 to 1050, Room W1003
+* Tuesdays, 0900 to 0950, Room W3033/35
+* Wednesdays, 0900 to 1050, Room W3033/35
 
 ## Course documents 
 
@@ -22,20 +20,18 @@ Our class meets twice per week:
 
 | **Week**  | **Dates**  | **Theme**  | 
 |-----------|------------|-------------|
-| 1*       |  *January  8 and 9*   | [Introduction, and the Philosophy of Statistics](/courses/6003Stats/6003Week1/)|
+|1| January 8 and 9  | [Introduction, and the Philosophy of Statistics](/courses/6003Stats/6003Week1/)|
 |2| January 15 and 16 | [Data Exploration](/courses/6003Stats/6003Week2/) |
 |3| January 22 and 23  | [Simple Linear Regression](/courses/6003Stats/6003Week3/)  |
 |4| January 29 and 30 | [Multiple Linear Regression](/courses/6003Stats/6003Week4/) | 
 |5| February 5 and 6 | [Model Selection](/courses/6003Stats/6003Week5/) |
 |6| February 12 and 13 | [Generalized Linear Models: Part 1](/courses/6003Stats/6003Week6/)|
-|X| February 19-23 | [*Winter semester break*] |
+|X| February 18-22 | [*Winter semester break*] |
 |7| February 26 and 27 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) |
 |8| March 5 and 6 | [Mixed Models](/courses/6003Stats/6003Week8/) |
 |9| March 12 and 13 | [Generalized Linear Mixed Models](/courses/6003Stats/6003Week9/) |
-|10| March 20 | [Generalized Linear Mixed Models: Part 2](/courses/6003Stats/6003Week9/) |
+|10| March 20 and 21 | [Generalized Linear Mixed Models: Part 2](/courses/6003Stats/6003Week9/) |
 |11| March 26 and 27 | [Brief Intro to Power Analysis, and Baysian Stats](/courses/6003Stats/6003Week11/) |
-|12| April 3 | [Meta-Analysis](/courses/6003Stats/6003Week12/) |
+|12| April 2 and 3 | [Meta-Analysis](/courses/6003Stats/6003Week12/) |
 
-* I will be absent on the first week of courses. Over the first few weeks, we will schedule three hours that work for everyone to make up for the missing class time. **Our first in-class lecture will be Jan 15**
-
-Please note that, as this is the first offering of FISH 6003, the content - and order of content delivery - is subject to change. 
+Please note that, as this is only the second offering of FISH 6003, the content - and order of content delivery - is subject to change. 
