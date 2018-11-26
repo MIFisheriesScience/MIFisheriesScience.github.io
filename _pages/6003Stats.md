@@ -12,8 +12,8 @@ Our class meets twice per week:
 
 ## Course documents 
 
-- [Course syllabus - HTML](/courses/6003Stats/6003Syllabus/) and [PDF](/assets/images/FISH_6003_Syllabus.pdf)
-- [Assignment guide - HTML](/courses/6003Stats/6003Assignmentguide/) and [PDF](/assets/images/FISH_6003_Assignment_guide.pdf)
+- [Course syllabus - HTML](/courses/6003Stats/6003Syllabus/)
+- [Assignment guide - HTML](/courses/6003Stats/6003Assignmentguide/) 
 - [Class code of conduct - HTML](/courses/coursesCodeofConduct/) and [PDF](/assets/images/FISHCodeofConduct.pdf)
 
 ## Course Content
