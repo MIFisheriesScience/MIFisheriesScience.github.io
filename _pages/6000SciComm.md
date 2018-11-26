@@ -18,7 +18,7 @@ Our class meets once per week: Mondays 9 AM to 12 PM in W3018A.
 
 These slides are designed to be viewed on a computer - **not printed.** They contain hyperlinks to relevant content.
 
-Dates below are accurate, but I will be updating slides week to week
+Dates below are accurate, but I will be updating slides week to week.
 
 Note that all slideshows below represent Fall 2017 content. The rightmost column indicates if I have updated them for Fall 2018. I anticipate making small tweaks to each lecture as the semester goes on - please follow along with the most up to date version.
 
@@ -35,4 +35,4 @@ Note that all slideshows below represent Fall 2017 content. The rightmost column
 |9| November 5, 2017 | [Practicing Safe Science Communication + Popular Writing](/courses/6000SciComm/6000Week9) | Y |
 |10| **Fri** November 16, 2017 | [Popular Communication](/courses/6000SciComm/6000Week10) | Y |
 |11| November 19, 2017 | [Talking About Your Work](/courses/6000SciComm/6000Week11) | Y | 
-|12| November 26, 2017 | [Recap and Wrap-Up](/courses/6000SciComm/6000Week12) |
+|12| November 26, 2017 | [Recap and Wrap-Up](/courses/6000SciComm/6000Week12) | Y |
