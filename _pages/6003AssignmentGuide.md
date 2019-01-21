@@ -149,26 +149,26 @@ The data are from Derek Ogle's fishR website: http://derekogle.com/fishR/data/da
 
 Imagine you have been given this dataset and you are asked: **To what extent can you predict the maturity stage of Yelloweye Rockfish from their age and length?**
 
-![https://wdfw.wa.gov/fishing/bottomfish/identification/graphics/yelloweye_02_with_notes.jpg]
-
 Please download this R Project: 
 - [6003_MinorAssignment1.zip](/assets/images/6003/6003_MinorAssignment1.zip)
 
 Complete the following steps:
-	- Open the file LASTNAME_MinorAssignment1.rmd
-	- This document will provide you a template to do your data exploration, and includes code for relevant plots at each step
-	- Complete the document, including explanations for your interpretation of the plots at each step
-	- Render your Markdown document as an HTML file (replace LASTNAME with your actual last name)
-	- Submit ONLY THE HTML FILE your OneDrive folder
+
+- Open the file LASTNAME_MinorAssignment1.rmd
+- This document will provide you a template to do your data exploration, and includes code for relevant plots at each step
+- Complete the document, including explanations for your interpretation of the plots at each step
+- Render your Markdown document as an HTML file (replace LASTNAME with your actual last name)
+- Submit ONLY THE HTML FILE your OneDrive folder
 
 ### Rubric and Grading
 
 Assignment value:
 
 3 marks for each step of the data exploration (8 steps total)
-/1 All relevant variables are assessed at that step
-/1 Appropriate plots are used
-/1 Description of findings is defensible
+
+/1 All relevant variables are assessed at that step 
+/1 Appropriate plots are used 
+/1 Description of findings is defensible 
 
 Total: /24, **scaled to 10% of course grade**
 
