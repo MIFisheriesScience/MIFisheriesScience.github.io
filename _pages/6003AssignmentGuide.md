@@ -166,9 +166,9 @@ Assignment value:
 
 3 marks for each step of the data exploration (8 steps total)
 
-/1 All relevant variables are assessed at that step 
-/1 Appropriate plots are used 
-/1 Description of findings is defensible 
+/1 All relevant variables are assessed at that step  
+/1 Appropriate plots are used  
+/1 Description of findings is defensible  
 
 Total: /24, **scaled to 10% of course grade**
 
