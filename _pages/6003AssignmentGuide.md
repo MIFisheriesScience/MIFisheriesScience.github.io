@@ -176,6 +176,41 @@ Total: /24, **scaled to 10% of course grade**
 
 Please submit your completed HTML file to your OneDrive folder by **Jan 30**
 
+# Minor Assignment 2
+
+### Describe a model from a published study
+
+The purpose here is to make sure you’ve followed everything up until Week 6’s lecture content. The primary objectives of this assignment are:
+-	To practice reading a study and accurately reporting what it was that they actually tested, and how they tested it
+-	To demonstrate understanding of different types of data
+-	To correctly identify the three components of a GLM
+-	To think critically about the things being measured
+
+Please read: Lovely CM, O’Connor NJ, Judge ML. 2015. Abundance of non-native crabs in intertidal habitats of New England with natural and artificial structure. PeerJ 3:e1246 https://doi.org/10.7717/peerj.1246
+
+Answer the following questions **for experiment 1 only**
+
+1.	Define the hypothesis in words. /4
+2.	Describe Y. Is it a count, proportion, etc? /2
+- How was it measured? /1
+3.	Identify all covariates. What types of data are they (e.g. count, continuous, proportion, binomial, other?) /4
+4.	Sketch the study design, indicating any dependency structure. /4
+-	Note the number of replicates within each treatment group. /2
+5.	Brainstorm: What sources of uncertainty might there be in the measurements of each covariate, and Y? (At least one per variable) /5
+6.	Define each of three parts of the GLM:
+- Write the equation for the predictor function*. /10
+- What distribution defines Y? /4
+- What is the link function? /4
+
+Total /40, scaled to 10% of course grade
+
+-	You may work on this in groups, but please submit individually
+-	Please be brief in your responses to each question above
+-	[Here is a template you can use to complete this assignment.]((/assets/images/6003/LASTNAME_Minor2.zip)
+
+### Due date
+
+Please submit your completed Word Doc file to your OneDrive folder by **Feb 26**
 
 # OTHER Minor Assignments
 ** STAND BY: THIS SECTION INCOMPLETE **
