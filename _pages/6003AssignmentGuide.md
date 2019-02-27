@@ -97,8 +97,13 @@ While it is not a requirement, I encourage you to use R Markdown for this assign
 
 Specifying your intended statistical model:
 
-* Model is identified and explained: /3
-* Your choice is defended using literature: /3
+* Model is identified and explained: /6
+
+Model specification should include:
+
+* The distribution of the response variable (e.g. Normal, Poisson, etc) /1
+* The link function /1 
+* The predictor function /4
 
 Total: /36
 
