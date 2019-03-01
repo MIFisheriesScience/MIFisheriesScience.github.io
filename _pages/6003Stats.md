@@ -27,11 +27,11 @@ Our class meets twice per week:
 |5| February 5 and 6 | [Model Selection](/courses/6003Stats/6003Week5/) | Y |
 |6| February 12 and 13 | [Generalized Linear Models: Part 1](/courses/6003Stats/6003Week6/)| Y |
 |X| February 18-22 | [*Winter semester break*] | NA |
-|7| February 26 and 27 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) | N |
-|8| March 5 and 6 | [Mixed Models](/courses/6003Stats/6003Week8/) | N |
+|7| February 26 and 27 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) | Y |
+|8| March 5 and 6 | [Mixed Models](/courses/6003Stats/6003Week8/) | Y |
 |9| March 12 and 13 | [Generalized Linear Mixed Models](/courses/6003Stats/6003Week9/) | N |
 |10| March 19 and 20* | [Generalized Linear Mixed Models: Part 2](/courses/6003Stats/6003Week9/) | N |
-|11| March 26 and 27 | [Brief Intro to Power Analysis, and Baysian Stats](/courses/6003Stats/6003Week11/) | N |
+|11| March 26 and 27 | [Brief Intro to Power Analysis, and Bayesian Stats](/courses/6003Stats/6003Week11/) | N |
 |12| April 2 and 3 | [Meta-Analysis](/courses/6003Stats/6003Week12/) | N |
 
 * On March 20, we will have a **Guest lecture** on spatial statistics by Julek Chawarski. GLMMs part 2 will be spread between weeks 10 and 11.
