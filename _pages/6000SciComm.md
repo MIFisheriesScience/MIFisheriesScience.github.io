@@ -8,7 +8,7 @@ author_profile: false
 Our class meets once per week: Mondays 9 AM to 12 PM in W3018A.
 
 ## Course documents 
-*Updated for Fall 2018*
+*Not yet updated for Fall 2019*
 - [Course syllabus - HTML](/courses/6000SciComm/6000Syllabus/) and [PDF](/assets/images/FISH_6000_Syllabus.pdf)
 - [Assignment guide - HTML](/courses/6000SciComm/FISH6000Assignmentguide/) 
 - [Graphical assignment summary - PDF](/assets/images/GraphicalSummary.pdf)
@@ -20,19 +20,19 @@ These slides are designed to be viewed on a computer - **not printed.** They con
 
 Dates below are accurate, but I will be updating slides week to week.
 
-Note that all slideshows below represent Fall 2017 content. The rightmost column indicates if I have updated them for Fall 2018. I anticipate making small tweaks to each lecture as the semester goes on - please follow along with the most up to date version.
+The rightmost column indicates if I have updated the lecture for that week. I anticipate making small tweaks to each lecture as the semester goes on - please follow along with the most up to date version.
 
 | **Week**  | **Date** | **Theme**  | **Updated?** |
 |-----------|------------|-------------|---|
-|1| September 10, 2018 | [The Production of Knowledge](/courses/6000SciComm/FISH6000Week1/) | Y |
-|2| September 17, 2018 | [The Science Publishing Ecosystem](/courses/6000SciComm/6000Week2/) | Y |
-|3| September 24, 2018 | [Proposals](/courses/6000SciComm/6000Week3/) | Y |
-|4| October 1, 2018 | [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week4/) | Y | 
-|5| **Thurs** October 4, 2018 | [Anatomy of a Science Paper Part 2](/courses/6000SciComm/6000Week5/) | Y |
-|6| October 15, 2018 | [Oral Presentations](/courses/6000SciComm/6000Week6) | Y | 
-|7| October 22, 2018 | [Posters](/courses/6000SciComm/6000Week7) | Y |
-|8| October 29, 2018 |  [Presentation Week](/courses/6000SciComm/6000Week8) | Y |
-|9| November 5, 2017 | [Practicing Safe Science Communication + Popular Writing](/courses/6000SciComm/6000Week9) | Y |
-|10| **Fri** November 16, 2017 | [Popular Communication](/courses/6000SciComm/6000Week10) | Y |
-|11| November 19, 2017 | [Talking About Your Work](/courses/6000SciComm/6000Week11) | Y | 
-|12| November 26, 2017 | [Recap and Wrap-Up](/courses/6000SciComm/6000Week12) | Y |
+|1| September 9, 2019 | [The Production of Knowledge](/courses/6000SciComm/FISH6000Week1/) | N |
+|2| September 16, 2019 | [The Science Publishing Ecosystem](/courses/6000SciComm/6000Week2/) | N |
+|3| September 23, 2019 | [Proposals](/courses/6000SciComm/6000Week3/) | N |
+|4| September 30, 2019 | [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week4/) | N | 
+|5| October 7, 2019 | [Anatomy of a Science Paper Part 2](/courses/6000SciComm/6000Week5/) | N |
+|6| **Wed** October 16, 2019 | [Oral Presentations](/courses/6000SciComm/6000Week6) | N | 
+|7| October 21, 2019 | [Posters](/courses/6000SciComm/6000Week7) | N |
+|8| October 28, 2019 |  [Presentation Week](/courses/6000SciComm/6000Week8) | N |
+|9| November 4, 2019 | [Practicing Safe Science Communication + Popular Writing](/courses/6000SciComm/6000Week9) | N |
+|10| **Fri** November 15, 2019 | [Popular Communication](/courses/6000SciComm/6000Week10) | N |
+|11| November 18, 2019 | [Talking About Your Work](/courses/6000SciComm/6000Week11) | N | 
+|12| November 25, 2019 | [Recap and Wrap-Up](/courses/6000SciComm/6000Week12) | N |
