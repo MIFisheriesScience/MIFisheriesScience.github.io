@@ -10,7 +10,6 @@ author_profile: false
 - **Course Manager**: [Dr. Brett Favaro](http://about.me/brettfavaro)
 - **Classroom:** W3018A (Unless otherwise specified by instructor)
 - **Times:** T: 12:00-14:00, W:09:00-11:00
-- **Office Hours:** Thursday 0900-1200, W2009
 
 # Course Description
 
@@ -56,9 +55,8 @@ E-mail is not a primary tool for communication in this class. If you have questi
 
 1. Check the syllabus and assignment guides
 2. Ask in class, or discuss with colleagues
-3. Ask on Slack (this way, everyone can benefit from an answer)
-4. Request a meeting with the module instructor
-5. Request a meeting with the course manager
+3. Request a meeting with the module instructor
+4. Request a meeting with the course manager
 
 If emailing a meeting request, use the subject line "FISH 6001: Meeting request" Please indicate three potential meeting times and explain in 1-3 lines what you want to meet about. 
 
@@ -70,20 +68,6 @@ So please, don't miss class!
 
 ## Academic Honesty
 This course is governed by MUN's [regulations on academic misconduct](http://www.mun.ca/regoff/calendar/sectionNo=REGS-0748).
-
-# Course Schedule
-
-| Date | Instructor | Topic |
-|------------------------------|---------------------|----------------------------------|
-| Sept 11, 12, 18, 19  | Dr. Paul Winger | Fish harvesting technology |
-| Sept 25, 26 Oct 2,3 | Dr. Scott Grant | Fisheries management |
-| Tues Oct 9*, Oct 16, 17 | Dr. Arnault Le Bris | Population dynamics |
-| Oct 23, 24, 30, 31 | Dr. Jonathan Fisher | The Northwest Atlantic ecosystem |
-| Nov 6, 7, 13, 14 | Dr. Deepika Dave | Post-harvest | 
-| Nov 20, 21, 27, 28 | Dr. Sherrylynn Rowe | Fisheries assessment |
-| Dec 4, 5 | Final Presentations  |
-
-* For this week only, class will take place between 13:00 and 16:00 in a room TBA, due to schedule impacts from Thanksgiving and the OFI conference.
 
 # Assignments and Grading
 
