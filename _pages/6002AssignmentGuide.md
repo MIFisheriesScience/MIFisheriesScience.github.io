@@ -42,7 +42,7 @@ This dataset should contain at least **500 unique values** and **5 variables** (
 - R Project folder established correctly /5
 - Raw data: /5
 
-Due: End of Week 5.
+Due: End of Week 4.
 
 ## Part 2: Manipulation
 
@@ -74,7 +74,7 @@ Part 2 has two deliverables:
   * commenting (i.e. operations are explained) /5
  - Everything organized into R Project /2
 
-Due: End of Week 9.
+Due: End of Week 8.
 
 ## Part 3: Display
 
@@ -107,7 +107,7 @@ These plots should be formatted for publication - at least 300 DPI, in PNG or TI
   
 ### Total Value: 60% of course grade
 
-Due: End of Week 11.
+Due: End of Week 12.
 
 # Minor Assignments
 
