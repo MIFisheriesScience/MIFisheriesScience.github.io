@@ -9,8 +9,8 @@ author_profile: false
 
 - **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
 - **Classroom:** W3033/35
-- **Times:** Mondays 1500-1700, Tuesdays 0900-1000
-- **Office Hours:** Thursday 0900-1200, W2009
+- **Times:** Mondays 1500-1600, Tuesdays 0900-1100
+- **Meeting times:** Thursday 0900-1200, W2009
 
 Modern fisheries scientists work in a complex data environment. This course will introduce students to the basics of R statistical software - including programming best-practices, optimizing workflows, and producing tidy data. A focus on data display and visualization will be present throughout this course, reflecting the importance of good graphing habits in science.
 
@@ -33,7 +33,7 @@ Students will also develop the following specific competencies:
 * Understand metadata, archiving, and how to build an efficient project workflow
 * Able to create and implement a data management plan
 * Understand how to manipulate data and prepare it for analysis
-  + Focus: *dplyr*
+  + Focus: *tidyverse*
 * Understand the difference between open, community-supported software, and conventional licensed software
 * Able to produce reproducible, well-documented R code
 * Understand the concept of open data
@@ -42,11 +42,7 @@ Students will also develop the following specific competencies:
 
 * Able to communicate data visually, selecting the appropriate figure to represent data
 * Familiarity with both R base plots and the ggplot2 ecosystem
-* Demonstrated ability to produce effective graphs for:
-    + Scientific posters
-    + Scientific publications
-    + Powerpoint-based talks
-* Ability to produce figures that meet journal standards for publication
+* Ability to produce effective figures that meet journal standards for publication
 
 ### Workflow and security
 
@@ -112,10 +108,9 @@ E-mail is not a primary tool for communication in this class. If you have questi
 
 1. Check the syllabus
 2. Ask in class, or discuss with colleagues
-3. Ask on Slack (this way, everyone can benefit from an answer)
-4. Request a meeting with me 
+3. Request a meeting with me 
 
-If emailing me a meeting request, use the subject line "FISH 6002: Meeting request." Please indicate three potential meeting times (I prefer afternoon meetings) and explain in 1-3 lines what you want to meet about. 
+If emailing me a meeting request, use the subject line "FISH 6002: Meeting request." Please explain in 1-3 lines what you want to meet about. My preferred meeting window is between 9 AM and 12 PM on Thursdays. 
 
 E-mail is impersonal, burdeonsome, and adds to confusion. 
 
