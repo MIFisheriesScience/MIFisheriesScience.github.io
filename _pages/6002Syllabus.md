@@ -8,7 +8,7 @@ author_profile: false
 # Data Collection, Management, and Display
 
 - **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
-- **Classroom:** W3033/35
+- **Classroom:** W3018A
 - **Times:** Mondays 1500-1600, Tuesdays 0900-1100
 - **Meeting times:** Thursday 0900-1200, W2009
 
