@@ -20,20 +20,23 @@ Welcome to graduate school! It has been said that grad school is where you trans
         - Managing fisheries is managing people - achieving this requires engagement
         - The public pays for our work and they should get to hear about it
         - Scientific literacy - if scientists don't speak, who will?
-* Introduction to reference management (with emphasis on Mendeley)
+* Introduction to reference management (with emphasis on Zotero)
 
 ### In-class Activities
 
 * Round-table introductions
-* Introduction to the [MI Fisheries Slack](https://mifish.slack.com/) (https://mifish.slack.com/)
 * Becoming Discoverable: Set up a [Google Scholar](https://scholar.google.ca/) profile and [ORCID](http://orcid.org/) (https://scholar.google.ca/ and http://orcid.org/)
 * Download and install [Zotero](https://www.zotero.org/download/) 
+* Begin Individual Development Plan
 
 ### Resources
-I strongly recommend (but stop short of requiring) that you purchase copies of the two course reference books:
+
+I strongly recommend (but stop short of requiring) that you purchase copies of the course reference books:
 
 Heard, Stephen B (2016). *The Scientist’s Guide to Writing: How to Write More Easily and Effectively Throughout Your Scientific Career*. Princeton, New Jersey: Princeton University Press, p. 255. ISBN:
 9780691170220.
+
+#### Other recommended resources
 
 Olson, Randy (2015). *Houston, We Have a Narrative: Why Science Needs Story*. Chicago: The University of Chicago Press, p. 256. ISBN: 9780226270845.
 
@@ -45,21 +48,16 @@ Here are some excellent videos to get you started with Zotero: https://www.youtu
 
 ## Details
 
-### Activity 1: Joining the MI Slack
-I have set up a [Slack](https://mifish.slack.com/) for the SOF grad program. I will send invitations to all registered students to add themselves to this. There will be a private channel for each course in the program (data, fishlectures, and scicomm) as well as a #general, #jobs, and #papers group. Slack is a communication tool so that students can easily contact each other, collaborate, etc. 
-
-In this activity, explain Slack, its relationship to email, and the purpose of each channel. (15 min)
-
-### Activity 2: Introduction Activity
+### Introduction Activity
 Students pair up with someone they don't know. In pairs:
 
 - Student A: Introduces student B (< 1 min): Name, supervisor, where they did undergrad (and M.Sc) degrees.
-- Student B: Introduces themsleves (< 3 min): Origin story: How did you get INTO research? 
+- Student B: Introduces themsleves (< 3 min): How did you get INTO research? And a random fact!
 (and vice versa)
 
 (5 min prep, 10 min per pair)
 
-### Activity 3: Google Scholar, ORCID, and Zotero
+### Google Scholar, ORCID, and Zotero
 Students will be introduced to each of the above products and will be encouraged to register for them.
 
 # Lecture Slides

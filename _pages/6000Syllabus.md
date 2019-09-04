@@ -69,8 +69,7 @@ E-mail is not a primary tool for communication in this class. If you have questi
 
 1. Check the syllabus
 2. Ask in class, or discuss with colleagues
-3. Ask on Slack (this way, everyone can benefit from an answer)
-4. Request a meeting with me 
+3. Request a meeting with me 
 
 If emailing me a meeting request, use the subject line "FISH 6000: Meeting request." Please indicate three potential meeting times (I prefer afternoon meetings) and explain in 1-3 lines what you want to meet about. 
 
@@ -88,8 +87,8 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 
 # Course Schedule
 ##  Week 1: The Production of Knowledge
-##  Week 2: The Science Publishing Ecosystem
-##  Week 3: Proposals 
+##  Week 2: Proposals 
+##  Week 3: The Science Publishing Ecosystem
 ##  Week 4: Anatomy of a Science Paper (Part 1) 
 ##  Week 5: Anatomy of a Science Paper (Part 2)
 ##  Week 6: Oral Presentations
@@ -112,7 +111,7 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 Assignment | Start in   | Due in   | Value
 ---------- | ---------- | -------- | --------
 Journal    |  Week 3    | Week 12  | 10%
-Proposal   |  Week 3    | Week 4   | 10%
+Proposal   |  Week 2    | Week 4   | 10%
 3 Minute Thesis       |  Week 6    | Week 8   | 15%
 Poster     |  Week 7    | Week 8   | 5%
 Popular Article   |  Week 9    | Week 11   | 15%
