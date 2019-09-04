@@ -14,19 +14,19 @@ author_profile: false
 
 Assignment | Start in   | Due in   | Value
 ---------- | ---------- | -------- | --------
-Journal    |  Week 3    | Week 12  | 10%
-Proposal   |  Week 3    | Week 4   | 15%
-3 Minute Thesis  |  Week 7    | Week 9   | 15%
+Goal journal    |  Week 4    | Week 12  | 10%
+Proposal   |  Week 2    | Week 4   | 15%
+3 Minute Thesis  |  Week 6    | Week 8   | 15%
 Poster     |  Week 7    | Week 8   | 10%
 Popular Article   |  Week 9    | Week 11   | 15%
 Podcast   |  Week 10    | Week 12   | 15%
 
 This document outlines the details and grading criteria for each assignment.
 
-# Writing Journal
+# Goal-setting Journal
 There are 104 weeks in an M.Sc program, and 208 weeks in a Ph.D. Time disappears quickly when you start doing research, and getting done on time means making progress each and every week. And staying motivated means rewarding yourself for the progress you make.
 
-In **Week 4** you will begin a *writing journal*, which you'll complete during meetings with your *writing team*. Every week, you will meet with your team (i.e. 2-3 fellow students) and discuss three things:
+In **Week 4** you will begin a *goal-setting journal*, which you'll complete during meetings with your *goal-setting team*. Every week, you will meet with your team (i.e. 2-3 fellow students) and discuss three things:
 
 1. What were your goals from last week?
 2. Did you achieve those goals? Why or why not?
@@ -53,7 +53,7 @@ Most research starts with a proposal, and graduate school is no different. In th
 
 By default, you will follow the format required by NSERC postgraduate scholarships. For M.Sc students, [follow the M.Sc instructions](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp). For Ph.D students, please [follow the Ph.D instructions](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp). 
 
-If you are not a Canadian citizen, or already received an NSERC scholarship, I encourage you to find a small project grant or alternative scholarship and write a proposal for that. Whichever fund you apply for, it should require a proposal of a minimum of one page - although if there is a relevant fund that requires a shorter proposal, it could be 
+If you are not a Canadian citizen, or already received an NSERC scholarship, I encourage you to find a small project grant or alternative scholarship and write a proposal for that. Whichever fund you apply for, it should require a proposal of a minimum of one page - although if there is a relevant fund that requires a shorter proposal, it could be considered.
 
 ## Deliverable:
 
@@ -92,7 +92,8 @@ Scientists talk - a lot. But it's important to be able to speak concisely, and i
 You will prepare a three minute proposal talk (analogous to the [3MT competitions](http://www.cags.ca/3mt.php) held around the world). 
 
 The rules are as follows:
-	- The talk can be no more than three minutes. At 3:01 you will be asked to stop
+
+	- The talk can be no more than three minutes. Severe grading penalties will ensue above 3 minutes. A clock will be visible during your talk.
 	- It should clearly outline your proposed research program
 	- You should include at least one figure, expressing your expected results in graphical format. This is not expected to be real data 
 
@@ -124,9 +125,7 @@ You may use a template provided as the basis for your poster, or you may design 
 
 A complete scientific poster, which will be displayed via projector in class. You will present the poster, outlining the design you chose and why.
 
-The presentation will occur in two steps. First, you will have up to three minutes to explain your proposed research. The audience will have the opportunity to ask 1-2 questions. 
-
-Second, you will have up to three minutes to discuss why you designed the poster the way you did. What were you hoping to achieve? What trade-offs did you 
+We will pretend to be at a science conference, with you standing by your poster. You will have up to three minutes to explain your proposed research. The audience will have the opportunity to ask 1-2 questions. 
 
 ## Timeline
 
@@ -138,7 +137,7 @@ Value: 10% of course grade
 ## Grading scheme:
 * Aesthetics: Poster follows design principles outlined in class (large text, few words, etc.) /5
 * Scientific content: Poster clearly communicates the proposed research /5
-* Presentation of poster - design trade-offs explained, student self-assesses poster well /5
+* Presentation of poster /5
 
 # Popular Article
 Your research in fisheries likely affects a great many people, most of whom will never read a scientific article. In this assignment, we will practice writing for mainstream audiences - communicating science in a way that is digestible by a non-expert on the topic.
