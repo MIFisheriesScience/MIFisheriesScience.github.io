@@ -170,21 +170,21 @@ Value: 15% of course grade
 
 **NOTE:** If you can get your finished article accepted for publication (not counting Wikipedia), I will give you 100% on this assignment. 
 
-# Podcast
-In this assignment, you will produce a one-minute voice-only summary of your thesis research. Much like the popular writing assignment, you need to communicate what you're trying to do, what you think you may find, and why it matters. But this time, you have only your voice to do it.
+# Radio Intro
+In this assignment, you will produce an radio introduction. Much like the popular writing assignment, you need to communicate what you're trying to do, what you think you may find, and why it matters. But this time, you have only your voice to do it.
 
-As with other assignments, you will start by writing a draft script in class and read it to colleagues for feedback. The following week, you will read a revised version to them and collect further feedback. Between the 11th and 12th week, you will perform your one minute podcast and record it, for playback in week 12.
+As with other assignments, you will start by writing a draft script in class and read it to colleagues for feedback. The following week, you will perform a revised version to them and collect further feedback. Between the 11th and 12th week, we will record your intro on a professional microphone, simulating a studio environment, and will play it in class in week 12.
 
-The entire class will listen to the podcasts in week 12. After your podcast plays, you will lead a very short Q&A, recounting what you felt worked and what didn't work in producing the podcast. 
+The entire class will listen to the podcasts in week 12. 
 
 ## Deliverables:
-A recording of a one-minute podcast, and a student-lead discussion reflecting on the podcast.
+A recording of a one-minute radio intro, and a student-lead discussion reflecting on the podcast.
 
 ## Timeline
 1. Initial draft is written, performed to colleagues, and feedback collected (**Week 10**)
 2. Revised draft performed to colleagues, feedback collected (**Week 11**)
-3. Between **Week 11** and **Week 12**: Record final podcast
-3. Present and discuss podcast (**Week 12**)
+3. Between **Week 11** and **Week 12**: Record final intro
+3. Present intro in-class (**Week 12**)
 
 Value: 15% of course grade
 
@@ -192,6 +192,6 @@ Value: 15% of course grade
   * Podcast is less than 1 minute in length /3
   * Student maintains appropriate speaking speed, speaks clearly /5
   * Effective communication of scientific content /5
-  * Student leads an effective and self-reflective discussion /2
+
 
 

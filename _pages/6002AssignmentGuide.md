@@ -24,15 +24,17 @@ Your task is to take data from a published source, document it thoroughly, organ
 
 Select a science paper related to fisheries (if you need inspiration, select one from https://sites.google.com/a/uw.edu/most-cited-fisheries/). DFO reports are acceptable as well, and they often contain data tables directly in the paper. Pick wisely - this paper is going to be the basis for the duration of your major assignment.
 
-Your *first task* is to obtain the core data from this paper. It is up to you to figure out how to do this. You may contact the author directly, you may use a program like GraphClick or DataThief to pull data from figures, or you may find a paper that drew from a specific database such that you could recreate the database query the authors used to produce their paper. This assignment has two deliverables:
+OR you may bring your own dataset to the paper. 
 
-1. Produce a one to two-page summary indicating where the data came from, the volume of data collected, and how you obtained it. Describe what the data include (time period covered, subject, geographical range, etc.). Describe any restrictions on use. This should be comprehensive enough that your summary gives enough information to understand the dataset.
+Your *first task* is to obtain the core data from this paper. It is up to you to figure out how to do this. You may contact the author directly, you may use a program like GraphClick or DataThief to pull data from figures, or you may find a paper that drew from a specific database such that you could recreate the database query the authors used to produce their paper. This assignment has three deliverables:
 
-2. Create an R Project folder, as instructed in class. 
+1. Create an R Project folder, as instructed in class. 
+
+2. Produce a metadata file, indicating where the data came from, the volume of data collected, and how you obtained it. Describe what the data include (time period covered, subject, geographical range, etc.). Describe any restrictions on use. This should be comprehensive enough that your summary gives enough information to understand the dataset.
 
 3. Collect raw data files in CSV format representing the entire dataset, and put them in the correct subfolder within your R project. They need not be tidy, just complete.
 
-This dataset should contain at least **500 unique values** and **5 variables** (i.e. be too big to easily manipulate manually, thus requiring computer code to do so effectively).
+This dataset should contain at least **500 unique values** and **5 variables** (i.e. be too big to easily manipulate manually, thus requiring computer code to do so effectively). Try not to select a dataset that is too big or too small.
 
 **Value: 15%**
 
