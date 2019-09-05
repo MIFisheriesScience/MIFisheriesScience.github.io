@@ -68,13 +68,14 @@ Part 2 has two deliverables:
 
 *Grading:*
 
-- CSV files
-  * long format /4
-  * wide format /4
-- R code 
-  * comprehensiveness (i.e. operations conducted in R) /5
-  * commenting (i.e. operations are explained) /5
- - Everything organized into R Project /2
+- R code /18
+  * Inputs data from a .csv into R
+  * Conducts error detection and cleanup
+  * Applies at least three manipulation operations (e.g. mutate, join, count)
+  * Organizes data into long format and exports as .csv
+  * Organizes data into wide format and exports as .csv
+  
+- Organized R project, with correct files outputted /2
 
 Due: End of Week 8.
 
