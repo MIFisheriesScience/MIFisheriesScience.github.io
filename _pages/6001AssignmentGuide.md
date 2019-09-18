@@ -37,7 +37,7 @@ In your seminar, you will describe this fishery to your instructors and classmat
 1. Give an introduction to this fishery. 
   * Where is it? What is its geographical extent?
   * What are the target species? What is caught as bycatch?
-  * Is it commercial, recreational, or an indigenous Food, Social, or Ceremonial fishery? Is there a combination used?
+  * Is it commercial, recreational, or an Indigenous Food, Social, or Ceremonial fishery? Is there a combination used?
   
 2. Fish harvesting technology
   * What are the primary gears used in the fishery?
@@ -60,7 +60,7 @@ In your seminar, you will describe this fishery to your instructors and classmat
   * What is and is not working with management of this fishery?
     
 6. Post-harvest
-  * How is the catch handled, processed and stored? Which products forms?
+  * How is the catch handled, processed and stored? 
   * Describe types of processing and handling waste
   * Illustrate biorefinery concept for processing discards
 
