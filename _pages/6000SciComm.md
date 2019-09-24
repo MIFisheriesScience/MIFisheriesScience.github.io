@@ -26,7 +26,7 @@ The rightmost column indicates if I have updated the lecture for that week. I an
 |1| September 9, 2019 | [The Production of Knowledge](/courses/6000SciComm/FISH6000Week1/) | Y |
 |2| September 16, 2019 | [Proposals](/courses/6000SciComm/6000Week2/) | Y |
 |3| September 23, 2019 | [The Science Publishing Ecosystem](/courses/6000SciComm/6000Week3/) | Y |
-|4| September 30, 2019 | [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week4/) | N | 
+|4| September 30, 2019 | [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week4/) | Y | 
 |5| October 7, 2019 | [Anatomy of a Science Paper Part 2](/courses/6000SciComm/6000Week5/) | N |
 |6| **Wed** October 16, 2019 | [Oral Presentations](/courses/6000SciComm/6000Week6) | N | 
 |7| October 21, 2019 | [Posters](/courses/6000SciComm/6000Week7) | N |
