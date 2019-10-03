@@ -129,14 +129,15 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 ##  Week 2: Introduction to R
 ##  Week 3: Markdown and RStudio workflow
 ##  Week 4: Intro to Tidy Data
-##  Week 5: Visual Display of Data 1
-##  Week 6: Visual Display of Data 2
-##  Week 7: Working with Messy Data
-##  Week 8: Collecting and Managing Tidy Data
+##  Week 5: Working with Messy Data
+##  Week 6: Collecting and Managing Tidy Data
+##  Week 7: Visual Display of Data 1
+##  Week 8: Visual Display of Data 2
 ##  Week 9: Visual Display of Data 3
 ##  Week 10: Figures for Science Communication
 ##  Week 11: Maps
 ##  Week 12: Interactive Plots
+
 
 # Assignments and Grading
 
