@@ -14,7 +14,7 @@ author_profile: false
 
 Assignment | Start in   | Due in   | Value
 ---------- | ---------- | -------- | --------
-Goal journal    |  Week 4    | Week 12  | 10%
+Goal journal    |  Week 5    | Week 12  | 10%
 Proposal   |  Week 2    | Week 4   | 15%
 3 Minute Thesis  |  Week 6    | Week 8   | 15%
 Poster     |  Week 7    | Week 8   | 10%
@@ -26,13 +26,13 @@ This document outlines the details and grading criteria for each assignment.
 # Goal-setting Journal
 There are 104 weeks in an M.Sc program, and 208 weeks in a Ph.D. Time disappears quickly when you start doing research, and getting done on time means making progress each and every week. And staying motivated means rewarding yourself for the progress you make.
 
-In **Week 4** you will begin a *goal-setting journal*, which you'll complete during meetings with your *goal-setting team*. Every week, you will meet with your team (i.e. 2-3 fellow students) and discuss three things:
+In **Week 5** you will begin a *goal-setting journal*, which you'll complete during meetings with your *goal-setting team*. Every week, you will meet with your team (i.e. 2-3 fellow students) and discuss three things:
 
 1. What were your goals from last week?
 2. Did you achieve those goals? Why or why not?
 3. What are your goals for the coming week?
 
-This sounds scary, but is designed to help you establish good work habits early in your graduate program, and maintain them throughout. 
+If you wish, you are welcome to use the [**goal setting template available here**](/assets/images/FISH_6000_Goalsetting_template.docx).
 
 ## Deliverable:
 Using whatever medium you want (Word doc, .txt file, notebook, napkins, stone tablet) write down your answers to the above questions each week. Make SMART goals (Specific, Measurable, Attainable, Realistic, Time-based). You will submit the full journal in week 12, and will be given grades for completing the exercise. 
