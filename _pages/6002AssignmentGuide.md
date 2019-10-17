@@ -48,36 +48,45 @@ Due: End of Week 4.
 
 ## Part 2: Manipulation
 
-Your *second task* is to tidy the data you have collected. Organize the data into a coherent spreadsheet that is ready for analysis in R. Produce CSV files containing both the long and wide-format data. Do all manipulations in R, and share your code.
+Your second task is to tidy the data you have collected. Organize the data into a coherent spreadsheet that is ready for analysis in R. Produce CSV files containing both the long and wide-format data. Do all manipulations in R, and share your code.
 
 Note that this will require pulling data into R, manipulating it, and then outputting it as new CSV files - all things we will talk about in class.
 
 Part 2 has two deliverables:
 
-1. Two CSV files - one long-format and one wide-format, containing the data you collected from Part 1. These data should meet the criteria of being 'tidy data'
-
+1. Two CSV files - one long-format and one wide-format, containing the data you collected from Part 1. The long format data should be 'tidy,' while the wide format data should be as tidy as possible while still being wide format.
 2. R code, fully commented, that shows how you conducted your manipulations. I want to see evidence of:
 
-  - Error detection and cleanup
-  - At least three dplyr operations (e.g. mutate, join, count)
-  - Manipulation of data into long and wide formats
-  
-  Even if your data are very clean, you need to demonstrate to me how you checked for that and verified it to be the case.
+* Error detection and cleanup
+* At least three dplyr operators used (e.g. mutate, join)
+* Manipulation of data into long and wide formats
+
+If the data you collected in part 1 are already tidy, I still want to see evidence of error checking, and I still want to see manipulations. Some manipulations you may make, as examples:
+
+* Calculating derived quantities from your data (e.g. make a new column that is a ratio of two other variables)
+* Converting data types, or renaming variables
+
+### How I want this submitted:
+
+Please upload a single .zip file containing your R project. 
+There should be an /analysis subfolder that contains your R script that accomplishes the objectives of part 2. 
+There should be a /data folder that contains your data from part 1. 
+There should be another folder (could be /outputs, /tidydata, or something equally descriptive) that contains the CSV files that your script will create)
 
 **Value: 20%**
 
 *Grading:*
 
-- R code /18
+R code /18
   * Inputs data from a .csv into R
   * Conducts error detection and cleanup
   * Applies at least three manipulation operations (e.g. mutate, join, count)
   * Organizes data into long format and exports as .csv
   * Organizes data into wide format and exports as .csv
   
-- Organized R project, with correct files outputted /2
+Organized R project, with correct files outputted /2
 
-Due: End of Week 8.
+Due: End of Week **9**.
 
 ## Part 3: Display
 
