@@ -29,7 +29,7 @@ The rightmost column indicates if I have updated the lecture for that week. I an
 |4| September 30, 2019 | [Anatomy of a Science Paper Part 1](/courses/6000SciComm/6000Week4/) | Y | 
 |5| October 7, 2019 | [Anatomy of a Science Paper Part 2](/courses/6000SciComm/6000Week5/) | Y |
 |6| **Wed** October 16, 2019 | [Oral Presentations](/courses/6000SciComm/6000Week6) | Y | 
-|7| October 21, 2019 | [Posters](/courses/6000SciComm/6000Week7) | N |
+|7| October 21, 2019 | [Posters](/courses/6000SciComm/6000Week7) | Y |
 |8| October 28, 2019 |  [Presentation Week](/courses/6000SciComm/6000Week8) | N |
 |9| November 4, 2019 | [Practicing Safe Science Communication + Popular Writing](/courses/6000SciComm/6000Week9) | N |
 |10| **Fri** November 15, 2019 | [Popular Communication](/courses/6000SciComm/6000Week10) | N |
