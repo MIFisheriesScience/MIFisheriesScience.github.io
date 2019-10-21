@@ -86,6 +86,8 @@ Wickham, Hadley and Garrett Grolemund (2017). R for data science: visualize, mod
 
 Xie, Yihui (2018). Bookdown: Authoring books and technical documents with R Markdown. https://bookdown.org/yihui/bookdown/ 
 
+For those who prefer artwork, Allison Horst's stats illustrations are great: https://github.com/allisonhorst/stats-illustrations
+
 # Course Policies 
 
 ## Social Media
