@@ -31,7 +31,7 @@ The rightmost column indicates if I have updated the lecture for that week. I an
 |6| **Wed** October 16, 2019 | [Oral Presentations](/courses/6000SciComm/6000Week6) | Y | 
 |7| October 21, 2019 | [Posters](/courses/6000SciComm/6000Week7) | Y |
 |8| October 28, 2019 |  [Presentation Week](/courses/6000SciComm/6000Week8) | Y |
-|9| November 4, 2019 | [Practicing Safe Science Communication + Popular Writing](/courses/6000SciComm/6000Week9) | N |
+|9| November 4, 2019 | [Practicing Safe Science Communication + Popular Writing](/courses/6000SciComm/6000Week9) | Y |
 |10| **Fri** November 15, 2019 | [Popular Communication](/courses/6000SciComm/6000Week10) | N |
 |11| November 18, 2019 | [Talking About Your Work](/courses/6000SciComm/6000Week11) | N | 
 |12| November 25, 2019 | [Recap and Wrap-Up](/courses/6000SciComm/6000Week12) | N |
