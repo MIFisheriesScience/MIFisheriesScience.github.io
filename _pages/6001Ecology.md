@@ -29,6 +29,6 @@ Note while this course is *organized* by [Dr. Brett Favaro](http://about.me/bret
 | Sept 24, 25, Oct 1,2 | Dr. Scott Grant | Fisheries management |
 | Oct 8, 9, **Thurs** Oct 17 | Dr. Arnault Le Bris | Population dynamics |
 | Oct 22, 23, 29, 30 | Dr. Jonathan Fisher | The Northwest Atlantic ecosystem |
-| Nov 5, 6, 12, 13 | Dr. Deepika Dave | Post-harvest | 
-| Nov 19, 20, 26, 27 | Dr. Sherrylynn Rowe | Fisheries assessment |
+| Nov 12, 13, 19 | Dr. Sherrylynn Rowe | Fisheries assessment |
+| Nov 20, 26, 27 | Dr. Deepika Dave | Post-harvest | 
 | Tues, Dec 3, in SOF Seminar Room | Final Presentations  |
