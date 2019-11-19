@@ -90,36 +90,50 @@ Due: End of Week **9**.
 
 ## Part 3: Display
 
-Your *third task* is to use R to produce three figures and one table that summarize the data that you have collected visually. You may use ggplot, base plot, or any other R mechanism to do so, but you should try to make the graphs as informative and beautiful as possible. We will talk at length in class about how to make figures clean, readable, and informative, and you will be assessed on that basis. However, I encourage creativity here, and would like you to challenge yourself to make truly beautiful data visualizations.
+Your *third task* is to use R to produce three figures that visually summarize the data that you have collected. Each plot should be effective, efficient, and publication-quality.
 
-Part 3 has four deliverables:
+You may use ggplot, base plot, or any other R mechanism to do so, but you should try to make the graphs as informative and beautiful as possible. 
 
-1. At least three graphs that summarize key aspects of your dataset. You may recreate (and improve upon) figures already in the paper, or start from scratch. You may produce a single multipanel plot with three figures if you think it would be more effective than doing them separately. **You must use at least three different graphing elements, e.g. boxplots, dots, violin plots, lines, etc.)**
+We will talk at length in class about how to make figures clean, readable, and informative, and you will be assessed on that basis. However, I encourage creativity here, and would like you to challenge yourself to make truly beautiful data visualizations.
 
-These plots should be formatted for publication - at least 300 DPI, in PNG or TIFF format, following Figure prepration directions from [Plos One](http://journals.plos.org/plosone/s/figures). 
+Part 3 has two deliverables:
 
-2. At least one data table, formatted according to [Plos One](http://journals.plos.org/plosone/s/tables) requirements, that summarizes something from the dataset
+1. Three graphs that summarize key aspects of your dataset. You may recreate (and improve upon) figures already in the paper whose data you borrowed, or start from scratch. You may produce a single multipanel plot with three figures if you think it would be more effective than doing them separately. **You must use at least three different graphing elements, e.g. boxplots, dots, violin plots, lines, etc.)**
 
-3. R code, fully commented, that shows how you produced your table and figures
+These plots should be formatted for publication - at least 300 DPI, in TIFF format, following Figure prepration directions from [Plos One](http://journals.plos.org/plosone/s/figures). 
+
+2. A single Word document that includes descriptive and comprehensive figure captions for each figure. 
+
+### How I want this submitted:
+
+Please submit one TIFF file for each plot. Normally, three TIFF files will be submitted - but if you have made a complex multipanel figure (e.g. that contains two different plots) then fewer TIFF files may be submitted.
+
+The TIFF file should employ LZW compression. 
+
+Filenames should be: 
+
+* LASTNAME_Figure1.TIFF
+* LASTNAME_Figure2.TIFF
+* LASTNAME_Figure3.TIFF
+* LASTNAME_Captions.docx
+
+Multipanel plots should be labelled A, B, C, D, etc.
+
+### Grading
 
 **Value: 25%**
 
-*Grading:*
+For each plot: 
+  * Figure caption /5
+  * Aesthetic appeal /5
+  * Publication quality /5
+  * Effectiveness /5
 
-- For each graph: 
-  * Effectiveness /3 
-  * Aesthetic appeal, including high DPI output /2 
-- Data table:
-  * Effectiveness /2
-  * Data table formatted for publication /2
-- R code 
-  * Comprehensiveness (i.e. operations conducted in R) /2
-  * Commenting (i.e. operations are explained) /2
-- R Project: Everything organized into correct R Project subfolders: /2
-  
-### Total Value: 60% of course grade
+Detailed rubric visible on Teams.
 
-Due: End of Week 12.
+### Total Major Assignment value: 60% of course grade
+
+Due: Before start of business day, Dec 9.
 
 # Minor Assignments
 
