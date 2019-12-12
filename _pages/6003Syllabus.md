@@ -8,26 +8,26 @@ author_profile: false
 # Statistics and Study Design for Fisheries
 
 - **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
-- **Times:** Tuesdays, 0900 to 0950, Wednesdays, 0900 to 10:50, Room W3033/35
+- **Times:** Tuesdays, 0900 to 0950, Wednesdays, 0900 to 10:50, Room W1003
 - **Office Hours:** Thursday 0900-1200, W2009 (by appointment)
 
 # Official Course Description
 
 Deriving trends from data is a key aspect of fisheries science. In this course, students learn the fundamentals of data exploration, study design, and statistical modelling. 
 
-The course will be taught from a user perspective - while theory will be covered as needed, emphasis will be placed on when, where, and how to use these models.
+The course will be taught from an applied perspective - while theory will be covered as needed, emphasis will be placed on when, where, and how to use these models.
 
 # Learning Outcomes
 
 The fundmental competencies that you will develop in this course are:
 * Able to design a statistically powerful study
 * Able to define, build, and run an appropriate model for a dataset, using R Statistical Software
-* Understand regression-type analysis ranging from simple (single linear regression) to complex (generalized linear mixed effects models) and how to apply them
+* Understand regression-type analysis ranging from simple linear regression to more complex generalized linear mixed effects models, and how to apply them
 * Understand and be able to use model selection approaches
 * Use power analysis to determine the size of study needed
 * Be able to apply the technique of meta-analysis to measure weight of evidence on a given topic
 
-We will focus extensively on regression-type models due to their ubiquity in the life sciences, and their ability to be applied to many relevant situations within fisheries. 
+We will focus extensively on regression-type models due to their ubiquity in the life sciences, and their ability to be applied to many relevant situations within fisheries. Our goal is to develop a statistical mindset, and understand how to make smart decisions during design and analysis. 
 
 # Expectations and Aspirations
 
@@ -42,6 +42,7 @@ It is expected that you are an intermediate-level R user. Normally, students enr
 * 	Importing and Exporting data 
 *	Tidy data, including using tidyverse packages to clean and shape data for analysis
 *	Plotting (in both ggplot and base plot)
+* 	Basic familiarity with R Markdown
 
 # Course Structure
 
@@ -84,8 +85,8 @@ Meta-analysis:
 
 ## Useful textbooks
 
-* [Koricheva, J., Gurevitch, J., and Mengersen, K. (2013). Handbook of meta-analysis in ecology and evolution. Princeton University Press, 520 pp.](https://press.princeton.edu/titles/10045.html)
 * [Zuur, A., Ieno, E.N., Walker, N., Saveliev, A.A., and Smith, G.M. (2009). Mixed effects models and extensions in ecology with R. Springer, 574 pp.](http://www.springer.com/gp/book/9780387874579)
+* [Koricheva, J., Gurevitch, J., and Mengersen, K. (2013). Handbook of meta-analysis in ecology and evolution. Princeton University Press, 520 pp.](https://press.princeton.edu/titles/10045.html)
 
 # Course Policies 
 
@@ -107,12 +108,17 @@ E-mail is not a primary tool for communication in this class. If you have questi
 
 1. Check the syllabus
 2. Ask in class, or discuss with colleagues
-3. Ask on Slack (this way, everyone can benefit from an answer)
+3. Ask on Microsoft Teams (this way, everyone can benefit from an answer)
 4. Request a meeting with me (normally, to be held during office hours)
 
 If emailing me a meeting request, use the subject line "FISH 6003: Meeting request." Please indicate three potential meeting times (Start with my office hours. Only if those don't work, propose alternatives) and explain in 1-3 lines what you want to meet about. 
 
 E-mail is impersonal, burdeonsome, and adds to confusion, so let's minimize it. 
+
+## Microsoft Teams
+Microsoft Teams is a collaboration suite that we will use in this class. We will use it for submission of all assignments, and I will give feedback through this platform. 
+
+All Marine Institute students have access to this by default. Students not enrolled at MI will coordinate with the instructor to get temporary Teams access.
 
 ## Class Participation
 There will be a LOT going on in this class. Most assignments are designed to be completed mostly in-class time. The class is highly collaborative, meaning you need to be present to do it. 
@@ -126,27 +132,24 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 
 # Course Schedule
 
-| **Week**  | **Dates**  | **Theme**  | 
+| **Week**  | **Dates**  | **Theme**  |  
 |-----------|------------|-------------|
-|1| January 8 and 9  | Introduction, and the Philosophy of Statistics |
-|2| January 15 and 16 | Data Exploration |
-|3| January 22 and 23  | Simple Linear Regression  |
-|4| January 29 and 30 | Multiple Linear Regression | 
-|5| February 5 and 6 | Model Selection |
-|6| February 12 and 13 | Generalized Linear Models: Part 1|
-|X| February 18-22 | *Winter semester break* |
-|7| February 26 and 27 | Generalized Linear Models: Part 2 |
-|8| March 5 and 6 | Mixed Models |
-|9| March 12 and 13 | Generalized Linear Mixed Models |
-|10| March 20 and 21 | Generalized Linear Mixed Models: Part 2 |
-|11| March 26 and 27 | Brief Intro to Power Analysis, and Baysian Stats |
-|12| April 2 and 3 | Meta-Analysis |
+|1| January 7 and 8  | [Introduction, and the Philosophy of Statistics](/courses/6003Stats/6003Week1/) 
+|2| January 14 and 15 | [Data Exploration](/courses/6003Stats/6003Week2/) 
+|3| January 21 and 22  | [Simple Linear Regression](/courses/6003Stats/6003Week3/) 
+|4| January 28 and 29 | [Multiple Linear Regression](/courses/6003Stats/6003Week4/)
+|5| February 4 and 5 | [Model Selection](/courses/6003Stats/6003Week5/) 
+|6| February 11 and 12 | [Generalized Linear Models: Part 1](/courses/6003Stats/6003Week6/)
+|X| February 17 - 21 | [*Winter semester break*] 
+|7| February 25 and 26 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) 
+|8| March 3 and 4 | [Mixed Models](/courses/6003Stats/6003Week8/) 
+|9| March 10 and 11 | [Generalized Linear Mixed Models](/courses/6003Stats/6003Week9/)
+|10| March 17 and 18 | [Generalized Linear Mixed Models: Part 2](/courses/6003Stats/6003Week9/) 
+|11| March 24 and 25 | [Brief Intro to Power Analysis, and Bayesian Stats](/courses/6003Stats/6003Week11/) 
+|12| March 31 and April 1 | [Meta-Analysis](/courses/6003Stats/6003Week12/) 
 
 # Assignments and Grading
 
-10% of your course grade is earned by participation. Just show up, be yourself, and participate!
-
-The remainder will be earned by completing assignments. These fall into two categories:
-
 - Major assignment (60%)
 - Minor assignments (30%)
+- Participation in in-class activities and assignments (10%)

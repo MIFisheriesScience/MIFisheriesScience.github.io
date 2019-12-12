@@ -5,9 +5,7 @@ permalink: /courses/6003Stats/6003Assignmentguide/
 author_profile: false
 ---
 
-** I am redesigning the grading scheme somewhat. The major assignment will proceed largely as described. Remainder TBD **
-
-10% of your course grade is earned by participation. Just show up, be yourself, and participate!
+10% of your course grade is earned by participation in in-class activities and assignments. 
 
 The remainder will be earned by completing assignments. These fall into three categories:
 
@@ -16,15 +14,11 @@ The remainder will be earned by completing assignments. These fall into three ca
 
 This document outlines the details and grading criteria for each assignment.
 
-**All assignments should be submitted via your assigned OneDrive folder. All feedback and grades will be returned via your OneDrive folder**
-
-## Submitting Assignments
-
-Memorial University uses OneDrive for file sharing. At the start of each semester, I will make a OneDrive folder for each student in the class. All assignments will be deposited into your personal OneDrive folder, and all assignment feedback will be returned the same way.
+**All assignments should be submitted via Teams. Specific directions for submission will be available on the Teams link**
 
 # Major Assignment
  
-In the Major Assignment, you will conduct a regression-type analysis on data that you obtain (i.e. what is the impact of X on Y?)
+In the Major Assignment, you will conduct a regression-type analysis on data that you obtain (i.e. what is the impact of covariates (i.e. things that go on X) on Y?)
 
 These data may be something that you have collected yourself for your research, from a public database, or as attached by another publication.
 
@@ -37,34 +31,44 @@ The goal of part 1 is to obtain and describe data. Key questions, which will be 
 - Where are the data from?
 - What are the data? (i.e. how many points? What are they measuring? How are they measured?)
 - If you got the data from someone else, are there any constraints around using them?
-- What are **three key research questions** you will ask of these data? In other words: *What are your biological hypotheses* that you will be testing?
+- What are **three key research questions** you might ask of these data? In other words: *What are your biological hypotheses* that you may test?
 
 The purpose of this section is to determine whether the data you obtained will be sufficient for the major project. 
 
-*In addition* you will, at this stage, create an R Project for your major assignment, with appropriate sub-folders. The above document should be inserted in a /Part1 subfolder. Details to be provided in-class.
+In addition, I want you to get in the habit of working in Rprojects. While this is not an R course, and I will not be grading your code, I WILL be asking you to complete assignments in Markdown.
 
-**The actual data file should be included at this stage as well.**
+Hence, in Part 1, I would also like you to set up an R Project folder that you will use for the rest of the semester. I have [produced a template you can download](/assets/images/LASTNAME_6003_Major.zip).
+
+Your deliverable in Part 1 is:
+
+* A zip file, containing a properly laid-out R project with appropriate subfolders
+* Within the /data subfolder, a copy of your CSV file containing the raw data to be used in this project
+* The answers to the above questions should be contained in the DESCRIPTION.TXT file in the root project folder
 
 ### Timeline and Submission
 
-**Part 1 is due by the end of week 4**
+**Part 1 is due by the end of week 4**. Submit via Teams.
 
 ### Grading
 
-* Accurately describes the data source: /2
-* Accurately describes the data itself (number of points, what they are measuring, etc.): /2
-* Three research questions, answerable by these data, are stated: /4
-* R Project folder is correctly created and organized: /2
+The following pieces will be assessed (Rubric contained on Teams)
+
+* Accurately describes the data source
+* Accurately describes the data itself (number of points, what they are measuring, etc.)
+* Three research questions, answerable by these data, are stated
+* R Project folder is correctly created and organized
 
 While these are essentially completion marks, the instructor may require at this state that more or different data be incorporated into your project. 
 
 If the dataset is too limited it can be challenging to produce an interesting project. Further, if the data are too complex, it may represent a challenge that is beyond the scope of this course.
 
+**The more relevant the data are to your thesis, the more satisfying this project will be to your development as a scientist.**
+
 ## Part 2: Data Exploration
 
 In Part 2, you will conduct a data exploration, following a slightly modified version of the procedure explained in [Zuur et al. 2009](http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2009.00001.x/full). You should report the results of each step. These steps include:
 
-A. Re-stating the biological hypotheses (in case they changed from Part 1)
+A. State, in words, the biological hypothesis you intend to test. List the covariates and response being investigated.
 B. Visualize the experimental design, **with a diagram**
 C. Conducting the data exploration:
 	1. Outliers Y and X
@@ -75,37 +79,26 @@ C. Conducting the data exploration:
 	6. Relationships Y and X
 	7. Interactions
 	8. Independence of Y
-D. Specify the statistical model that you intend to use, and why.
-
+	
 ### Timeline and Submission
 
 **Part 2 is due by the end of week 8** 
 
-The deliverables for Part 2 should be organized as follows:
+The deliverable for Part 2 is a rendered markdown document, as a PDF or HTML file. **In addition** you must submit an file visualizing your study design. I recommend Powerpoint for this.
 
-* A properly-organized R project folder with separate subfolders for analysis code, data, output, etc.
-* A document that includes everything, including plots and relevant R output. You should both show the direct output from R, and interpret it in your own words
-* A separate .R script that includes all necessary code to conduct the data exploration
+If you are unfamiliar with Markdown: [https://mifisheriesscience.github.io/courses/6002Data/6002Week3/](https://mifisheriesscience.github.io/courses/6002Data/6002Week3/)
 
-While it is not a requirement, I encourage you to use R Markdown for this assignment, so that diagnostic plots can be embedded directly with the text. See: [https://mifisheriesscience.github.io/courses/6002Data/6002Week3/](https://mifisheriesscience.github.io/courses/6002Data/6002Week3/)
+Note that I have enclosed a template in the /Part2 subfolder that will get you started.
 
 ### Grading
 
-* Biological hypotheses are clearly stated and sensible, given data: /3
-* Experimental design is **clearly visualized with a diagram**, including any nested structure: /3
-* Steps 1-8: /3 each. Note that many of these steps should include a plot. (1 mark for the plot, 2 for the explanation).
+Rubric contained on Teams. The following will be assessed: 
 
-Specifying your intended statistical model:
+* Biological hypothesis is clearly stated and sensible, given data
+* Experimental design is **clearly visualized with a diagram**, including any nested structure.
+* Steps 1-8 will each be assessed too. Note that many of these steps should include a plot. 
 
-* Model is identified and explained: /6
-
-Model specification should include:
-
-* The distribution of the response variable (e.g. Normal, Poisson, etc) /1
-* The link function /1 
-* The predictor function /4
-
-Total: /36
+The rendered Markdown file should, for each step, show your R code, the output, and your interpretation. 
 
 ## Part 3: Conducting and Reporting the Analysis
 
@@ -119,30 +112,19 @@ In Part 3, you will conduct a regression-type data anlaysis, following the repor
 6. Create a visual representation of the model
 7. Simulate from the model 
 
-Note that Part 3 comes immediately after Part 2. There is no need to re-do your data exploration in part 3, as it will already be completed in part 3. 
-
 ### Timeline and Submission
 
-**Part 3 is due by the end of week 12** and should be submitted by email to the instructor.
+**Part 3 is due by the end of week 12** 
 
-The deliverables for Part 3 should be organized as follows:
-* A properly-organized R project should be created that contains all data and scripts
-* A document that includes everything, including plots and relevant R output. You should both show the direct output from R, and interpret it in your own words
-* A separate .R script that includes all necessary code to conduct the data exploration
-
-It is recommended that you simply add to the project folder that you created for Part 2. Place everything into a zip file and submit to the instructor.
-
-While it is not a requirement, I encourage you to use R Markdown for this assignment, so that diagnostic plots can be embedded directly with the text. See: [https://mifisheriesscience.github.io/courses/6002Data/6002Week11/](https://mifisheriesscience.github.io/courses/6002Data/6002Week11/)
+The deliverable for Part 3 is a rendered markdown document, as a PDF or HTML file. 
 
 ### Grading
 
-Steps 1-7: 
+The rendered Markdown file should, for each step, show your R code, the output, and your interpretation. 
 
-* Each should include a chunk of R code, output, and intepretation. /5 for each step
+Rubric enclosed in Teams.
 
-Total: /35
-
-**Between parts 1, 2, and 3, the Major Assignment is worth a total of 81 marks, which correspond to 60% of the course grade.**
+**Between parts 1, 2, and 3, the Major Assignment is worth 60% of the course grade.**
 
 # Minor Assignment 1
 
@@ -163,7 +145,7 @@ Complete the following steps:
 - This document will provide you a template to do your data exploration, and includes code for relevant plots at each step
 - Complete the document, including explanations for your interpretation of the plots at each step
 - Render your Markdown document as an HTML file (replace LASTNAME with your actual last name)
-- Submit ONLY THE HTML FILE your OneDrive folder
+- Submit ONLY THE HTML FILE via Teams
 
 ### Rubric and Grading
 
@@ -176,10 +158,6 @@ Assignment value:
 /1 Description of findings is defensible  
 
 Total: /24, **scaled to 10% of course grade**
-
-### Due date
-
-Please submit your completed HTML file to your OneDrive folder by **Jan 30**
 
 # Minor Assignment 2
 
@@ -213,14 +191,9 @@ Total /40, scaled to 10% of course grade
 -	Please be brief in your responses to each question above
 -	[Here is a template you can use to complete this assignment.]((/assets/images/6003/LASTNAME_Minor2.zip)
 
-### Due date
-
-Please submit your completed Word Doc file to your OneDrive folder by **Feb 26**
-
 # Minor Assignment 3
 
 ### FundaGLMMentals
 
 In this activity, we will focus specifically on building fundamental understanding of GLMMs. I will hand out a worksheet in class and give in-class time to complete it. 
-
 
