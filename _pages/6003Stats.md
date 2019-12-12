@@ -10,8 +10,6 @@ Our class meets twice per week:
 * Tuesdays, 0900 to 0950, Room W1003
 * Wednesdays, 0900 to 1050, Room W1003
 
-**Please note I have not yet updated the syllabus or assignment guide for Winter 2020. The dates below, however, ARE updated**
-
 ## Course documents 
 
 - [Course syllabus - HTML](/courses/6003Stats/6003Syllabus/)

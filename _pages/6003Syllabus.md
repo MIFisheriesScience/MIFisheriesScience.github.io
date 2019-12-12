@@ -97,7 +97,7 @@ I will post relevant information using the Twitter hashtag #MIStats. You may use
 You have the right to expect a supportive, safe environment in this course. This course will be governed by my [Fisheries Science Code of Conduct](/courses/coursesCodeofConduct), which all participants are expected to respect.
 
 ## Digital Competency
-Students are expected to have basic computer competency. You should be able to operate Microsoft Word, Powerpoint, and Excel, or equivalent (e.g. [OpenOffice](https://www.openoffice.org/) or [Google Docs](https://docs.google.com/)). You should be able to download and install software onto your computer. Please install [R Statistical Software](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/) prior to begining the course. 
+Students are expected to have computer competency. You should be able to operate Microsoft Word, Powerpoint, and Excel, or equivalent (e.g. [OpenOffice](https://www.openoffice.org/) or [Google Docs](https://docs.google.com/)). You should be able to download and install software onto your computer. Please install [R Statistical Software](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/) prior to begining the course. 
 
 If you lack these skills, please consult [training materials](https://www.microsoft.com/en-us/learning/training.aspx) on your own time. **Please bring a laptop to every class.**
 

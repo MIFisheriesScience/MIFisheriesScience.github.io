@@ -47,7 +47,7 @@ Your deliverable in Part 1 is:
 
 ### Timeline and Submission
 
-**Part 1 is due by the end of week 4**. Submit via Teams.
+**Part 1 is due by end of week 4**. Submit via Teams.
 
 ### Grading
 
