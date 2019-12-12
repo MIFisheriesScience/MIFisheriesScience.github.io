@@ -26,7 +26,7 @@ Essentially, the major assignment is to do all the basic groundwork that would n
  
 ## Part 1: Obtaining and Describing Data
 
-The goal of part 1 is to obtain and describe data. Key questions, which will be answered in two pages or less (single-spaced, 12-point Times New Roman):
+The goal of part 1 is to obtain and describe data. Key questions:
 
 - Where are the data from?
 - What are the data? (i.e. how many points? What are they measuring? How are they measured?)
@@ -71,14 +71,14 @@ In Part 2, you will conduct a data exploration, following a slightly modified ve
 A. State, in words, the biological hypothesis you intend to test. List the covariates and response being investigated.
 B. Visualize the experimental design, **with a diagram**
 C. Conducting the data exploration:
-	1. Outliers Y and X
-	2. Homogeneity Y
-	3. Normality Y
-	4. Zeroes Y
-	5. Collinearity X
-	6. Relationships Y and X
-	7. Interactions
-	8. Independence of Y
+1. Outliers Y and X
+2. Homogeneity Y
+3. Normality Y
+4. Zeroes Y
+5. Collinearity X
+6. Relationships Y and X
+7. Interactions
+8. Independence of Y
 	
 ### Timeline and Submission
 
