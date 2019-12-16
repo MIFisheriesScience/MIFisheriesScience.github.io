@@ -20,7 +20,7 @@ Our class meets twice per week:
 
 | **Week**  | **Dates**  | **Theme**  |  **Updated?**|
 |-----------|------------|-------------|---|
-|1| January 7 and 8  | [Introduction, and the Philosophy of Statistics](/courses/6003Stats/6003Week1/)| N |
+|1| January 7 and 8  | [Introduction, and the Philosophy of Statistics](/courses/6003Stats/6003Week1/)| Y |
 |2| January 14 and 15 | [Data Exploration](/courses/6003Stats/6003Week2/) | N |
 |3| January 21 and 22  | [Simple Linear Regression](/courses/6003Stats/6003Week3/)  | N |
 |4| January 28 and 29 | [Multiple Linear Regression](/courses/6003Stats/6003Week4/) |  N |

@@ -7,7 +7,7 @@ author_profile: false
 
 10% of your course grade is earned by participation in in-class activities and assignments. 
 
-The remainder will be earned by completing assignments. These fall into three categories:
+The remainder will be earned by completing assignments. These fall into two categories:
 
 - Major assignment (60%)
 - Minor assignments (30%)
@@ -196,4 +196,3 @@ Total /40, scaled to 10% of course grade
 ### FundaGLMMentals
 
 In this activity, we will focus specifically on building fundamental understanding of GLMMs. I will hand out a worksheet in class and give in-class time to complete it. 
-
