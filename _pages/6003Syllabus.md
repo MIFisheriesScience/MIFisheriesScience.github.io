@@ -9,7 +9,7 @@ author_profile: false
 
 - **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
 - **Times:** Tuesdays, 0900 to 0950, Wednesdays, 0900 to 10:50, Room W1003
-- **Office Hours:** Thursday 0900-1200, W2009 (by appointment)
+- **Office Hours:** Wednesday 1100 to 1400, W2009 (by appointment)
 
 # Official Course Description
 
