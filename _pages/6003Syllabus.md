@@ -132,21 +132,21 @@ This course is governed by MUN's [regulations on academic misconduct](http://www
 
 # Course Schedule
 
-| **Week**  | **Dates**  | **Theme**  |  
+| **Chapter**  | **Dates**  | **Theme**  |
 |-----------|------------|-------------|
-|1| January 7 and 8  | [Introduction, and the Philosophy of Statistics](/courses/6003Stats/6003Week1/) 
-|2| January 14 and 15 | [Data Exploration](/courses/6003Stats/6003Week2/) 
-|3| January 21 and 22  | [Simple Linear Regression](/courses/6003Stats/6003Week3/) 
-|4| January 28 and 29 | [Multiple Linear Regression](/courses/6003Stats/6003Week4/)
-|5| February 4 and 5 | [Model Selection](/courses/6003Stats/6003Week5/) 
-|6| February 11 and 12 | [Generalized Linear Models: Part 1](/courses/6003Stats/6003Week6/)
-|X| February 17 - 21 | [*Winter semester break*] 
-|7| February 25 and 26 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) 
-|8| March 3 and 4 | [Mixed Models](/courses/6003Stats/6003Week8/) 
-|9| March 10 and 11 | [Generalized Linear Mixed Models](/courses/6003Stats/6003Week9/)
-|10| March 17 and 18 | [Generalized Linear Mixed Models: Part 2](/courses/6003Stats/6003Week9/) 
-|11| March 24 and 25 | [Brief Intro to Power Analysis, and Bayesian Stats](/courses/6003Stats/6003Week11/) 
-|12| March 31 and April 1 | [Meta-Analysis](/courses/6003Stats/6003Week12/) 
+|1| January 7 and 8  | [Introduction, and the Philosophy of Statistics](/courses/6003Stats/6003Week1/)| 
+|2| January 14, 15, 28, 29 | [Data Exploration](/courses/6003Stats/6003Week2/) | 
+|3| February 4 and 5   | [Simple Linear Regression](/courses/6003Stats/6003Week3/)  | 
+|4| February 11 and 12 | [Multiple Linear Regression](/courses/6003Stats/6003Week4/) |  
+|X| February 17 - 21 | [*Winter semester break*] | 
+|5| February 25 and 26 | [Model Selection](/courses/6003Stats/6003Week5/) | 
+|6| March 3 and 4 | [Generalized Linear Models: Part 1](/courses/6003Stats/6003Week6/)| 
+|7| March 10 and 11 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) | 
+|8| March 17 and 18 | [Mixed Models](/courses/6003Stats/6003Week8/) | 
+|9| March 24 and 25 | [Generalized Linear Mixed Models](/courses/6003Stats/6003Week9/) | 
+|10| March 31 and April 1  | [Generalized Linear Mixed Models: Part 2](/courses/6003Stats/6003Week9/) | 
+|11| April 7 and 8 | [Meta-Analysis](/courses/6003Stats/6003Week12/) | 
+|12| April 7 and 8 | [Brief Intro to Power Analysis, and Bayesian Stats](/courses/6003Stats/6003Week11/) | 
 
 # Assignments and Grading
 
