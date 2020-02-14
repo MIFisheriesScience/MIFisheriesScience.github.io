@@ -64,4 +64,4 @@ Students will be introduced to each of the above products and will be encouraged
 
 <script async class="speakerdeck-embed" data-id="5fb8a22c684b4fbe8f34b02c84f0f2a5" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-Slides available via [speakerdeck](https://speakerdeck.com/pandalusplatyceros/fish-6000-week-1-the-production-of-knowledge)
+Slides available via [speakerdeck](https://speakerdeck.com/mi_fish_sci/fish-6000-week-1-the-production-of-knowledge)
