@@ -189,7 +189,7 @@ Total /40, scaled to 10% of course grade
 
 -	You may work on this in groups, but please submit individually
 -	Please be brief in your responses to each question above
--	[Here is a template you can use to complete this assignment.]((/assets/images/6003/LASTNAME_Minor2.zip)
+-	[Here is a template you can use to complete this assignment.](/assets/images/6003/LASTNAME_Minor2.zip)
 
 # Minor Assignment 3
 
