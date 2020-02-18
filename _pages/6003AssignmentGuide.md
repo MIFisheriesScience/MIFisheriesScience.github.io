@@ -173,23 +173,25 @@ Please read: Lovely CM, O’Connor NJ, Judge ML. 2015. Abundance of non-native c
 
 Answer the following questions **for experiment 1 only**
 
-1.	Define the hypothesis in words. /4
-2.	Describe Y. Is it a count, proportion, etc? /2
-- How was it measured? /1
-3.	Identify all covariates. What types of data are they (e.g. count, continuous, proportion, binomial, other?) /4
-4.	Sketch the study design, indicating any dependency structure. /4
--	Note the number of replicates within each treatment group. /2
-5.	Brainstorm: What sources of uncertainty might there be in the measurements of each covariate, and Y? (At least one per variable) /5
+1.	Define the hypothesis in words. 
+2.	Describe Y. Is it a count, proportion, etc? 
+- How was it measured? 
+3.	Identify all covariates. What types of data are they (e.g. count, continuous, proportion, binomial, other?) 
+4.	Sketch the study design, indicating any dependency structure. 
+-	Note the number of replicates within each treatment group. 
+5.	Brainstorm: What sources of uncertainty might there be in the measurements of each covariate, and Y? (At least one per variable) 
 6.	Define each of three parts of the GLM:
-- Write the equation for the predictor function*. /10
-- What distribution defines Y? /4
-- What is the link function? /4
+- Write the equation for the predictor function. 
+- What distribution defines Y? 
+- What is the link function? 
+
+**NOTE: You may exclude "Week" which would be a random effect, as we have not covered this yet**
 
 Total /40, scaled to 10% of course grade
 
 -	You may work on this in groups, but please submit individually
 -	Please be brief in your responses to each question above
--	[Here is a template you can use to complete this assignment.](/assets/images/6003/LASTNAME_Minor2.zip)
+-	[Here is a template you can use to complete this assignment.](/assets/images/6003/6003_Minor2.zip)
 
 # Minor Assignment 3
 
