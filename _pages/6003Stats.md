@@ -26,7 +26,7 @@ Our class meets twice per week:
 |4| February 11 and 12 | [Multiple Linear Regression](/courses/6003Stats/6003Week4/) | Y |
 |X| February 17 - 21 | [*Winter semester break*] | NA |
 |5| February 25 and 26 | [Model Selection](/courses/6003Stats/6003Week5/) | Y |
-|6| March 3 and 4 | [Generalized Linear Models: Part 1](/courses/6003Stats/6003Week6/)| N |
+|6| March 3 and 4 | [Generalized Linear Models: Part 1](/courses/6003Stats/6003Week6/)| Y |
 |7| March 10 and 11 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) | N |
 |8| March 17 and 18 | [Mixed Models](/courses/6003Stats/6003Week8/) | N |
 |9| March 24 and 25 | [Generalized Linear Mixed Models](/courses/6003Stats/6003Week9/) | N |
