@@ -187,7 +187,7 @@ Answer the following questions **for experiment 1 only**
 
 **NOTE: You may exclude "Week" which would be a random effect, as we have not covered this yet**
 
-Total /40, scaled to 10% of course grade
+Total 10% of course grade
 
 -	You may work on this in groups, but please submit individually
 -	Please be brief in your responses to each question above
