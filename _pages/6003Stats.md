@@ -29,7 +29,7 @@ Our class meets twice per week:
 |6| March 3 and 4 | [Generalized Linear Models: Part 1](/courses/6003Stats/6003Week6/)| Y |
 |X| March 10 | Minor Assignment 2 in-class workshop | NA |
 |7| March 11 | [Mixed Models](/courses/6003Stats/6003Week8/) | Y |
-|8| March 17 and 18 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) | N |
+|8| March 17 and 18 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) | Y |
 |9| March 24 and 25 | [Generalized Linear Mixed Models](/courses/6003Stats/6003Week9/) | N |
 |10| March 31 and April 1  | [Generalized Linear Mixed Models: Part 2](/courses/6003Stats/6003Week9/) | N |
 |11| April 7 and 8 | [Meta-Analysis](/courses/6003Stats/6003Week12/) | N |
