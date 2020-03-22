@@ -32,7 +32,7 @@ Our class meets twice per week:
 |8| March 17 and 18 | [Generalized Linear Models: Part 2](/courses/6003Stats/6003Week7/) | Y |
 |9| March 24 and 25 | [Generalized Linear Mixed Models](/courses/6003Stats/6003Week9/) | Y |
 |10| March 31 and April 1  | [Generalized Linear Mixed Models: Part 2](/courses/6003Stats/6003Week9/) | Y |
-|11| April 7 and 8 | [Meta-Analysis](/courses/6003Stats/6003Week12/) | N |
-|12| April 7 and 8 | [Brief Intro to Power Analysis, and Bayesian Stats](/courses/6003Stats/6003Week11/) | N |
+|11| April 7 and 8 | [Meta-Analysis](/courses/6003Stats/6003Week12/) | Y |
+|12| April 7 and 8 | [Brief Intro to Power Analysis, and Bayesian Stats](/courses/6003Stats/6003Week11/) | Y |
 
 Please note that, as this is only the third offering of FISH 6003, the content - and order of content delivery - is subject to change. 
