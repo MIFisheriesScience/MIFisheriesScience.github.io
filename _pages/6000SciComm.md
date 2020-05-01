@@ -21,6 +21,8 @@ Dates below are accurate, but I will be updating slides week to week.
 
 The rightmost column indicates if I have updated the lecture for that week. I anticipate making small tweaks to each lecture as the semester goes on - please follow along with the most up to date version.
 
+**All dates below are subject to revision, as they represent the dats in the fall 2019 offering**
+
 | **Week**  | **Date** | **Theme**  |
 |-----------|------------|-------------|
 |1| September 9, 2019 | [The Production of Knowledge](/courses/6000SciComm/FISH6000Week1/) |
