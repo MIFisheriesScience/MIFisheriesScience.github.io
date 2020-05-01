@@ -7,9 +7,9 @@ author_profile: false
 
 # Statistics and Study Design for Fisheries
 
-- **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
-- **Times:** Tuesdays, 0900 to 0950, Wednesdays, 0900 to 10:50, Room W1003
-- **Office Hours:** Wednesday 1100 to 1400, W2009 (by appointment)
+- **Instructor:** TBA
+- **Times:** TBA
+- **Office Hours:** TBA
 
 # Official Course Description
 
