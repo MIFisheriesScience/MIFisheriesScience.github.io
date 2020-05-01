@@ -7,10 +7,10 @@ author_profile: false
 
 # Data Collection, Management, and Display
 
-- **Instructor:** [Dr. Brett Favaro](http://about.me/brettfavaro)
-- **Classroom:** W3018A
-- **Times:** Mondays 1500-1600, Tuesdays 0900-1100
-- **Meeting times:** Thursday 0900-1200, W2009
+- **Instructor:** TBA
+- **Classroom:** TBA
+- **Times:** TBA
+- **Meeting times:** TBA
 
 Modern fisheries scientists work in a complex data environment. This course will introduce students to the basics of R statistical software - including programming best-practices, optimizing workflows, and producing tidy data. A focus on data display and visualization will be present throughout this course, reflecting the importance of good graphing habits in science.
 
