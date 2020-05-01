@@ -5,14 +5,8 @@ permalink: /courses/6001Ecology/
 author_profile: false
 ---
 
-This course meets twice per week:
+This course meets twice per week * Dates and times TBA *
 
-T: 12:00-14:00 
-W: 09:00-11:00 
-
-Classroom: W3018A
-
-(Unless otherwise specified by instructor)
 
 ## Course documents 
 
@@ -21,7 +15,7 @@ Classroom: W3018A
 
 # Course Schedule
 
-Note while this course is *organized* by [Dr. Brett Favaro](http://about.me/brettfavaro) it is delivered in two-week modules by other researchers, as outlined below.
+Note while this course is *organized* by the course manager it is delivered in two-week modules by other researchers, as outlined below.
 
 | Date | Instructor | Topic |
 |------------------------------|---------------------|----------------------------------|
